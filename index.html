@@ -104,6 +104,7 @@ function updatePuzzleMode(){
  document.getElementById("dateLabel").textContent=new Date(activeDateKey+"T12:00:00").toLocaleDateString(undefined,{weekday:"long",month:"long",day:"numeric",year:"numeric"})
 }
 async function loadArchive(){
+ archiveMonth=10;
  try{const response=await fetch("./archive.json");if(!response.ok)throw new Error("Archive unavailable");archiveData=await response.json();renderArchive()}
  catch(e){say("Archive could not be loaded. Please refresh and try again.")}
 }
