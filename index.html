@@ -102,6 +102,9 @@ header{z-index:2}
 }
 
 .date-top{text-transform:none;letter-spacing:.035em;font-size:13px;font-weight:600;color:#667a73;margin:20px auto 16px}@media(max-width:600px){.date-top{font-size:12px;margin:16px auto 13px}}
+/* Keep archive difficulty private: all dates share a neutral style */
+.archive-day.easy,.archive-day.medium,.archive-day.hard{background:#fff;border-color:var(--line);color:var(--ink)}
+.archive-day.easy:hover,.archive-day.medium:hover,.archive-day.hard:hover{background:#f0f3f1}
 </style>
 </head>
 <body>
@@ -117,7 +120,7 @@ header{z-index:2}
 </main>
 <div class="modal" id="helpModal"><div class="panel"><button class="close" data-close>×</button><h2>How to play</h2><p>Guess the hidden five-letter word in six tries.</p><div class="example"><span style="background:#6aaa64">W</span><span style="background:#858b98">O</span><span style="background:#858b98">R</span><span style="background:#858b98">D</span><span style="background:#858b98">S</span></div><p><b>Green</b> means the letter is in the word and in the correct spot.</p><div class="example"><span style="background:#858b98">P</span><span style="background:#c9a63b">L</span><span style="background:#858b98">A</span><span style="background:#858b98">N</span><span style="background:#858b98">T</span></div><p><b>Yellow</b> means the letter is in the word, but in a different spot. Grey means it is not in the word.</p><p>Use your keyboard or the on-screen keys. You get one puzzle per day.</p></div></div>
 <div class="modal" id="dictionaryModal"><div class="panel"><button class="close" data-close>×</button><h2>Dictionary tester</h2><p>Check whether a five-letter word is accepted. This test does not affect your daily puzzle or statistics.</p><form id="dictionaryForm" style="display:flex;gap:8px;margin-top:16px"><input id="dictionaryInput" type="text" maxlength="5" minlength="5" autocomplete="off" autocapitalize="characters" spellcheck="false" placeholder="ENTER WORD" aria-label="Five-letter word" style="min-width:0;flex:1;padding:12px;border:1px solid var(--line);border-radius:8px;font-size:18px;font-weight:750;letter-spacing:3px;text-transform:uppercase"><button type="submit" style="border:0;border-radius:8px;background:var(--accent);color:white;padding:0 16px;font-weight:700;cursor:pointer">Check</button></form><p id="dictionaryResult" role="status" aria-live="polite" style="min-height:24px;margin-top:14px"></p></div></div>
-<div class="modal" id="archiveModal"><div class="panel archive-panel"><button class="close" data-close>×</button><h2>Daily archive</h2><p>Play any past puzzle from January 1 to November 14, 2026. Archive games do not affect your daily statistics.</p><p style="font-weight:700;color:#42495c">318 puzzles · 95 Easy · 159 Medium · 64 Hard</p><div class="archive-nav"><button id="archivePrev" aria-label="Previous month">←</button><strong id="archiveMonth"></strong><button id="archiveNext" aria-label="Next month">→</button></div><div class="archive-weekdays"><span>Sun</span><span>Mon</span><span>Tue</span><span>Wed</span><span>Thu</span><span>Fri</span><span>Sat</span></div><div class="archive-calendar" id="archiveCalendar"></div><div class="archive-legend"><span><i class="legend-dot easy"></i> Easy</span><span><i class="legend-dot medium"></i> Medium</span><span><i class="legend-dot hard"></i> Hard</span><span>• Played</span></div></div></div>
+<div class="modal" id="archiveModal"><div class="panel archive-panel"><button class="close" data-close>×</button><h2>Daily archive</h2><p>Play any past puzzle from January 1 to November 14, 2026. Archive games do not affect your daily statistics.</p><p style="font-weight:700;color:#42495c">318 puzzles · 95 Easy · 159 Medium · 64 Hard</p><div class="archive-nav"><button id="archivePrev" aria-label="Previous month">←</button><strong id="archiveMonth"></strong><button id="archiveNext" aria-label="Next month">→</button></div><div class="archive-weekdays"><span>Sun</span><span>Mon</span><span>Tue</span><span>Wed</span><span>Thu</span><span>Fri</span><span>Sat</span></div><div class="archive-calendar" id="archiveCalendar"></div></div></div>
 <div class="modal" id="statsModal"><div class="panel"><button class="close" data-close>×</button><h2>Statistics</h2><div class="stats"><div><strong id="played">0</strong><small>Played</small></div><div><strong id="winPct">0</strong><small>Win %</small></div><div><strong id="streak">0</strong><small>Streak</small></div></div><p id="statsNote">Your results will appear here.</p></div></div>
 <script>
 const WORDS=["CRANE","PLANT","BRICK","SHARE","GHOST","FLAME","CLOUD","TRAIL","MONEY","GRAPE","NIGHT","MUSIC","STONE","BRAIN","QUIET","SHELF","PRIDE","WATER","ROAST","MANGO","BLINK","CROWN","DREAM","SCALE","FRESH","TIGER","HOUSE","TRAIN","LIGHT","SMILE","CHESS"];
@@ -167,7 +170,7 @@ function renderArchive(){
   const key="2026-"+String(month+1).padStart(2,"0")+"-"+String(day).padStart(2,"0");
   const entry=archiveData.puzzles.find(p=>p.date===key);
   const b=document.createElement("button");b.className="archive-day";
-  if(entry){b.textContent=day;b.classList.add(entry.difficulty);if(localStorage.getItem("wordlyArchiveGame_"+key))b.classList.add("played");b.title=entry.difficulty[0].toUpperCase()+entry.difficulty.slice(1)+" puzzle";b.onclick=()=>startArchivePuzzle(entry)}
+  if(entry){b.textContent=day;if(localStorage.getItem("wordlyArchiveGame_"+key))b.classList.add("played");b.title="Play puzzle";b.onclick=()=>startArchivePuzzle(entry)}
   else{b.textContent=day;b.disabled=true}
   cal.append(b)
  }
@@ -175,7 +178,7 @@ function renderArchive(){
 function startArchivePuzzle(entry){
  archiveMode=true;archiveEntry=entry;activeDateKey=entry.date;answer=entry.answer;activeStorageKey="wordlyArchiveGame_"+entry.date;resetGameState();loadGameState();
  document.getElementById("archiveModal").classList.remove("open");updatePuzzleMode();buildKeys();render();paintKeys();
- say(done?(guesses.at(-1)===answer?"Solved in "+guesses.length+"/6":"The word was "+answer):"Archive puzzle selected. Difficulty: "+entry.difficulty+".");
+ say(done?(guesses.at(-1)===answer?"Solved in "+guesses.length+"/6":"The word was "+answer):"Archive puzzle selected.");
 }
 function returnToToday(){
  archiveMode=false;archiveEntry=null;activeDateKey=dateKey;answer=WORDS[(today+11)%WORDS.length];activeStorageKey="wordlyGame_"+dateKey;resetGameState();loadGameState();updatePuzzleMode();buildKeys();render();paintKeys();say(done?(guesses.at(-1)===answer?"Today's puzzle solved!":"The word was "+answer):"Back to today's puzzle.")
