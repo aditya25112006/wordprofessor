@@ -175,12 +175,35 @@ header .date-top{display:block;font:400 16px "DM Sans",sans-serif;letter-spacing
  .archive-nav{padding:6px;font-size:10px}
 }
 
+
+/* Keep the header brand-only; puzzle number and date sit above the board */
+header{height:88px;padding-top:17px}
+.brand-heading{display:flex;align-items:center;justify-content:center}
+header .logo{font-size:25px;letter-spacing:4px}
+header .brand-by{font-size:10px;letter-spacing:.035em;margin-left:8px}
+.puzzle-meta{display:flex;align-items:baseline;justify-content:center;gap:12px;margin:18px auto 15px;color:#52645e}
+main .puzzle-number{font:700 15px "DM Sans",sans-serif;letter-spacing:0;color:#315b54;margin:0}
+main .date-top{display:block;font:500 14px "DM Sans",sans-serif;letter-spacing:0;color:#788782;margin:0;text-transform:none}
+#archiveBanner{margin-top:0}
+@media(max-width:600px){
+ header{height:76px;padding-top:14px}
+ header .logo{font-size:21px;letter-spacing:2.5px}
+ header .brand-by{font-size:9px;margin-left:6px}
+ .puzzle-meta{gap:9px;margin:14px auto 12px}
+ main .puzzle-number{font-size:14px}
+ main .date-top{font-size:13px}
+}
+@media(max-width:390px){
+ header .logo{font-size:19px;letter-spacing:2px}
+ header .brand-by{font-size:8px;margin-left:5px}
+}
+
 </style>
 </head>
 <body>
-<header><div class="brand-heading"><div class="logo">WORDLE<span class="logo-dot">.</span><span class="puzzle-number" id="puzzleNumber">#1</span><span class="brand-by">by wordprofessor</span></div><div class="date-top" id="dateTop"></div></div><div class="head-actions"><button class="icon-btn" id="helpBtn" aria-label="How to play" title="How to play">?</button><button class="archive-nav" id="archiveBtn" type="button" aria-label="Archive">▦ <span>Archive</span></button><button class="icon-btn" id="statsBtn" aria-label="Statistics">▥</button><button class="icon-btn" id="dictionaryBtn" aria-label="Test dictionary" title="Test dictionary">Aa</button><button class="icon-btn" id="resetBtn" aria-label="New game">↻</button></div></header>
+<header><div class="brand-heading"><div class="logo">WORDLE<span class="logo-dot">.</span><span class="brand-by">by wordprofessor</span></div></div><div class="head-actions"><button class="icon-btn" id="helpBtn" aria-label="How to play" title="How to play">?</button><button class="archive-nav" id="archiveBtn" type="button" aria-label="Archive">▦ <span>Archive</span></button><button class="icon-btn" id="statsBtn" aria-label="Statistics">▥</button><button class="icon-btn" id="dictionaryBtn" aria-label="Test dictionary" title="Test dictionary">Aa</button><button class="icon-btn" id="resetBtn" aria-label="New game">↻</button></div></header>
 <main>
-
+<div class="puzzle-meta"><span class="puzzle-number" id="puzzleNumber">#1</span><span class="date-top" id="dateTop"></span></div>
 <p class="sub">A new five-letter puzzle every day</p>
 <div id="archiveBanner"><span id="archiveBannerText">Archive - 1 January 2026</span></div><div id="board" aria-label="Guess board"></div>
 <div id="message" role="status" aria-live="polite"></div>
@@ -257,8 +280,8 @@ function returnToToday(){
 function updatePuzzleMode(){
  const banner=document.getElementById("archiveBanner"),back=document.getElementById("todayBelow"),date=new Date(activeDateKey+"T12:00:00");
  const puzzleNumber=Math.floor((Date.UTC(date.getFullYear(),date.getMonth(),date.getDate())-Date.UTC(2026,0,1))/DAY)+1;document.getElementById("puzzleNumber").textContent="#"+puzzleNumber;
- document.getElementById("dateTop").textContent=date.toLocaleDateString("en-US",{month:"long",day:"numeric",year:"numeric"});document.getElementById("dateTop").style.display=archiveMode?"none":"block";
- if(archiveMode){banner.style.display="flex";document.getElementById("archiveBannerText").textContent="Archive - "+date.toLocaleDateString("en-GB",{day:"numeric",month:"long",year:"numeric"});back.style.display="inline-flex"}
+ document.getElementById("dateTop").textContent=date.toLocaleDateString("en-US",{month:"long",day:"numeric",year:"numeric"});document.querySelector(".puzzle-meta").style.display="flex";
+ if(archiveMode){banner.style.display="flex";document.getElementById("archiveBannerText").textContent="Archive";back.style.display="inline-flex"}
  else{banner.style.display="none";back.style.display="none"}
 }
 async function loadArchive(){
