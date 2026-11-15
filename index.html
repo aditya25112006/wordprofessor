@@ -129,6 +129,50 @@ main{padding-bottom:calc(190px + env(safe-area-inset-bottom))}
 }
 
 .logo{display:flex;align-items:baseline;gap:0}.brand-by{margin-left:9px;font:500 10px "DM Sans",sans-serif;letter-spacing:.035em;color:#84928d;text-transform:none;white-space:nowrap}@media(max-width:600px){.brand-by{font-size:9px;margin-left:6px}}
+
+/* Larger, Wordle-inspired game layout */
+header{height:82px;position:relative;justify-content:center}
+header .logo{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);display:flex;align-items:baseline;white-space:nowrap;font-size:29px;letter-spacing:5px}
+header .brand-by{font-size:10px;letter-spacing:.02em;margin-left:8px}
+header .head-actions{position:absolute;right:clamp(12px,3vw,34px);top:50%;transform:translateY(-50%)}
+.date-top{font-size:16px;letter-spacing:0;font-weight:500;margin:18px auto 20px;color:#667a73}
+main{width:min(620px,96vw);margin:18px auto 36px;padding-bottom:calc(205px + env(safe-area-inset-bottom))}
+.archive-launch{font-size:15px;padding:12px 23px;margin-bottom:22px}
+#archiveBanner{font-size:16px;margin:0 auto 10px;padding:10px 0 15px}
+#board{width:min(490px,calc(100vw - 36px));gap:9px;margin:10px auto 20px;max-height:calc(100dvh - 390px);padding:3px}
+.tile{font-size:clamp(34px,5vw,42px);border-radius:8px}
+#message{font-size:15px;min-height:30px;margin:5px auto 12px}
+#keyboard{width:min(780px,100%);max-width:780px;padding:14px 18px calc(14px + env(safe-area-inset-bottom));gap:9px}
+.key-row{gap:7px}
+.key{height:68px;font-size:19px;border-radius:11px}
+.key.wide{font-size:13px}
+@media(max-width:700px){
+ header{height:72px;padding:8px 9px}
+ header .logo{font-size:23px;letter-spacing:3px}
+ header .brand-by{font-size:9px;margin-left:6px}
+ header .head-actions{right:7px;gap:0}
+ .icon-btn{width:32px;height:35px;font-size:15px}
+ .date-top{font-size:14px;margin:15px auto 16px}
+ main{width:100%;max-width:470px;margin:12px auto 22px;padding:0 12px calc(184px + env(safe-area-inset-bottom))}
+ .archive-launch{font-size:13px;padding:10px 19px;margin-bottom:16px}
+ #archiveBanner{font-size:14px;padding:8px 0 12px;margin-bottom:6px}
+ #board{width:min(390px,calc(100vw - 34px));gap:6px;margin:7px auto 12px;max-height:calc(100dvh - 315px)}
+ .tile{font-size:clamp(28px,8vw,36px);border-radius:7px}
+ #message{font-size:13px;min-height:25px;margin:3px auto 6px}
+ #keyboard{width:100%;max-width:520px;padding:9px 7px calc(9px + env(safe-area-inset-bottom));gap:7px}
+ .key-row{gap:4px}
+ .key{height:clamp(48px,13vw,58px);font-size:clamp(14px,4vw,17px);border-radius:8px}
+ .key.wide{font-size:clamp(10px,3vw,12px)}
+}
+@media(max-width:380px){
+ header .logo{font-size:20px;letter-spacing:2px}
+ header .brand-by{font-size:8px;margin-left:4px}
+ header .head-actions .icon-btn{width:28px;flex-basis:28px;font-size:14px}
+ #board{width:calc(100vw - 28px);gap:4px}
+ .key-row{gap:3px}
+ .key{height:46px}
+}
+
 </style>
 </head>
 <body>
