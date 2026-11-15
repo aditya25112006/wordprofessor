@@ -101,6 +101,7 @@ header{z-index:2}
  .key{height:42px}
 }
 
+.date-top{text-transform:none;letter-spacing:.035em;font-size:13px;font-weight:600;color:#667a73;margin:10px auto 16px}@media(max-width:600px){.date-top{font-size:12px;margin:9px auto 13px}}
 </style>
 </head>
 <body>
@@ -181,7 +182,7 @@ function returnToToday(){
 }
 function updatePuzzleMode(){
  const banner=document.getElementById("archiveBanner"),back=document.getElementById("todayBelow"),date=new Date(activeDateKey+"T12:00:00");
- document.getElementById("dateTop").textContent=date.toLocaleDateString("en-GB",{weekday:"long",day:"numeric",month:"long",year:"numeric"});
+ document.getElementById("dateTop").textContent=date.toLocaleDateString("en-GB",{day:"numeric",month:"long",year:"numeric"});
  if(archiveMode){banner.style.display="flex";document.getElementById("archiveBannerText").textContent="Archive - "+date.toLocaleDateString("en-GB",{day:"numeric",month:"long",year:"numeric"});back.style.display="inline-flex"}
  else{banner.style.display="none";back.style.display="none"}
 }
