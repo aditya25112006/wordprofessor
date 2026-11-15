@@ -920,12 +920,12 @@ body:not(.home-active) header .profile-icon{display:none!important}
 <script>
 // One-time reset for all existing players: clear saved games, archive progress,
 // hints and statistics while leaving unrelated browser storage untouched.
-if(localStorage.getItem("wordlyResetVersion")!=="3"){
+if(localStorage.getItem("wordlyResetVersion")!=="4"){
  for(let i=localStorage.length-1;i>=0;i--){
   const key=localStorage.key(i);
   if(key==="wordlyGame"||key.startsWith("wordly"))localStorage.removeItem(key);
  }
- localStorage.setItem("wordlyResetVersion","3");
+ localStorage.setItem("wordlyResetVersion","4");
 }
 const WORDS=["CRANE","PLANT","BRICK","SHARE","GHOST","FLAME","CLOUD","TRAIL","MONEY","GRAPE","NIGHT","MUSIC","STONE","BRAIN","QUIET","SHELF","PRIDE","WATER","ROAST","MANGO","BLINK","CROWN","DREAM","SCALE","FRESH","TIGER","HOUSE","TRAIN","LIGHT","SMILE","CHESS"];
 let DOUBLE_ARCHIVE={};
