@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>WORDLE — Daily Word Puzzle</title>
+<link rel="icon" type="image/svg+xml" href="/logo.svg">
 <!-- Vercel Web Analytics: static HTML integration -->
 <script>
   window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
@@ -889,10 +890,15 @@ body:not(.home-active) header .profile-icon{display:none!important}
  body:not(.home-active) header .head-actions .nav-label{display:block!important;font-size:8px!important;line-height:1.1!important;letter-spacing:0!important;white-space:nowrap!important}
 }
 @media(min-width:601px){body:not(.home-active) header .head-actions .nav-action{cursor:pointer}body:not(.home-active) header .head-actions .nav-action:focus-visible,body:not(.home-active) header .home-nav-btn:focus-visible{outline:3px solid #8bbba1!important;outline-offset:2px!important}}
+
+/* WordProfessor brand mark */
+header .logo{display:flex!important;align-items:center!important;gap:0!important}
+header .brand-mark{width:34px;height:34px;flex:0 0 34px;margin-right:9px;display:block}
+@media(max-width:600px){header .brand-mark{width:27px;height:27px;flex-basis:27px;margin-right:6px}}
 </style>
 </head>
 <body>
-<header><button id="homeBtn" class="home-nav-btn" type="button" aria-label="Back to games" title="Back to games">⌂ <span>Games</span></button><div class="brand-heading" title="Back to games"><div class="logo">WORDLE<span class="logo-dot">.</span><span class="brand-by">by wordprofessor</span></div></div><button class="profile-icon" id="accountBtn" type="button" aria-label="Profile" title="Profile"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8" r="3.5"></circle><path d="M4.5 20c.7-3.5 3.2-5.5 7.5-5.5s6.8 2 7.5 5.5"></path></svg></button><div class="head-actions"><button class="icon-btn nav-action" id="helpBtn" type="button" aria-label="How to play" title="How to play"><span class="nav-icon" aria-hidden="true">ⓘ</span><span class="nav-label">How to Play</span></button><button class="archive-nav nav-action" id="archiveBtn" type="button" aria-label="Archive"><span class="nav-icon" aria-hidden="true">▦</span><span class="nav-label">Archive</span></button><button class="icon-btn nav-action" id="hintBtn" type="button" aria-label="Hint" title="Get a hint"><span class="nav-icon" aria-hidden="true">💡</span><span class="nav-label">Hint</span></button><button class="icon-btn nav-action" id="statsBtn" type="button" aria-label="Statistics"><span class="nav-icon" aria-hidden="true">▥</span><span class="nav-label">Stats</span></button></div></header>
+<header><button id="homeBtn" class="home-nav-btn" type="button" aria-label="Back to games" title="Back to games">⌂ <span>Games</span></button><div class="brand-heading" title="Back to games"><div class="logo"><svg class="brand-mark" viewBox="0 0 48 48" role="img" aria-label="WordProfessor logo"><path d="M24 3.5 42 11v12.5c0 10.2-7.2 17.7-18 21C13.2 41.2 6 33.7 6 23.5V11L24 3.5Z" fill="#e8f1e9" stroke="#356b57" stroke-width="2"/><rect x="13" y="16" width="22" height="17" rx="3" fill="#fff" stroke="#356b57" stroke-width="1.5"/><path d="M16 19h6v6h-6z" fill="#4f9d78"/><path d="M24 19h6v6h-6z" fill="#d4a94b"/><path d="M16 27h14" stroke="#356b57" stroke-width="2" stroke-linecap="round"/><path d="M19 34h10" stroke="#356b57" stroke-width="2" stroke-linecap="round"/></svg>WORDLE<span class="logo-dot">.</span><span class="brand-by">by wordprofessor</span></div></div><button class="profile-icon" id="accountBtn" type="button" aria-label="Profile" title="Profile"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8" r="3.5"></circle><path d="M4.5 20c.7-3.5 3.2-5.5 7.5-5.5s6.8 2 7.5 5.5"></path></svg></button><div class="head-actions"><button class="icon-btn nav-action" id="helpBtn" type="button" aria-label="How to play" title="How to play"><span class="nav-icon" aria-hidden="true">ⓘ</span><span class="nav-label">How to Play</span></button><button class="archive-nav nav-action" id="archiveBtn" type="button" aria-label="Archive"><span class="nav-icon" aria-hidden="true">▦</span><span class="nav-label">Archive</span></button><button class="icon-btn nav-action" id="hintBtn" type="button" aria-label="Hint" title="Get a hint"><span class="nav-icon" aria-hidden="true">💡</span><span class="nav-label">Hint</span></button><button class="icon-btn nav-action" id="statsBtn" type="button" aria-label="Statistics"><span class="nav-icon" aria-hidden="true">▥</span><span class="nav-label">Stats</span></button></div></header>
 <section id="homeScreen">
 <div class="home-hero"><div class="home-kicker">DAILY WORD GAMES</div><h1>One little word.<br><span>Big brain energy.</span></h1><p>Two ways to challenge your vocabulary. A fresh puzzle every day.</p></div>
 <div class="game-cards">
