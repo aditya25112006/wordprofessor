@@ -831,6 +831,13 @@ body.home-active header #accountBtn{
  }
  body.home-active .site-footer{margin:32px auto 0!important}
 }
+
+/* Auth modal controls must remain clickable above page/header layers */
+.modal{z-index:1000!important;pointer-events:auto}
+.modal .panel{position:relative;z-index:1;pointer-events:auto}
+.auth-tabs{position:relative;z-index:2;display:flex;gap:8px}
+.auth-tabs button{position:relative;z-index:3;pointer-events:auto;cursor:pointer;touch-action:manipulation}
+#authLoginTab,#authSignupTab{pointer-events:auto!important;cursor:pointer!important}
 </style>
 </head>
 <body>
@@ -918,7 +925,7 @@ function openProfile(){if(!currentUser){openAuth(null);return}const name=current
 function requireArchiveAccess(action){if(currentUser){action();return true}openAuth(action);setAuthStatus("Please create an account or log in to play archive puzzles.");return false}
 document.getElementById("accountBtn").onclick=openProfile;
 document.getElementById("profileSignout").onclick=async()=>{const {error}=await supabaseClient.auth.signOut();if(error){say(error.message);return}currentUser=null;updateAuthUI();closeModal(document.getElementById("profileModal"))};
-document.getElementById("accountHomeBtn").onclick=()=>openAuth(null);
+
 document.getElementById("authSignupTab").onclick=()=>setAuthMode("signup");
 document.getElementById("authLoginTab").onclick=()=>setAuthMode("login");
 document.getElementById("authForm").addEventListener("submit",async e=>{e.preventDefault();const submit=document.getElementById("authSubmit");submit.disabled=true;setAuthStatus(authMode==="signup"?"Creating your account...":"Signing you in...");const email=document.getElementById("authEmail").value.trim(),password=document.getElementById("authPassword").value;let result;if(authMode==="signup"){const fullName=document.getElementById("authName").value.trim();result=await supabaseClient.auth.signUp({email,password,options:{data:{full_name:fullName},emailRedirectTo:location.origin}});if(!result.error&&!result.data.session){setAuthStatus("Account created! Check your email to confirm your address, then log in.");submit.disabled=false;return}}else result=await supabaseClient.auth.signInWithPassword({email,password});submit.disabled=false;if(result.error){setAuthStatus(result.error.message);return}currentUser=result.data.user;updateAuthUI();setAuthStatus("You're signed in. Archive unlocked!");if(pendingArchiveAction){const action=pendingArchiveAction;pendingArchiveAction=null;closeModal(document.getElementById("authModal"));action() }});
