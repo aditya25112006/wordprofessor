@@ -408,8 +408,8 @@ function renderArchive(){
 }
 function startArchivePuzzle(entry){
  archiveMode=true;archiveEntry=entry;activeDateKey=entry.date;answer=entry.answer;activeStorageKey="wordlyArchiveGame_"+entry.date;resetGameState();loadGameState();
- document.getElementById("archiveModal").classList.remove("open");updatePuzzleMode();buildKeys();render();paintKeys();
- say(done?(guesses.at(-1)===answer?"Solved in "+guesses.length+"/6":"The word was "+answer):"Archive puzzle selected.");
+ closeModal(document.getElementById("archiveModal"));updatePuzzleMode();buildKeys();render();paintKeys();
+ say(done?(guesses.at(-1)===answer?"Solved in "+guesses.length+"/6":"The word was "+answer):"");
 }
 function returnToToday(){
  archiveMode=false;archiveEntry=null;activeDateKey=dateKey;answer=WORDS[(today+11)%WORDS.length];activeStorageKey="wordlyGame_"+dateKey;resetGameState();loadGameState();updatePuzzleMode();buildKeys();render();paintKeys();say(done?(guesses.at(-1)===answer?"Today's puzzle solved!":"The word was "+answer):"Back to today's puzzle.")
