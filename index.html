@@ -335,6 +335,9 @@ header .nav-label{display:block!important;font:600 10px/1.1 'DM Sans',sans-serif
  header .head-actions{position:absolute!important;right:24px!important;top:50%!important;transform:translateY(-50%)!important;display:flex!important;align-items:center!important;justify-content:center!important;margin:0!important}
  header .head-actions .nav-action{transform:none!important}
 }
+
+/* Final viewport sizing after the desktop header update */
+@media(min-width:601px){main{height:calc(100dvh - 110px)!important;max-height:calc(100dvh - 110px)!important}}
 </style>
 </head>
 <body>
@@ -415,11 +418,11 @@ function returnToToday(){
  archiveMode=false;archiveEntry=null;activeDateKey=dateKey;answer=WORDS[(today+11)%WORDS.length];activeStorageKey="wordlyGame_"+dateKey;resetGameState();loadGameState();updatePuzzleMode();buildKeys();render();paintKeys();say(done?(guesses.at(-1)===answer?"Today's puzzle solved!":"The word was "+answer):"Back to today's puzzle.")
 }
 function updatePuzzleMode(){
- const banner=document.getElementById("archiveBanner"),back=document.getElementById("todayBelow"),date=new Date(activeDateKey+"T12:00:00");
+ const banner=document.getElementById("archiveBanner"),date=new Date(activeDateKey+"T12:00:00");
  const puzzleNumber=Math.floor((Date.UTC(date.getFullYear(),date.getMonth(),date.getDate())-Date.UTC(2026,0,1))/DAY)+1;document.getElementById("puzzleNumber").textContent="#"+puzzleNumber;
  document.getElementById("dateTop").textContent=date.toLocaleDateString("en-US",{month:"long",day:"numeric",year:"numeric"});document.querySelector(".puzzle-meta").style.display="flex";
- if(archiveMode){banner.style.display="flex";document.getElementById("archiveBannerText").textContent="Archive";back.style.display="inline-flex"}
- else{banner.style.display="none";back.style.display="none"}
+ if(archiveMode){banner.style.display="flex";document.getElementById("archiveBannerText").textContent="Archive"}
+ else{banner.style.display="none"}
 }
 async function loadArchive(){
  archiveMonth=new Date(archiveData?.end||"2026-11-14T12:00:00").getMonth();
@@ -427,7 +430,7 @@ async function loadArchive(){
  catch(e){say("Archive could not be loaded. Please refresh and try again.")}
 }
 document.addEventListener("keydown",e=>{if(e.ctrlKey||e.metaKey||e.altKey)return;if(e.target&&e.target.id==="dictionaryInput")return;if(e.key==="Enter")press("ENTER");else if(e.key==="Backspace")press("BACK");else if(/^[a-z]$/i.test(e.key))press(e.key.toUpperCase())});
-document.getElementById("archiveBtn").onclick=()=>{if(!archiveData){loadArchive().then(()=>{if(archiveData)openModal("archiveModal")})}else{archiveMonth=10;renderArchive();openModal("archiveModal")}};document.getElementById("archivePrev").onclick=()=>{archiveMonth=Math.max(0,archiveMonth-1);renderArchive()};document.getElementById("archiveNext").onclick=()=>{archiveMonth=Math.min(10,archiveMonth+1);renderArchive()};document.getElementById("todayBelow").onclick=returnToToday;document.getElementById("helpBtn").onclick=()=>openModal("helpModal");document.getElementById("hintBtn").onclick=()=>{const hintKey="wordlyHint_"+activeStorageKey;const hintText=document.getElementById("hintText");const used=localStorage.getItem(hintKey);if(used){hintText.textContent="You have already used your hint for this puzzle. Keep going, you’ve got this!";}else{const positions=[0,1,2,3,4].filter(i=>!guesses.some(g=>score(g,answer)[i]==="correct"&&g[i]===answer[i]));const pos=positions.length?positions[Math.floor(Math.random()*positions.length)]:Math.floor(Math.random()*5);localStorage.setItem(hintKey,"1");hintText.textContent="The letter in position "+(pos+1)+" is "+answer[pos]+"."; }openModal("hintModal")};document.getElementById("statsBtn").onclick=showStats;
+document.getElementById("archiveBtn").onclick=()=>{if(!archiveData){loadArchive().then(()=>{if(archiveData)openModal("archiveModal")})}else{archiveMonth=10;renderArchive();openModal("archiveModal")}};document.getElementById("archivePrev").onclick=()=>{archiveMonth=Math.max(0,archiveMonth-1);renderArchive()};document.getElementById("archiveNext").onclick=()=>{archiveMonth=Math.min(10,archiveMonth+1);renderArchive()};document.getElementById("helpBtn").onclick=()=>openModal("helpModal");document.getElementById("hintBtn").onclick=()=>{const hintKey="wordlyHint_"+activeStorageKey;const hintText=document.getElementById("hintText");const used=localStorage.getItem(hintKey);if(used){hintText.textContent="You have already used your hint for this puzzle. Keep going, you’ve got this!";}else{const positions=[0,1,2,3,4].filter(i=>!guesses.some(g=>score(g,answer)[i]==="correct"&&g[i]===answer[i]));const pos=positions.length?positions[Math.floor(Math.random()*positions.length)]:Math.floor(Math.random()*5);localStorage.setItem(hintKey,"1");hintText.textContent="The letter in position "+(pos+1)+" is "+answer[pos]+"."; }openModal("hintModal")};document.getElementById("statsBtn").onclick=showStats;
 function closeModal(modal){modal.classList.remove("open");if(!document.querySelector(".modal.open"))document.body.classList.remove("modal-open")}document.querySelectorAll("[data-close]").forEach(b=>b.onclick=()=>closeModal(b.closest(".modal")));document.querySelectorAll(".modal").forEach(m=>m.onclick=e=>{if(e.target===m)closeModal(m)});
 loadGameState();updatePuzzleMode();buildKeys();render();if(done)say(guesses.at(-1)===answer?"Brilliant! You got it in "+guesses.length+"/6":"The word was "+answer);save();
 </script>
