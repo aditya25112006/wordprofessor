@@ -1,10 +1,10 @@
 {
   "start": "2026-01-01",
-  "end": "2026-11-14",
+  "end": "2031-06-23",
   "distribution": {
-    "easy": 95,
-    "medium": 159,
-    "hard": 64
+    "easy": 431,
+    "medium": 1168,
+    "hard": 401
   },
   "puzzles": [
     {
@@ -1596,6 +1596,8416 @@
       "date": "2026-11-14",
       "answer": "BELLE",
       "difficulty": "hard"
+    },
+    {
+      "date": "2026-11-15",
+      "answer": "SAWAH",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-11-16",
+      "answer": "ROONS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-11-17",
+      "answer": "NITES",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-11-18",
+      "answer": "THREE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-11-19",
+      "answer": "PHASE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-11-20",
+      "answer": "NAAMS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-11-21",
+      "answer": "GOBIS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-11-22",
+      "answer": "POCAN",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-11-23",
+      "answer": "GALAH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-11-24",
+      "answer": "DAGGY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-11-25",
+      "answer": "MADOS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-11-26",
+      "answer": "RAGDE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-11-27",
+      "answer": "REGIE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-11-28",
+      "answer": "SHAKO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-11-29",
+      "answer": "BUPPY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-11-30",
+      "answer": "YEDES",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-12-01",
+      "answer": "PLUOT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-12-02",
+      "answer": "QUERN",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-12-03",
+      "answer": "FIRMS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-12-04",
+      "answer": "POOFY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-12-05",
+      "answer": "GAMBA",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-12-06",
+      "answer": "GHAST",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-12-07",
+      "answer": "FENKS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-12-08",
+      "answer": "PAVON",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-12-09",
+      "answer": "KUZUS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-12-10",
+      "answer": "SCULS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-12-11",
+      "answer": "BLUEY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-12-12",
+      "answer": "IMPLY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-12-13",
+      "answer": "MATEY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-12-14",
+      "answer": "KIBES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-12-15",
+      "answer": "CACAO",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-12-16",
+      "answer": "FIFIS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-12-17",
+      "answer": "SICKY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-12-18",
+      "answer": "TIGON",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-12-19",
+      "answer": "TACHE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-12-20",
+      "answer": "OMDAS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-12-21",
+      "answer": "CRITH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-12-22",
+      "answer": "NORKS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-12-23",
+      "answer": "TRIKE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-12-24",
+      "answer": "OMBUS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-12-25",
+      "answer": "DUCES",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-12-26",
+      "answer": "HAKAM",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-12-27",
+      "answer": "ABURN",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-12-28",
+      "answer": "SARED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-12-29",
+      "answer": "KNOWD",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-12-30",
+      "answer": "BOMOH",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-12-31",
+      "answer": "EVADE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-01-01",
+      "answer": "PONTS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-01-02",
+      "answer": "FOAMS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-01-03",
+      "answer": "GAYLY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-01-04",
+      "answer": "YEUKY",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-01-05",
+      "answer": "TALKS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-01-06",
+      "answer": "ROANY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-01-07",
+      "answer": "HIDED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-01-08",
+      "answer": "ABUSE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-01-09",
+      "answer": "ACKEE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-01-10",
+      "answer": "NOLLS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-01-11",
+      "answer": "PHOCA",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-01-12",
+      "answer": "TOXIN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-01-13",
+      "answer": "RUSES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-01-14",
+      "answer": "STYME",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-01-15",
+      "answer": "ROUMS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-01-16",
+      "answer": "SAAGS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-01-17",
+      "answer": "FYKES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-01-18",
+      "answer": "APPEL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-01-19",
+      "answer": "EGGED",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-01-20",
+      "answer": "NUTSY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-01-21",
+      "answer": "APSES",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-01-22",
+      "answer": "GULAG",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-01-23",
+      "answer": "ETHER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-01-24",
+      "answer": "FURTH",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-01-25",
+      "answer": "SAHAB",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-01-26",
+      "answer": "KLUTZ",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-01-27",
+      "answer": "COMBI",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-01-28",
+      "answer": "POCHO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-01-29",
+      "answer": "MILOR",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-01-30",
+      "answer": "GEALS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-01-31",
+      "answer": "PILOW",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-02-01",
+      "answer": "WRIED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-02-02",
+      "answer": "THINK",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-02-03",
+      "answer": "MERDE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-02-04",
+      "answer": "DEBAR",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-02-05",
+      "answer": "EWERS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-02-06",
+      "answer": "SQUEG",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-02-07",
+      "answer": "TYEES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-02-08",
+      "answer": "HARSH",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-02-09",
+      "answer": "MENGS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-02-10",
+      "answer": "SKERM",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-02-11",
+      "answer": "ROOKY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-02-12",
+      "answer": "OMITS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-02-13",
+      "answer": "TANGI",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-02-14",
+      "answer": "SPAHI",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-02-15",
+      "answer": "HOARY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-02-16",
+      "answer": "SULCI",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-02-17",
+      "answer": "NINJA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-02-18",
+      "answer": "TARRE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-02-19",
+      "answer": "TUTES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-02-20",
+      "answer": "PAIRS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-02-21",
+      "answer": "CARKS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-02-22",
+      "answer": "WIVER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-02-23",
+      "answer": "BURQA",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-02-24",
+      "answer": "KABAR",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-02-25",
+      "answer": "MOGOS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-02-26",
+      "answer": "RAKED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-02-27",
+      "answer": "ANOMY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-02-28",
+      "answer": "SALON",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-03-01",
+      "answer": "QUASS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-03-02",
+      "answer": "PETTI",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-03-03",
+      "answer": "FAMED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-03-04",
+      "answer": "WIPER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-03-05",
+      "answer": "LATKE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-03-06",
+      "answer": "DELLA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-03-07",
+      "answer": "JALEO",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-03-08",
+      "answer": "BANED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-03-09",
+      "answer": "GYRAL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-03-10",
+      "answer": "MARIA",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-03-11",
+      "answer": "NERVY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-03-12",
+      "answer": "ABMHO",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-03-13",
+      "answer": "SHALT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-03-14",
+      "answer": "PADOU",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-03-15",
+      "answer": "FOHNS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-03-16",
+      "answer": "WIRED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-03-17",
+      "answer": "NOUNS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-03-18",
+      "answer": "WINKS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-03-19",
+      "answer": "ANTES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-03-20",
+      "answer": "CLINK",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-03-21",
+      "answer": "PACHA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-03-22",
+      "answer": "STYTE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-03-23",
+      "answer": "KUSSO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-03-24",
+      "answer": "NAWAL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-03-25",
+      "answer": "LEAVY",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-03-26",
+      "answer": "EWHOW",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-03-27",
+      "answer": "HYPHA",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-03-28",
+      "answer": "EMOVE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-03-29",
+      "answer": "CLEGS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-03-30",
+      "answer": "TOGES",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-03-31",
+      "answer": "STRUM",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-04-01",
+      "answer": "FERLY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-04-02",
+      "answer": "BEGAT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-04-03",
+      "answer": "FELLS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-04-04",
+      "answer": "ROKED",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-04-05",
+      "answer": "ALVAR",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-04-06",
+      "answer": "OLEIC",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-04-07",
+      "answer": "STELA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-04-08",
+      "answer": "MOOCH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-04-09",
+      "answer": "FEART",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-04-10",
+      "answer": "SANGH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-04-11",
+      "answer": "ARROW",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-04-12",
+      "answer": "UNPLY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-04-13",
+      "answer": "THETE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-04-14",
+      "answer": "GRUBS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-04-15",
+      "answer": "RADII",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-04-16",
+      "answer": "CALFS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-04-17",
+      "answer": "KITES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-04-18",
+      "answer": "JIVED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-04-19",
+      "answer": "MAKIE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-04-20",
+      "answer": "RHINE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-04-21",
+      "answer": "YALES",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-04-22",
+      "answer": "DECYL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-04-23",
+      "answer": "EYASS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-04-24",
+      "answer": "GAZAL",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-04-25",
+      "answer": "HUMAS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-04-26",
+      "answer": "VOLED",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-04-27",
+      "answer": "MORGY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-04-28",
+      "answer": "POLOS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-04-29",
+      "answer": "COLDS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-04-30",
+      "answer": "AMIDO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-05-01",
+      "answer": "JHEEL",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-05-02",
+      "answer": "PODAL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-05-03",
+      "answer": "ULEMA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-05-04",
+      "answer": "GEOID",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-05-05",
+      "answer": "DOOKS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-05-06",
+      "answer": "EEJIT",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-05-07",
+      "answer": "WIPED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-05-08",
+      "answer": "PINCE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-05-09",
+      "answer": "CNIDA",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-05-10",
+      "answer": "REXES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-05-11",
+      "answer": "STIME",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-05-12",
+      "answer": "FECHT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-05-13",
+      "answer": "LUDES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-05-14",
+      "answer": "COBLE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-05-15",
+      "answer": "OFAYS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-05-16",
+      "answer": "NOTUM",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-05-17",
+      "answer": "KHULA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-05-18",
+      "answer": "ALGOS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-05-19",
+      "answer": "TEWIT",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-05-20",
+      "answer": "CHAMP",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-05-21",
+      "answer": "MAXES",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-05-22",
+      "answer": "TERES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-05-23",
+      "answer": "BOREE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-05-24",
+      "answer": "MOMUS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-05-25",
+      "answer": "RIMUS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-05-26",
+      "answer": "JILTS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-05-27",
+      "answer": "FILCH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-05-28",
+      "answer": "LOCUM",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-05-29",
+      "answer": "GOODS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-05-30",
+      "answer": "NAZIS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-05-31",
+      "answer": "FECIT",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-06-01",
+      "answer": "DULLS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-06-02",
+      "answer": "FETTA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-06-03",
+      "answer": "FEMME",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-06-04",
+      "answer": "TABOO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-06-05",
+      "answer": "WODGE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-06-06",
+      "answer": "SALUD",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-06-07",
+      "answer": "KEFIR",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-06-08",
+      "answer": "AREAS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-06-09",
+      "answer": "SWAMY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-06-10",
+      "answer": "ASHED",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-06-11",
+      "answer": "RUMBA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-06-12",
+      "answer": "CUNIT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-06-13",
+      "answer": "NAHAL",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-06-14",
+      "answer": "TUNES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-06-15",
+      "answer": "LOUPS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-06-16",
+      "answer": "JAMBE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-06-17",
+      "answer": "MOTES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-06-18",
+      "answer": "MUSKY",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-06-19",
+      "answer": "PINOT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-06-20",
+      "answer": "SNICK",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-06-21",
+      "answer": "INDIE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-06-22",
+      "answer": "ANNOY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-06-23",
+      "answer": "QUAYS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-06-24",
+      "answer": "HERBY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-06-25",
+      "answer": "HULKS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-06-26",
+      "answer": "RANGY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-06-27",
+      "answer": "BARBY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-06-28",
+      "answer": "WESTS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-06-29",
+      "answer": "CHAVE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-06-30",
+      "answer": "GOURD",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-07-01",
+      "answer": "YAGNA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-07-02",
+      "answer": "ROTTE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-07-03",
+      "answer": "TANNA",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-07-04",
+      "answer": "KYACK",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-07-05",
+      "answer": "ABCEE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-07-06",
+      "answer": "ARCUS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-07-07",
+      "answer": "COSED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-07-08",
+      "answer": "CUZES",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-07-09",
+      "answer": "VERST",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-07-10",
+      "answer": "KLANG",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-07-11",
+      "answer": "STEED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-07-12",
+      "answer": "HALTS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-07-13",
+      "answer": "SWAMP",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-07-14",
+      "answer": "CAWED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-07-15",
+      "answer": "TAMED",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-07-16",
+      "answer": "TIANS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-07-17",
+      "answer": "WADTS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-07-18",
+      "answer": "BELCH",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-07-19",
+      "answer": "DARKS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-07-20",
+      "answer": "EXTOL",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-07-21",
+      "answer": "BHAVA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-07-22",
+      "answer": "CETES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-07-23",
+      "answer": "DOGIE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-07-24",
+      "answer": "FEYER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-07-25",
+      "answer": "GOOMY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-07-26",
+      "answer": "SAOLA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-07-27",
+      "answer": "GROVE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-07-28",
+      "answer": "RAYNE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-07-29",
+      "answer": "STEEZ",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-07-30",
+      "answer": "LAPIS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-07-31",
+      "answer": "SIXTH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-08-01",
+      "answer": "MUMMY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-08-02",
+      "answer": "DUCAL",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-08-03",
+      "answer": "PESTA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-08-04",
+      "answer": "TUNAS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-08-05",
+      "answer": "STOMP",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-08-06",
+      "answer": "CLANK",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-08-07",
+      "answer": "FOWLS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-08-08",
+      "answer": "REBUS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-08-09",
+      "answer": "GOLES",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-08-10",
+      "answer": "AMNIC",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-08-11",
+      "answer": "BARCA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-08-12",
+      "answer": "SAVER",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-08-13",
+      "answer": "SHIFT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-08-14",
+      "answer": "THALE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-08-15",
+      "answer": "ZINCS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-08-16",
+      "answer": "DOVES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-08-17",
+      "answer": "SHTAR",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-08-18",
+      "answer": "DOLOS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-08-19",
+      "answer": "PUSES",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-08-20",
+      "answer": "AVAIL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-08-21",
+      "answer": "TAWAI",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-08-22",
+      "answer": "MITAS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-08-23",
+      "answer": "DRAWS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-08-24",
+      "answer": "DESIS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-08-25",
+      "answer": "PIANO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-08-26",
+      "answer": "LINTY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-08-27",
+      "answer": "PETAR",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-08-28",
+      "answer": "DHOWS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-08-29",
+      "answer": "DAGGA",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-08-30",
+      "answer": "HILCH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-08-31",
+      "answer": "POORT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-09-01",
+      "answer": "PAGES",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-09-02",
+      "answer": "FIDUS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-09-03",
+      "answer": "CAROM",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-09-04",
+      "answer": "STELL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-09-05",
+      "answer": "GRINS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-09-06",
+      "answer": "KNOTS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-09-07",
+      "answer": "TIKIA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-09-08",
+      "answer": "BLEEP",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-09-09",
+      "answer": "FAFFS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-09-10",
+      "answer": "SCION",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-09-11",
+      "answer": "BUFFS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-09-12",
+      "answer": "GLEBA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-09-13",
+      "answer": "FEHME",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-09-14",
+      "answer": "GRIDS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-09-15",
+      "answer": "GALLS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-09-16",
+      "answer": "WANED",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-09-17",
+      "answer": "PASHA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-09-18",
+      "answer": "REATA",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-09-19",
+      "answer": "STIES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-09-20",
+      "answer": "LEMED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-09-21",
+      "answer": "NEEDY",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-09-22",
+      "answer": "NITRO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-09-23",
+      "answer": "SNATH",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-09-24",
+      "answer": "SOTHS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-09-25",
+      "answer": "FOCAL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-09-26",
+      "answer": "DUCTI",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-09-27",
+      "answer": "NAILY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-09-28",
+      "answer": "VIRID",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-09-29",
+      "answer": "NOWLS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-09-30",
+      "answer": "POLES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-10-01",
+      "answer": "SLINK",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-10-02",
+      "answer": "LACED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-10-03",
+      "answer": "CAPHS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-10-04",
+      "answer": "MERGE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-10-05",
+      "answer": "PONZU",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-10-06",
+      "answer": "GUANS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-10-07",
+      "answer": "BIDED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-10-08",
+      "answer": "YOBBO",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-10-09",
+      "answer": "CACKS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-10-10",
+      "answer": "VISAS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-10-11",
+      "answer": "POOJA",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-10-12",
+      "answer": "OLIVA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-10-13",
+      "answer": "DOGGY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-10-14",
+      "answer": "POIRE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-10-15",
+      "answer": "FAKEY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-10-16",
+      "answer": "RUBIO",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-10-17",
+      "answer": "SMUTS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-10-18",
+      "answer": "PRING",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-10-19",
+      "answer": "COGON",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-10-20",
+      "answer": "REEDS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-10-21",
+      "answer": "GYPES",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-10-22",
+      "answer": "HAYER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-10-23",
+      "answer": "HULAS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-10-24",
+      "answer": "AEGIS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-10-25",
+      "answer": "MOODY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-10-26",
+      "answer": "SLANT",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-10-27",
+      "answer": "FUDDY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-10-28",
+      "answer": "BUNKS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-10-29",
+      "answer": "CANID",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-10-30",
+      "answer": "SAGOS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-10-31",
+      "answer": "CRONE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-11-01",
+      "answer": "AFIRE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-11-02",
+      "answer": "UNLED",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-11-03",
+      "answer": "THEEK",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-11-04",
+      "answer": "FIBRE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-11-05",
+      "answer": "UPFUL",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-11-06",
+      "answer": "MYNAS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-11-07",
+      "answer": "TAPED",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-11-08",
+      "answer": "OPEPE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-11-09",
+      "answer": "GRANA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-11-10",
+      "answer": "MARAN",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-11-11",
+      "answer": "CUECA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-11-12",
+      "answer": "SLUGS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-11-13",
+      "answer": "JOOKS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-11-14",
+      "answer": "FEIST",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-11-15",
+      "answer": "CABOB",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-11-16",
+      "answer": "CORED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-11-17",
+      "answer": "MASED",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-11-18",
+      "answer": "RAFTY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-11-19",
+      "answer": "HAJES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-11-20",
+      "answer": "GIMME",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-11-21",
+      "answer": "LOGAN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-11-22",
+      "answer": "NGWEE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-11-23",
+      "answer": "EMITS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-11-24",
+      "answer": "RAPER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-11-25",
+      "answer": "TECHS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-11-26",
+      "answer": "COLAS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-11-27",
+      "answer": "CREST",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-11-28",
+      "answer": "FOIST",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-11-29",
+      "answer": "OVELS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-11-30",
+      "answer": "AGIST",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-12-01",
+      "answer": "LENOS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-12-02",
+      "answer": "KINGS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-12-03",
+      "answer": "ORFES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-12-04",
+      "answer": "DUCAT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-12-05",
+      "answer": "FRORY",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-12-06",
+      "answer": "YOBBY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-12-07",
+      "answer": "CIMEX",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-12-08",
+      "answer": "ZOCCO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-12-09",
+      "answer": "KEBAB",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-12-10",
+      "answer": "SMOTE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-12-11",
+      "answer": "PROVE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-12-12",
+      "answer": "MOLAL",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-12-13",
+      "answer": "FUBAR",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-12-14",
+      "answer": "PINNA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-12-15",
+      "answer": "YEANS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-12-16",
+      "answer": "BOLTS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-12-17",
+      "answer": "COLED",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-12-18",
+      "answer": "UNSAW",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-12-19",
+      "answer": "DISME",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-12-20",
+      "answer": "VOTED",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-12-21",
+      "answer": "ODISM",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-12-22",
+      "answer": "DANTS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-12-23",
+      "answer": "HEAPS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-12-24",
+      "answer": "DRUSE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-12-25",
+      "answer": "WOWSE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-12-26",
+      "answer": "NYLON",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-12-27",
+      "answer": "TAXIS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2027-12-28",
+      "answer": "SOLOS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-12-29",
+      "answer": "LURID",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2027-12-30",
+      "answer": "ELIAD",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2027-12-31",
+      "answer": "DOPER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-01-01",
+      "answer": "PANCH",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-01-02",
+      "answer": "INURN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-01-03",
+      "answer": "CAMPI",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-01-04",
+      "answer": "RESEE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-01-05",
+      "answer": "NAPOO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-01-06",
+      "answer": "ANCLE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-01-07",
+      "answer": "PULLY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-01-08",
+      "answer": "GYVED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-01-09",
+      "answer": "BRAKY",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-01-10",
+      "answer": "YRNEH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-01-11",
+      "answer": "MANSE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-01-12",
+      "answer": "RAYON",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-01-13",
+      "answer": "MOOEY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-01-14",
+      "answer": "BANTU",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-01-15",
+      "answer": "UNMIX",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-01-16",
+      "answer": "SMEEK",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-01-17",
+      "answer": "TONES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-01-18",
+      "answer": "POUPE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-01-19",
+      "answer": "VALVE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-01-20",
+      "answer": "AKSES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-01-21",
+      "answer": "UNDUE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-01-22",
+      "answer": "METIS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-01-23",
+      "answer": "ROTON",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-01-24",
+      "answer": "SYNOD",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-01-25",
+      "answer": "ELBOW",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-01-26",
+      "answer": "STOTT",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-01-27",
+      "answer": "DEGUM",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-01-28",
+      "answer": "MORAS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-01-29",
+      "answer": "STEDE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-01-30",
+      "answer": "MARES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-01-31",
+      "answer": "YOHAY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-02-01",
+      "answer": "STUPA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-02-02",
+      "answer": "KININ",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-02-03",
+      "answer": "HACEK",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-02-04",
+      "answer": "OPING",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-02-05",
+      "answer": "TUBER",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-02-06",
+      "answer": "VIVID",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-02-07",
+      "answer": "FAUTE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-02-08",
+      "answer": "FUELS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-02-09",
+      "answer": "DYKES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-02-10",
+      "answer": "RIEMS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-02-11",
+      "answer": "VASTY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-02-12",
+      "answer": "WARMS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-02-13",
+      "answer": "ASWIM",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-02-14",
+      "answer": "REVET",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-02-15",
+      "answer": "EOLID",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-02-16",
+      "answer": "GAMBO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-02-17",
+      "answer": "PEARE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-02-18",
+      "answer": "ZINES",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-02-19",
+      "answer": "NIFES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-02-20",
+      "answer": "MILLE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-02-21",
+      "answer": "JAMBS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-02-22",
+      "answer": "NIVEL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-02-23",
+      "answer": "BURFI",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-02-24",
+      "answer": "PEGOS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-02-25",
+      "answer": "LATHY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-02-26",
+      "answer": "STATS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-02-27",
+      "answer": "REVUE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-02-28",
+      "answer": "SIROC",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-02-29",
+      "answer": "DITTO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-03-01",
+      "answer": "AXLED",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-03-02",
+      "answer": "KOBAN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-03-03",
+      "answer": "PLATY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-03-04",
+      "answer": "BOOLS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-03-05",
+      "answer": "OLENT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-03-06",
+      "answer": "KHIRS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-03-07",
+      "answer": "RAMMY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-03-08",
+      "answer": "FLEER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-03-09",
+      "answer": "SPUGS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-03-10",
+      "answer": "NOBBY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-03-11",
+      "answer": "FICUS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-03-12",
+      "answer": "DEIFY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-03-13",
+      "answer": "GIGOT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-03-14",
+      "answer": "COLBY",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-03-15",
+      "answer": "DERAY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-03-16",
+      "answer": "DOXIE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-03-17",
+      "answer": "DIMPS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-03-18",
+      "answer": "ROARS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-03-19",
+      "answer": "POOHS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-03-20",
+      "answer": "STAKE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-03-21",
+      "answer": "DINKY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-03-22",
+      "answer": "DADAH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-03-23",
+      "answer": "STEAL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-03-24",
+      "answer": "MAZAK",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-03-25",
+      "answer": "EXFIL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-03-26",
+      "answer": "GATER",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-03-27",
+      "answer": "CAUDA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-03-28",
+      "answer": "FETID",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-03-29",
+      "answer": "OMERS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-03-30",
+      "answer": "CYCLO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-03-31",
+      "answer": "BETES",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-04-01",
+      "answer": "MARRY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-04-02",
+      "answer": "SEAZE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-04-03",
+      "answer": "WALED",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-04-04",
+      "answer": "LOUIE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-04-05",
+      "answer": "PRIMO",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-04-06",
+      "answer": "CEROS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-04-07",
+      "answer": "CANTI",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-04-08",
+      "answer": "JUMBO",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-04-09",
+      "answer": "ZOWEE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-04-10",
+      "answer": "DROPS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-04-11",
+      "answer": "SHRED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-04-12",
+      "answer": "NYING",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-04-13",
+      "answer": "DOWNS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-04-14",
+      "answer": "MAHIS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-04-15",
+      "answer": "MALWA",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-04-16",
+      "answer": "ABAND",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-04-17",
+      "answer": "LADEE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-04-18",
+      "answer": "BLOCS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-04-19",
+      "answer": "SUPRA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-04-20",
+      "answer": "STOLN",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-04-21",
+      "answer": "TALAQ",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-04-22",
+      "answer": "RICEY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-04-23",
+      "answer": "SPESH",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-04-24",
+      "answer": "THIRD",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-04-25",
+      "answer": "TINGE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-04-26",
+      "answer": "MELTY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-04-27",
+      "answer": "KNIVE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-04-28",
+      "answer": "BROMO",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-04-29",
+      "answer": "HULKY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-04-30",
+      "answer": "CUIFS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-05-01",
+      "answer": "LOINS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-05-02",
+      "answer": "VACUI",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-05-03",
+      "answer": "FLYBY",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-05-04",
+      "answer": "ABIUS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-05-05",
+      "answer": "ARILS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-05-06",
+      "answer": "VARDO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-05-07",
+      "answer": "SMALL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-05-08",
+      "answer": "FLESH",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-05-09",
+      "answer": "CHIKO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-05-10",
+      "answer": "PRIDY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-05-11",
+      "answer": "SKOSH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-05-12",
+      "answer": "POPPA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-05-13",
+      "answer": "VELDS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-05-14",
+      "answer": "INERM",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-05-15",
+      "answer": "JUMBY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-05-16",
+      "answer": "SWORD",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-05-17",
+      "answer": "FERNY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-05-18",
+      "answer": "BITTS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-05-19",
+      "answer": "SPICY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-05-20",
+      "answer": "BUSKY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-05-21",
+      "answer": "GENII",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-05-22",
+      "answer": "MVULA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-05-23",
+      "answer": "JIVES",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-05-24",
+      "answer": "BINDI",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-05-25",
+      "answer": "HEILS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-05-26",
+      "answer": "TOKOS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-05-27",
+      "answer": "MORAE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-05-28",
+      "answer": "URVAS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-05-29",
+      "answer": "UPDRY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-05-30",
+      "answer": "GRONE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-05-31",
+      "answer": "QUOIS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-06-01",
+      "answer": "DEANS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-06-02",
+      "answer": "HAARS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-06-03",
+      "answer": "TWILL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-06-04",
+      "answer": "PEAKS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-06-05",
+      "answer": "STOGY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-06-06",
+      "answer": "LAUDE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-06-07",
+      "answer": "PUTAS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-06-08",
+      "answer": "FEODS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-06-09",
+      "answer": "EMBER",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-06-10",
+      "answer": "NAJIB",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-06-11",
+      "answer": "COPPY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-06-12",
+      "answer": "OLEOS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-06-13",
+      "answer": "LITAS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-06-14",
+      "answer": "CRIMP",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-06-15",
+      "answer": "PLAIT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-06-16",
+      "answer": "PLAVS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-06-17",
+      "answer": "ECASH",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-06-18",
+      "answer": "DEELY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-06-19",
+      "answer": "SANES",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-06-20",
+      "answer": "POMAS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-06-21",
+      "answer": "HAWED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-06-22",
+      "answer": "GREEK",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-06-23",
+      "answer": "PINON",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-06-24",
+      "answer": "CILIA",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-06-25",
+      "answer": "REFEL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-06-26",
+      "answer": "GLUES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-06-27",
+      "answer": "KATIS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-06-28",
+      "answer": "SIDES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-06-29",
+      "answer": "FILMI",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-06-30",
+      "answer": "YAYAS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-07-01",
+      "answer": "NEXUM",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-07-02",
+      "answer": "DOYEN",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-07-03",
+      "answer": "EMBUS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-07-04",
+      "answer": "WAILS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-07-05",
+      "answer": "DURZI",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-07-06",
+      "answer": "TACIT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-07-07",
+      "answer": "THYMI",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-07-08",
+      "answer": "AMMAN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-07-09",
+      "answer": "VISNE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-07-10",
+      "answer": "TROPO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-07-11",
+      "answer": "KVELL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-07-12",
+      "answer": "STERE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-07-13",
+      "answer": "ROWTS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-07-14",
+      "answer": "MANES",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-07-15",
+      "answer": "RAMEN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-07-16",
+      "answer": "GROIN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-07-17",
+      "answer": "SCHMO",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-07-18",
+      "answer": "PISOS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-07-19",
+      "answer": "ROWER",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-07-20",
+      "answer": "SATIS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-07-21",
+      "answer": "UMPIE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-07-22",
+      "answer": "WEEPY",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-07-23",
+      "answer": "JEERA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-07-24",
+      "answer": "LASED",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-07-25",
+      "answer": "ALWAY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-07-26",
+      "answer": "KIKES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-07-27",
+      "answer": "WAIFT",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-07-28",
+      "answer": "STATE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-07-29",
+      "answer": "ALGOR",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-07-30",
+      "answer": "CREIN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-07-31",
+      "answer": "ROMAN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-08-01",
+      "answer": "BREYS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-08-02",
+      "answer": "PATES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-08-03",
+      "answer": "CLINT",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-08-04",
+      "answer": "ODUMS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-08-05",
+      "answer": "LITAI",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-08-06",
+      "answer": "AGRIN",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-08-07",
+      "answer": "FLAPS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-08-08",
+      "answer": "LOVEE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-08-09",
+      "answer": "MUNGO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-08-10",
+      "answer": "FEENS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-08-11",
+      "answer": "PASTS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-08-12",
+      "answer": "QUIDS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-08-13",
+      "answer": "YESKS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-08-14",
+      "answer": "EATER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-08-15",
+      "answer": "STEPT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-08-16",
+      "answer": "EMEER",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-08-17",
+      "answer": "EMBOX",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-08-18",
+      "answer": "FACER",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-08-19",
+      "answer": "WRIER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-08-20",
+      "answer": "PICUL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-08-21",
+      "answer": "BIDON",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-08-22",
+      "answer": "DOGGO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-08-23",
+      "answer": "SWARF",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-08-24",
+      "answer": "DOWPS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-08-25",
+      "answer": "DYADS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-08-26",
+      "answer": "SAGAS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-08-27",
+      "answer": "TUSHY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-08-28",
+      "answer": "RENDS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-08-29",
+      "answer": "WINGE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-08-30",
+      "answer": "LATED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-08-31",
+      "answer": "MEILS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-09-01",
+      "answer": "SRSLY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-09-02",
+      "answer": "KULFI",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-09-03",
+      "answer": "NOVUM",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-09-04",
+      "answer": "BITTY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-09-05",
+      "answer": "QUARL",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-09-06",
+      "answer": "WANLY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-09-07",
+      "answer": "POWNY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-09-08",
+      "answer": "SETON",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-09-09",
+      "answer": "ETUDE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-09-10",
+      "answer": "ARISH",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-09-11",
+      "answer": "PEDOS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-09-12",
+      "answer": "CRUMP",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-09-13",
+      "answer": "TOLTS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-09-14",
+      "answer": "DOSEH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-09-15",
+      "answer": "AZYGY",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-09-16",
+      "answer": "WETLY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-09-17",
+      "answer": "AALII",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-09-18",
+      "answer": "NORIA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-09-19",
+      "answer": "GNATS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-09-20",
+      "answer": "JURES",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-09-21",
+      "answer": "ANKUS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-09-22",
+      "answer": "CYDER",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-09-23",
+      "answer": "UNKID",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-09-24",
+      "answer": "DRECK",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-09-25",
+      "answer": "ODALS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-09-26",
+      "answer": "STRIP",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-09-27",
+      "answer": "SYKER",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-09-28",
+      "answer": "MATZA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-09-29",
+      "answer": "SALTO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-09-30",
+      "answer": "SADHE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-10-01",
+      "answer": "CLAES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-10-02",
+      "answer": "BIZZY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-10-03",
+      "answer": "AKOIA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-10-04",
+      "answer": "CIVES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-10-05",
+      "answer": "FEZES",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-10-06",
+      "answer": "ALAAP",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-10-07",
+      "answer": "RENEW",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-10-08",
+      "answer": "SNARL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-10-09",
+      "answer": "TWINS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-10-10",
+      "answer": "KUMIS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-10-11",
+      "answer": "STEEP",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-10-12",
+      "answer": "GITCH",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-10-13",
+      "answer": "ARTEL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-10-14",
+      "answer": "ANKHS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-10-15",
+      "answer": "CLONK",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-10-16",
+      "answer": "DOOMS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-10-17",
+      "answer": "SOYUZ",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-10-18",
+      "answer": "CAVED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-10-19",
+      "answer": "SCALA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-10-20",
+      "answer": "COONS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-10-21",
+      "answer": "MUTIS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-10-22",
+      "answer": "HARLS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-10-23",
+      "answer": "STIRS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-10-24",
+      "answer": "PISCO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-10-25",
+      "answer": "OPZIT",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-10-26",
+      "answer": "ECADS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-10-27",
+      "answer": "IRKED",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-10-28",
+      "answer": "NAVED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-10-29",
+      "answer": "PLAYS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-10-30",
+      "answer": "GENAE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-10-31",
+      "answer": "POSIT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-11-01",
+      "answer": "SEDER",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-11-02",
+      "answer": "APPAM",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-11-03",
+      "answer": "COWPS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-11-04",
+      "answer": "LYASE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-11-05",
+      "answer": "SUGHS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-11-06",
+      "answer": "CARNS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-11-07",
+      "answer": "LARFS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-11-08",
+      "answer": "AGGAG",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-11-09",
+      "answer": "MACHE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-11-10",
+      "answer": "KITER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-11-11",
+      "answer": "FRITZ",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-11-12",
+      "answer": "THANG",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-11-13",
+      "answer": "DEERS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-11-14",
+      "answer": "AGALS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-11-15",
+      "answer": "MORAH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-11-16",
+      "answer": "PARAS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-11-17",
+      "answer": "DAFFS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-11-18",
+      "answer": "POCKY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-11-19",
+      "answer": "MUSTA",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-11-20",
+      "answer": "WIFES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-11-21",
+      "answer": "WIGGY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-11-22",
+      "answer": "WAVES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-11-23",
+      "answer": "BIPED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-11-24",
+      "answer": "LIMES",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-11-25",
+      "answer": "DILDO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-11-26",
+      "answer": "ZILLS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-11-27",
+      "answer": "BASER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-11-28",
+      "answer": "BRIKI",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-11-29",
+      "answer": "SUKUK",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-11-30",
+      "answer": "NOOVE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-12-01",
+      "answer": "LETTY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-12-02",
+      "answer": "YAPOK",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-12-03",
+      "answer": "YOGIC",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-12-04",
+      "answer": "KHADI",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-12-05",
+      "answer": "WHALE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-12-06",
+      "answer": "DALLE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-12-07",
+      "answer": "FIATS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-12-08",
+      "answer": "WILES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-12-09",
+      "answer": "FILTH",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-12-10",
+      "answer": "MILIA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-12-11",
+      "answer": "TANAS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-12-12",
+      "answer": "AYMAG",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-12-13",
+      "answer": "QUACK",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-12-14",
+      "answer": "EAGLY",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-12-15",
+      "answer": "TALAK",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-12-16",
+      "answer": "SHIPS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-12-17",
+      "answer": "TYNES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-12-18",
+      "answer": "BANTS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-12-19",
+      "answer": "GAPPY",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-12-20",
+      "answer": "YARCO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-12-21",
+      "answer": "ABORD",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-12-22",
+      "answer": "MUNGA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-12-23",
+      "answer": "GRAIL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-12-24",
+      "answer": "BALOO",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-12-25",
+      "answer": "BLIVE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-12-26",
+      "answer": "DAUDS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2028-12-27",
+      "answer": "DUNNO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-12-28",
+      "answer": "PULIS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-12-29",
+      "answer": "BOLOS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2028-12-30",
+      "answer": "BIJOU",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2028-12-31",
+      "answer": "MAUVY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-01-01",
+      "answer": "MESAD",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-01-02",
+      "answer": "BIONT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-01-03",
+      "answer": "WASHY",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-01-04",
+      "answer": "POPSY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-01-05",
+      "answer": "AHOLD",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-01-06",
+      "answer": "SITHE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-01-07",
+      "answer": "STRAE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-01-08",
+      "answer": "TWANK",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-01-09",
+      "answer": "DITAS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-01-10",
+      "answer": "BLAFF",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-01-11",
+      "answer": "DOUKS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-01-12",
+      "answer": "MODIN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-01-13",
+      "answer": "PILED",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-01-14",
+      "answer": "MOREE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-01-15",
+      "answer": "MONDO",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-01-16",
+      "answer": "BIZZO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-01-17",
+      "answer": "COPAL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-01-18",
+      "answer": "ULAMA",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-01-19",
+      "answer": "CHERE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-01-20",
+      "answer": "BIPOD",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-01-21",
+      "answer": "PRONG",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-01-22",
+      "answer": "CHOOM",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-01-23",
+      "answer": "YLEMS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-01-24",
+      "answer": "INDOW",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-01-25",
+      "answer": "TAYRA",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-01-26",
+      "answer": "GYOZA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-01-27",
+      "answer": "BUNJY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-01-28",
+      "answer": "SCHAV",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-01-29",
+      "answer": "TIGHT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-01-30",
+      "answer": "SCULP",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-01-31",
+      "answer": "URAEI",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-02-01",
+      "answer": "NAICE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-02-02",
+      "answer": "MOORS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-02-03",
+      "answer": "RUDER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-02-04",
+      "answer": "YAWPS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-02-05",
+      "answer": "SPAWN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-02-06",
+      "answer": "LADED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-02-07",
+      "answer": "EARST",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-02-08",
+      "answer": "TITCH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-02-09",
+      "answer": "TEINS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-02-10",
+      "answer": "SHOLA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-02-11",
+      "answer": "MAFIC",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-02-12",
+      "answer": "JEANS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-02-13",
+      "answer": "TWILT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-02-14",
+      "answer": "LUNAS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-02-15",
+      "answer": "TUTOR",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-02-16",
+      "answer": "GHAUT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-02-17",
+      "answer": "MAUND",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-02-18",
+      "answer": "PICCY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-02-19",
+      "answer": "SKITS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-02-20",
+      "answer": "ROLLY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-02-21",
+      "answer": "ZAYDE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-02-22",
+      "answer": "REALO",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-02-23",
+      "answer": "PIQUE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-02-24",
+      "answer": "REAPS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-02-25",
+      "answer": "BUCKS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-02-26",
+      "answer": "FUNGI",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-02-27",
+      "answer": "UPRAN",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-02-28",
+      "answer": "DEEVE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-03-01",
+      "answer": "OVALS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-03-02",
+      "answer": "REPPS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-03-03",
+      "answer": "MOSSY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-03-04",
+      "answer": "TEELS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-03-05",
+      "answer": "AMPED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-03-06",
+      "answer": "BOURD",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-03-07",
+      "answer": "PITAS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-03-08",
+      "answer": "NGANA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-03-09",
+      "answer": "GRUFF",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-03-10",
+      "answer": "TELCO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-03-11",
+      "answer": "RAHED",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-03-12",
+      "answer": "WANKS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-03-13",
+      "answer": "TERSE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-03-14",
+      "answer": "TENGE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-03-15",
+      "answer": "ENZYM",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-03-16",
+      "answer": "VEALS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-03-17",
+      "answer": "PAWNS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-03-18",
+      "answer": "MURKS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-03-19",
+      "answer": "SAUGH",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-03-20",
+      "answer": "YOWSA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-03-21",
+      "answer": "CAPOT",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-03-22",
+      "answer": "PILAF",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-03-23",
+      "answer": "EMICS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-03-24",
+      "answer": "OINKS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-03-25",
+      "answer": "BOYAR",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-03-26",
+      "answer": "SARVO",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-03-27",
+      "answer": "BAGIE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-03-28",
+      "answer": "DYKON",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-03-29",
+      "answer": "PAUXI",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-03-30",
+      "answer": "PRENT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-03-31",
+      "answer": "PRODD",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-04-01",
+      "answer": "OHING",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-04-02",
+      "answer": "PFFTT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-04-03",
+      "answer": "WINDS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-04-04",
+      "answer": "SANGS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-04-05",
+      "answer": "DIYAS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-04-06",
+      "answer": "FLOGS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-04-07",
+      "answer": "CURLI",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-04-08",
+      "answer": "SYKES",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-04-09",
+      "answer": "DROWN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-04-10",
+      "answer": "BONER",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-04-11",
+      "answer": "DIZEN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-04-12",
+      "answer": "REBAR",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-04-13",
+      "answer": "ESILE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-04-14",
+      "answer": "PULSE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-04-15",
+      "answer": "WENCH",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-04-16",
+      "answer": "LISKS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-04-17",
+      "answer": "FURRY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-04-18",
+      "answer": "MABAN",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-04-19",
+      "answer": "MOCAP",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-04-20",
+      "answer": "KERBS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-04-21",
+      "answer": "MOWED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-04-22",
+      "answer": "CADGY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-04-23",
+      "answer": "NINER",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-04-24",
+      "answer": "SIREE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-04-25",
+      "answer": "HAVEL",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-04-26",
+      "answer": "MOCHS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-04-27",
+      "answer": "NONNY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-04-28",
+      "answer": "KALES",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-04-29",
+      "answer": "SLUFF",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-04-30",
+      "answer": "CURST",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-05-01",
+      "answer": "PILLS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-05-02",
+      "answer": "VISED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-05-03",
+      "answer": "DAUNT",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-05-04",
+      "answer": "PASSU",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-05-05",
+      "answer": "VOUCH",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-05-06",
+      "answer": "MICRO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-05-07",
+      "answer": "WHEAL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-05-08",
+      "answer": "NGRAM",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-05-09",
+      "answer": "PRISE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-05-10",
+      "answer": "FLYTE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-05-11",
+      "answer": "LOBBY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-05-12",
+      "answer": "MEZZA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-05-13",
+      "answer": "RAZAI",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-05-14",
+      "answer": "BATHS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-05-15",
+      "answer": "SPEWY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-05-16",
+      "answer": "LERES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-05-17",
+      "answer": "BERKO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-05-18",
+      "answer": "SUBAK",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-05-19",
+      "answer": "UNSET",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-05-20",
+      "answer": "SETHS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-05-21",
+      "answer": "DINGO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-05-22",
+      "answer": "LUTED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-05-23",
+      "answer": "WHORE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-05-24",
+      "answer": "GISTS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-05-25",
+      "answer": "BONZE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-05-26",
+      "answer": "ACOEL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-05-27",
+      "answer": "SLABS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-05-28",
+      "answer": "DUKED",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-05-29",
+      "answer": "FARES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-05-30",
+      "answer": "NAVEL",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-05-31",
+      "answer": "VERGE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-06-01",
+      "answer": "BRULE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-06-02",
+      "answer": "LYTHE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-06-03",
+      "answer": "SLAKE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-06-04",
+      "answer": "COURT",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-06-05",
+      "answer": "REECH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-06-06",
+      "answer": "WERFS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-06-07",
+      "answer": "DUSTS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-06-08",
+      "answer": "BREER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-06-09",
+      "answer": "WIKIS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-06-10",
+      "answer": "HYPHY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-06-11",
+      "answer": "MUVVA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-06-12",
+      "answer": "GLIBS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-06-13",
+      "answer": "FLATS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-06-14",
+      "answer": "TONGS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-06-15",
+      "answer": "ONCUS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-06-16",
+      "answer": "PRETA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-06-17",
+      "answer": "SHRUG",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-06-18",
+      "answer": "CLYPE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-06-19",
+      "answer": "VEGAS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-06-20",
+      "answer": "BOGUS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-06-21",
+      "answer": "ZAMAK",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-06-22",
+      "answer": "ALFAS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-06-23",
+      "answer": "BUNDU",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-06-24",
+      "answer": "DAYAN",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-06-25",
+      "answer": "PLESH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-06-26",
+      "answer": "WENDS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-06-27",
+      "answer": "ROADS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-06-28",
+      "answer": "PLEIN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-06-29",
+      "answer": "TAATA",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-06-30",
+      "answer": "DERMS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-07-01",
+      "answer": "VARIX",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-07-02",
+      "answer": "GOMBO",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-07-03",
+      "answer": "TILED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-07-04",
+      "answer": "BHAIS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-07-05",
+      "answer": "BOGUE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-07-06",
+      "answer": "AESIR",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-07-07",
+      "answer": "OUEDS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-07-08",
+      "answer": "PLIMS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-07-09",
+      "answer": "BOONS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-07-10",
+      "answer": "REDES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-07-11",
+      "answer": "YOHAH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-07-12",
+      "answer": "NAGGY",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-07-13",
+      "answer": "PARRY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-07-14",
+      "answer": "PRANG",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-07-15",
+      "answer": "ROWND",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-07-16",
+      "answer": "MOWRA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-07-17",
+      "answer": "PREAK",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-07-18",
+      "answer": "POSHO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-07-19",
+      "answer": "PARRA",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-07-20",
+      "answer": "MAMIL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-07-21",
+      "answer": "GINCH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-07-22",
+      "answer": "ADOPT",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-07-23",
+      "answer": "BIDES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-07-24",
+      "answer": "FURZY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-07-25",
+      "answer": "VAWTE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-07-26",
+      "answer": "PLOWS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-07-27",
+      "answer": "OBELI",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-07-28",
+      "answer": "MONGO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-07-29",
+      "answer": "PULIK",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-07-30",
+      "answer": "PUMPS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-07-31",
+      "answer": "AKOJA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-08-01",
+      "answer": "ANNAS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-08-02",
+      "answer": "VICED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-08-03",
+      "answer": "BLOWY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-08-04",
+      "answer": "FARAD",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-08-05",
+      "answer": "SUGAN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-08-06",
+      "answer": "DUNGY",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-08-07",
+      "answer": "POLIS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-08-08",
+      "answer": "BUDDY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-08-09",
+      "answer": "HANCE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-08-10",
+      "answer": "CULTI",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-08-11",
+      "answer": "AVALE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-08-12",
+      "answer": "RECCO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-08-13",
+      "answer": "FLAWS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-08-14",
+      "answer": "AVINE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-08-15",
+      "answer": "TRAYS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-08-16",
+      "answer": "OFTEN",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-08-17",
+      "answer": "FULLY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-08-18",
+      "answer": "CHOGS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-08-19",
+      "answer": "NUNUS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-08-20",
+      "answer": "NONGS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-08-21",
+      "answer": "HOOTY",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-08-22",
+      "answer": "SCROD",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-08-23",
+      "answer": "SPUTA",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-08-24",
+      "answer": "RODES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-08-25",
+      "answer": "BYDED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-08-26",
+      "answer": "SEILS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-08-27",
+      "answer": "TIYNS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-08-28",
+      "answer": "EYRIR",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-08-29",
+      "answer": "YOURT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-08-30",
+      "answer": "STUNT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-08-31",
+      "answer": "WEEMS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-09-01",
+      "answer": "CARTE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-09-02",
+      "answer": "YUANS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-09-03",
+      "answer": "WICCA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-09-04",
+      "answer": "ALKIE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-09-05",
+      "answer": "BUNIA",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-09-06",
+      "answer": "MOUSY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-09-07",
+      "answer": "RECUE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-09-08",
+      "answer": "BOREK",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-09-09",
+      "answer": "CHAPS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-09-10",
+      "answer": "URPED",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-09-11",
+      "answer": "POLIO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-09-12",
+      "answer": "CADRE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-09-13",
+      "answer": "EQUID",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-09-14",
+      "answer": "HAMED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-09-15",
+      "answer": "DUROC",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-09-16",
+      "answer": "BULLY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-09-17",
+      "answer": "PAGED",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-09-18",
+      "answer": "KETCH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-09-19",
+      "answer": "BEANO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-09-20",
+      "answer": "SEWED",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-09-21",
+      "answer": "CROON",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-09-22",
+      "answer": "GARBS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-09-23",
+      "answer": "RAPHE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-09-24",
+      "answer": "ADOZE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-09-25",
+      "answer": "FOLIO",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-09-26",
+      "answer": "ORACH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-09-27",
+      "answer": "PROOK",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-09-28",
+      "answer": "ALLIN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-09-29",
+      "answer": "STURT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-09-30",
+      "answer": "RAMSE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-10-01",
+      "answer": "GIRON",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-10-02",
+      "answer": "YOGEE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-10-03",
+      "answer": "REMEX",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-10-04",
+      "answer": "KAIKA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-10-05",
+      "answer": "BEBOP",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-10-06",
+      "answer": "TEUCH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-10-07",
+      "answer": "WORKS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-10-08",
+      "answer": "MOBEE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-10-09",
+      "answer": "CHAYA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-10-10",
+      "answer": "AGGRI",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-10-11",
+      "answer": "DOSAS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-10-12",
+      "answer": "FLANK",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-10-13",
+      "answer": "KNOUT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-10-14",
+      "answer": "AMMAS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-10-15",
+      "answer": "REWTH",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-10-16",
+      "answer": "LAPPY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-10-17",
+      "answer": "SIXES",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-10-18",
+      "answer": "GYALS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-10-19",
+      "answer": "URALI",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-10-20",
+      "answer": "VILLA",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-10-21",
+      "answer": "HENTS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-10-22",
+      "answer": "HAULT",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-10-23",
+      "answer": "PORER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-10-24",
+      "answer": "NAGAS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-10-25",
+      "answer": "KOKER",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-10-26",
+      "answer": "AGAMA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-10-27",
+      "answer": "PIPED",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-10-28",
+      "answer": "STARN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-10-29",
+      "answer": "RIKKA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-10-30",
+      "answer": "CATES",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-10-31",
+      "answer": "LOHAN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-11-01",
+      "answer": "AWORK",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-11-02",
+      "answer": "DOZER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-11-03",
+      "answer": "ROWIE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-11-04",
+      "answer": "DOBRO",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-11-05",
+      "answer": "MORTS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-11-06",
+      "answer": "SCAFF",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-11-07",
+      "answer": "BOATY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-11-08",
+      "answer": "REBUY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-11-09",
+      "answer": "MARGE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-11-10",
+      "answer": "DRAFF",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-11-11",
+      "answer": "SIETH",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-11-12",
+      "answer": "SHOAL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-11-13",
+      "answer": "NAKFA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-11-14",
+      "answer": "TEDDY",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-11-15",
+      "answer": "PETIT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-11-16",
+      "answer": "KAGOS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-11-17",
+      "answer": "SAETA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-11-18",
+      "answer": "TOPEE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-11-19",
+      "answer": "TUPEK",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-11-20",
+      "answer": "NEUME",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-11-21",
+      "answer": "TERMS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-11-22",
+      "answer": "FATED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-11-23",
+      "answer": "TALAR",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-11-24",
+      "answer": "RAGED",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-11-25",
+      "answer": "IVORY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-11-26",
+      "answer": "FRATI",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-11-27",
+      "answer": "TIZES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-11-28",
+      "answer": "GLOWY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-11-29",
+      "answer": "JELLO",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-11-30",
+      "answer": "BUENA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-12-01",
+      "answer": "MULED",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-12-02",
+      "answer": "FETCH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-12-03",
+      "answer": "LARNT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-12-04",
+      "answer": "DAUBE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-12-05",
+      "answer": "DRAIL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-12-06",
+      "answer": "AKEES",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-12-07",
+      "answer": "EVITE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-12-08",
+      "answer": "TENTY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-12-09",
+      "answer": "PASEO",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-12-10",
+      "answer": "MORAL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-12-11",
+      "answer": "ZYMES",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-12-12",
+      "answer": "LEESE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-12-13",
+      "answer": "BARRO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-12-14",
+      "answer": "SAMAS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-12-15",
+      "answer": "FURCA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-12-16",
+      "answer": "RAGUS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-12-17",
+      "answer": "URAOS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-12-18",
+      "answer": "NOUJA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-12-19",
+      "answer": "TEENE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-12-20",
+      "answer": "HILSA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-12-21",
+      "answer": "TWIGS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-12-22",
+      "answer": "BOSUN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-12-23",
+      "answer": "HOMEY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-12-24",
+      "answer": "KUBIE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-12-25",
+      "answer": "GYNAE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-12-26",
+      "answer": "PLUTY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2029-12-27",
+      "answer": "ZLOTE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-12-28",
+      "answer": "ABBEY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-12-29",
+      "answer": "GEEPS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2029-12-30",
+      "answer": "BORDS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2029-12-31",
+      "answer": "NIMBS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-01-01",
+      "answer": "PSOAS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-01-02",
+      "answer": "ACCRA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-01-03",
+      "answer": "NOIRE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-01-04",
+      "answer": "FALAJ",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-01-05",
+      "answer": "DEALS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-01-06",
+      "answer": "TATOU",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-01-07",
+      "answer": "WAREZ",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-01-08",
+      "answer": "DBAGS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-01-09",
+      "answer": "LABNE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-01-10",
+      "answer": "OPERA",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-01-11",
+      "answer": "SEARE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-01-12",
+      "answer": "SEARS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-01-13",
+      "answer": "WINDY",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-01-14",
+      "answer": "SILVA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-01-15",
+      "answer": "DSOBO",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-01-16",
+      "answer": "KUTCH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-01-17",
+      "answer": "KEMPT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-01-18",
+      "answer": "LAWNY",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-01-19",
+      "answer": "RANKE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-01-20",
+      "answer": "FINIS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-01-21",
+      "answer": "DALIS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-01-22",
+      "answer": "KENDO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-01-23",
+      "answer": "OCTAN",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-01-24",
+      "answer": "RENEY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-01-25",
+      "answer": "TUFTS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-01-26",
+      "answer": "THRIP",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-01-27",
+      "answer": "GONIF",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-01-28",
+      "answer": "DEADS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-01-29",
+      "answer": "PLUSH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-01-30",
+      "answer": "CURER",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-01-31",
+      "answer": "ANLAS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-02-01",
+      "answer": "PLAGA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-02-02",
+      "answer": "LUNTS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-02-03",
+      "answer": "AURES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-02-04",
+      "answer": "YOUNG",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-02-05",
+      "answer": "BONIE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-02-06",
+      "answer": "GRAME",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-02-07",
+      "answer": "ARCOS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-02-08",
+      "answer": "GLOAT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-02-09",
+      "answer": "TOMES",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-02-10",
+      "answer": "OCTLI",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-02-11",
+      "answer": "RUBEL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-02-12",
+      "answer": "GOKES",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-02-13",
+      "answer": "NKOSI",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-02-14",
+      "answer": "AMORE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-02-15",
+      "answer": "DUMAS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-02-16",
+      "answer": "PAOLO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-02-17",
+      "answer": "DERMA",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-02-18",
+      "answer": "POYAS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-02-19",
+      "answer": "CIVET",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-02-20",
+      "answer": "ULCER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-02-21",
+      "answer": "MESSY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-02-22",
+      "answer": "SHUCK",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-02-23",
+      "answer": "MAIZE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-02-24",
+      "answer": "SONNY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-02-25",
+      "answer": "DIPPY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-02-26",
+      "answer": "RENIG",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-02-27",
+      "answer": "RASTA",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-02-28",
+      "answer": "BAYES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-03-01",
+      "answer": "OUNDY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-03-02",
+      "answer": "MAIKO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-03-03",
+      "answer": "TRYER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-03-04",
+      "answer": "LOWNE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-03-05",
+      "answer": "OOHED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-03-06",
+      "answer": "ORCAS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-03-07",
+      "answer": "TWIXT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-03-08",
+      "answer": "CLOZE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-03-09",
+      "answer": "FIGGY",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-03-10",
+      "answer": "ASADA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-03-11",
+      "answer": "VERSE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-03-12",
+      "answer": "SLIPS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-03-13",
+      "answer": "PARMS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-03-14",
+      "answer": "SPACY",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-03-15",
+      "answer": "JAXIE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-03-16",
+      "answer": "KRONE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-03-17",
+      "answer": "JEWED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-03-18",
+      "answer": "BLORE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-03-19",
+      "answer": "ACERB",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-03-20",
+      "answer": "HOAST",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-03-21",
+      "answer": "PALES",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-03-22",
+      "answer": "MUMMS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-03-23",
+      "answer": "MUNDS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-03-24",
+      "answer": "DOITS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-03-25",
+      "answer": "FISTY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-03-26",
+      "answer": "FLEXI",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-03-27",
+      "answer": "BESEE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-03-28",
+      "answer": "ORGAN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-03-29",
+      "answer": "RATOO",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-03-30",
+      "answer": "REWAX",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-03-31",
+      "answer": "TRIFF",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-04-01",
+      "answer": "FORMA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-04-02",
+      "answer": "SCOWS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-04-03",
+      "answer": "BOOTS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-04-04",
+      "answer": "ONCET",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-04-05",
+      "answer": "CULTY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-04-06",
+      "answer": "REPAS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-04-07",
+      "answer": "BOOFY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-04-08",
+      "answer": "CLEIK",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-04-09",
+      "answer": "URGER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-04-10",
+      "answer": "GINGE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-04-11",
+      "answer": "KYLOE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-04-12",
+      "answer": "EGGAR",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-04-13",
+      "answer": "BACCO",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-04-14",
+      "answer": "CAPIZ",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-04-15",
+      "answer": "CANTS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-04-16",
+      "answer": "COMIX",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-04-17",
+      "answer": "POMOS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-04-18",
+      "answer": "SABRE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-04-19",
+      "answer": "SWING",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-04-20",
+      "answer": "TAROK",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-04-21",
+      "answer": "FIORD",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-04-22",
+      "answer": "UNBED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-04-23",
+      "answer": "GRIST",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-04-24",
+      "answer": "SYLIS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-04-25",
+      "answer": "DEEVS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-04-26",
+      "answer": "ANTRE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-04-27",
+      "answer": "RECTI",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-04-28",
+      "answer": "CRAYS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-04-29",
+      "answer": "WORKY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-04-30",
+      "answer": "MEVED",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-05-01",
+      "answer": "CHERT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-05-02",
+      "answer": "MOULS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-05-03",
+      "answer": "VOLVA",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-05-04",
+      "answer": "PHUTU",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-05-05",
+      "answer": "THEIN",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-05-06",
+      "answer": "CHIRK",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-05-07",
+      "answer": "ETHOS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-05-08",
+      "answer": "CHOIL",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-05-09",
+      "answer": "LACKS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-05-10",
+      "answer": "PROAL",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-05-11",
+      "answer": "SOLDI",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-05-12",
+      "answer": "FOWTH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-05-13",
+      "answer": "STUDE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-05-14",
+      "answer": "AFEAR",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-05-15",
+      "answer": "BOKEH",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-05-16",
+      "answer": "GUYLE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-05-17",
+      "answer": "WASHI",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-05-18",
+      "answer": "SWIES",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-05-19",
+      "answer": "WHIES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-05-20",
+      "answer": "DONER",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-05-21",
+      "answer": "TRULL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-05-22",
+      "answer": "OUNCE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-05-23",
+      "answer": "GRUME",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-05-24",
+      "answer": "DEERE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-05-25",
+      "answer": "DENIS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-05-26",
+      "answer": "AARTI",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-05-27",
+      "answer": "BALUS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-05-28",
+      "answer": "KIDGE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-05-29",
+      "answer": "HAIKS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-05-30",
+      "answer": "MOBES",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-05-31",
+      "answer": "SAMEN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-06-01",
+      "answer": "ASKER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-06-02",
+      "answer": "TITER",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-06-03",
+      "answer": "FELCH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-06-04",
+      "answer": "ELEMI",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-06-05",
+      "answer": "BUNDE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-06-06",
+      "answer": "WICKY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-06-07",
+      "answer": "SMIZE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-06-08",
+      "answer": "JORTS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-06-09",
+      "answer": "BLIST",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-06-10",
+      "answer": "MALAS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-06-11",
+      "answer": "ANIGH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-06-12",
+      "answer": "CHAVS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-06-13",
+      "answer": "MITEY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-06-14",
+      "answer": "SORAS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-06-15",
+      "answer": "GAYAL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-06-16",
+      "answer": "SITUS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-06-17",
+      "answer": "RULES",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-06-18",
+      "answer": "SAJOU",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-06-19",
+      "answer": "NUKED",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-06-20",
+      "answer": "KINGY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-06-21",
+      "answer": "DEVIS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-06-22",
+      "answer": "FANKS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-06-23",
+      "answer": "SLYLY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-06-24",
+      "answer": "OWERS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-06-25",
+      "answer": "VOLKS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-06-26",
+      "answer": "RUFFE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-06-27",
+      "answer": "BICKY",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-06-28",
+      "answer": "KOTOS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-06-29",
+      "answer": "VIOLD",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-06-30",
+      "answer": "OLPES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-07-01",
+      "answer": "DHOLE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-07-02",
+      "answer": "UNWON",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-07-03",
+      "answer": "HORAL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-07-04",
+      "answer": "LOMAS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-07-05",
+      "answer": "GALAS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-07-06",
+      "answer": "TARTE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-07-07",
+      "answer": "UPSET",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-07-08",
+      "answer": "ADMIN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-07-09",
+      "answer": "MERLS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-07-10",
+      "answer": "ELFED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-07-11",
+      "answer": "MUCKY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-07-12",
+      "answer": "ZARDA",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-07-13",
+      "answer": "GOOFY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-07-14",
+      "answer": "HIKOI",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-07-15",
+      "answer": "VENAS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-07-16",
+      "answer": "STEDD",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-07-17",
+      "answer": "MELDS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-07-18",
+      "answer": "GOTCH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-07-19",
+      "answer": "THANE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-07-20",
+      "answer": "SKEDS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-07-21",
+      "answer": "UNKET",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-07-22",
+      "answer": "TOPHE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-07-23",
+      "answer": "DOWNA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-07-24",
+      "answer": "FREIT",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-07-25",
+      "answer": "PYINS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-07-26",
+      "answer": "SALMI",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-07-27",
+      "answer": "IGLOO",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-07-28",
+      "answer": "LEVIN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-07-29",
+      "answer": "MERIT",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-07-30",
+      "answer": "STIVY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-07-31",
+      "answer": "PANED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-08-01",
+      "answer": "ORVAL",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-08-02",
+      "answer": "DUVET",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-08-03",
+      "answer": "GOUTY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-08-04",
+      "answer": "DETOX",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-08-05",
+      "answer": "FANGS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-08-06",
+      "answer": "LAPAS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-08-07",
+      "answer": "BILBY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-08-08",
+      "answer": "SLOOP",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-08-09",
+      "answer": "HOWFF",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-08-10",
+      "answer": "GINNY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-08-11",
+      "answer": "ATTAS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-08-12",
+      "answer": "EKKAS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-08-13",
+      "answer": "REFRY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-08-14",
+      "answer": "NACRE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-08-15",
+      "answer": "UNLAP",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-08-16",
+      "answer": "MONIC",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-08-17",
+      "answer": "VASES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-08-18",
+      "answer": "ZIMBS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-08-19",
+      "answer": "HALLO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-08-20",
+      "answer": "PILUM",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-08-21",
+      "answer": "MOPER",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-08-22",
+      "answer": "TUNIC",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-08-23",
+      "answer": "SUJEE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-08-24",
+      "answer": "FLEWS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-08-25",
+      "answer": "BARPS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-08-26",
+      "answer": "ARAKS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-08-27",
+      "answer": "DUCHY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-08-28",
+      "answer": "ASSEZ",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-08-29",
+      "answer": "SNABS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-08-30",
+      "answer": "BYDES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-08-31",
+      "answer": "DIVIS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-09-01",
+      "answer": "HIFIS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-09-02",
+      "answer": "DRANT",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-09-03",
+      "answer": "BILED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-09-04",
+      "answer": "MAKES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-09-05",
+      "answer": "PAULS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-09-06",
+      "answer": "TIFFS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-09-07",
+      "answer": "DROPT",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-09-08",
+      "answer": "LUNET",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-09-09",
+      "answer": "LACER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-09-10",
+      "answer": "DELES",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-09-11",
+      "answer": "TINTS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-09-12",
+      "answer": "VINAL",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-09-13",
+      "answer": "RORID",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-09-14",
+      "answer": "NOCKS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-09-15",
+      "answer": "TANGS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-09-16",
+      "answer": "FAUCH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-09-17",
+      "answer": "TIRLS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-09-18",
+      "answer": "NOLES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-09-19",
+      "answer": "LIFES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-09-20",
+      "answer": "AGATY",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-09-21",
+      "answer": "MULCT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-09-22",
+      "answer": "DEVOT",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-09-23",
+      "answer": "MUCKS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-09-24",
+      "answer": "OUTRO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-09-25",
+      "answer": "DOGES",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-09-26",
+      "answer": "OKIES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-09-27",
+      "answer": "LOLLO",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-09-28",
+      "answer": "ABLES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-09-29",
+      "answer": "NAZZY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-09-30",
+      "answer": "ARTAL",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-10-01",
+      "answer": "NAMAD",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-10-02",
+      "answer": "CYANS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-10-03",
+      "answer": "SMOKO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-10-04",
+      "answer": "BELLI",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-10-05",
+      "answer": "CERGE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-10-06",
+      "answer": "GOADS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-10-07",
+      "answer": "DIPSO",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-10-08",
+      "answer": "PSION",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-10-09",
+      "answer": "MOCHI",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-10-10",
+      "answer": "CLINE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-10-11",
+      "answer": "ZULUS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-10-12",
+      "answer": "KEBAR",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-10-13",
+      "answer": "SPITS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-10-14",
+      "answer": "LEEKS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-10-15",
+      "answer": "FAIKS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-10-16",
+      "answer": "FROYO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-10-17",
+      "answer": "DAINE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-10-18",
+      "answer": "TRACK",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-10-19",
+      "answer": "SWOUN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-10-20",
+      "answer": "PRORE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-10-21",
+      "answer": "MIKED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-10-22",
+      "answer": "SINED",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-10-23",
+      "answer": "LEFTY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-10-24",
+      "answer": "STEEL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-10-25",
+      "answer": "BILLY",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-10-26",
+      "answer": "SELKY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-10-27",
+      "answer": "DRERE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-10-28",
+      "answer": "SELFY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-10-29",
+      "answer": "UMRAH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-10-30",
+      "answer": "RANGE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-10-31",
+      "answer": "THUNK",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-11-01",
+      "answer": "SHOJI",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-11-02",
+      "answer": "COFFS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-11-03",
+      "answer": "ARRAS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-11-04",
+      "answer": "NUTTY",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-11-05",
+      "answer": "HYTHE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-11-06",
+      "answer": "SOPHY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-11-07",
+      "answer": "MAZUT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-11-08",
+      "answer": "PYOID",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-11-09",
+      "answer": "LAVAL",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-11-10",
+      "answer": "UKASE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-11-11",
+      "answer": "FACTA",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-11-12",
+      "answer": "ROGER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-11-13",
+      "answer": "STRAY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-11-14",
+      "answer": "BAYAS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-11-15",
+      "answer": "TELES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-11-16",
+      "answer": "AIMAG",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-11-17",
+      "answer": "RUNES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-11-18",
+      "answer": "OLEYL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-11-19",
+      "answer": "PADRE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-11-20",
+      "answer": "FETUS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-11-21",
+      "answer": "CHEEP",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-11-22",
+      "answer": "TURBO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-11-23",
+      "answer": "TONKA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-11-24",
+      "answer": "LUBED",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-11-25",
+      "answer": "ARITH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-11-26",
+      "answer": "SENTS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-11-27",
+      "answer": "LABIA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-11-28",
+      "answer": "RAPEE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-11-29",
+      "answer": "TWINY",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-11-30",
+      "answer": "PUBCO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-12-01",
+      "answer": "GIMPS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-12-02",
+      "answer": "APERT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-12-03",
+      "answer": "RESIT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-12-04",
+      "answer": "LENDS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-12-05",
+      "answer": "RESOW",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-12-06",
+      "answer": "BEEFY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-12-07",
+      "answer": "OPERY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-12-08",
+      "answer": "VODOU",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-12-09",
+      "answer": "PIZED",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-12-10",
+      "answer": "HALER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-12-11",
+      "answer": "PRICY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-12-12",
+      "answer": "MINKE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-12-13",
+      "answer": "ELINT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-12-14",
+      "answer": "LOORD",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-12-15",
+      "answer": "RYPER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-12-16",
+      "answer": "WELTS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-12-17",
+      "answer": "RERIG",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-12-18",
+      "answer": "MOONI",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-12-19",
+      "answer": "QUINA",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-12-20",
+      "answer": "LAVER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-12-21",
+      "answer": "ALGAS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-12-22",
+      "answer": "AXION",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-12-23",
+      "answer": "GNAWN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-12-24",
+      "answer": "SENNA",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-12-25",
+      "answer": "RECKS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-12-26",
+      "answer": "VICES",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2030-12-27",
+      "answer": "WIRES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-12-28",
+      "answer": "THEMA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-12-29",
+      "answer": "KRAYS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2030-12-30",
+      "answer": "RUSTY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2030-12-31",
+      "answer": "DATED",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-01-01",
+      "answer": "SPEIL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-01-02",
+      "answer": "BLAGS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-01-03",
+      "answer": "RORTS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-01-04",
+      "answer": "WANES",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-01-05",
+      "answer": "UPPED",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-01-06",
+      "answer": "WHATS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-01-07",
+      "answer": "DEBBY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-01-08",
+      "answer": "SPETS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-01-09",
+      "answer": "TUNER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-01-10",
+      "answer": "SKIOS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-01-11",
+      "answer": "GERMS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-01-12",
+      "answer": "VIMEN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-01-13",
+      "answer": "FRITH",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-01-14",
+      "answer": "PODGY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-01-15",
+      "answer": "PALMS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-01-16",
+      "answer": "BOILS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-01-17",
+      "answer": "TAWIE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-01-18",
+      "answer": "DEARN",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-01-19",
+      "answer": "SLILY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-01-20",
+      "answer": "UMPTY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-01-21",
+      "answer": "PREPS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-01-22",
+      "answer": "CLIME",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-01-23",
+      "answer": "SYLVA",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-01-24",
+      "answer": "ATMOS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-01-25",
+      "answer": "BIGAE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-01-26",
+      "answer": "REACT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-01-27",
+      "answer": "GONEF",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-01-28",
+      "answer": "STABS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-01-29",
+      "answer": "SPINS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-01-30",
+      "answer": "SYCES",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-01-31",
+      "answer": "SUPED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-02-01",
+      "answer": "SCALP",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-02-02",
+      "answer": "SERAC",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-02-03",
+      "answer": "SQUAW",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-02-04",
+      "answer": "POLLO",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-02-05",
+      "answer": "LINEN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-02-06",
+      "answer": "FINCA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-02-07",
+      "answer": "NOEMA",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-02-08",
+      "answer": "BIMAH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-02-09",
+      "answer": "DREAR",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-02-10",
+      "answer": "KNICK",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-02-11",
+      "answer": "BICEP",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-02-12",
+      "answer": "MODOM",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-02-13",
+      "answer": "CREEK",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-02-14",
+      "answer": "SPLAT",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-02-15",
+      "answer": "DIALS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-02-16",
+      "answer": "BOWLS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-02-17",
+      "answer": "PILAO",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-02-18",
+      "answer": "TYNDE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-02-19",
+      "answer": "COLTS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-02-20",
+      "answer": "SOILS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-02-21",
+      "answer": "BRUTS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-02-22",
+      "answer": "TERNE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-02-23",
+      "answer": "SHOYU",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-02-24",
+      "answer": "RAINE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-02-25",
+      "answer": "YUMMO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-02-26",
+      "answer": "PRICE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-02-27",
+      "answer": "SUSHI",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-02-28",
+      "answer": "CHIMO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-03-01",
+      "answer": "UPPER",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-03-02",
+      "answer": "BRASS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-03-03",
+      "answer": "EBONS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-03-04",
+      "answer": "KOALA",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-03-05",
+      "answer": "CROWL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-03-06",
+      "answer": "SENDS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-03-07",
+      "answer": "TIZZY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-03-08",
+      "answer": "GOAFS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-03-09",
+      "answer": "POTES",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-03-10",
+      "answer": "DAKER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-03-11",
+      "answer": "FITCH",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-03-12",
+      "answer": "QUOYS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-03-13",
+      "answer": "WIGGA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-03-14",
+      "answer": "NILLS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-03-15",
+      "answer": "COWAL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-03-16",
+      "answer": "CLIPS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-03-17",
+      "answer": "KIBEI",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-03-18",
+      "answer": "PADAM",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-03-19",
+      "answer": "IDANT",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-03-20",
+      "answer": "WHOOT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-03-21",
+      "answer": "HOBOS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-03-22",
+      "answer": "THIEF",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-03-23",
+      "answer": "LURED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-03-24",
+      "answer": "FALES",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-03-25",
+      "answer": "FEELS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-03-26",
+      "answer": "MULCH",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-03-27",
+      "answer": "SHILY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-03-28",
+      "answer": "BORTY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-03-29",
+      "answer": "GIBER",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-03-30",
+      "answer": "SLIER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-03-31",
+      "answer": "NEWBS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-04-01",
+      "answer": "KREEF",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-04-02",
+      "answer": "BROSY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-04-03",
+      "answer": "FEEZE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-04-04",
+      "answer": "STALE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-04-05",
+      "answer": "LAZES",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-04-06",
+      "answer": "DORBS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-04-07",
+      "answer": "REBID",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-04-08",
+      "answer": "POOVY",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-04-09",
+      "answer": "PREVE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-04-10",
+      "answer": "PSEUD",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-04-11",
+      "answer": "TAWED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-04-12",
+      "answer": "REGIA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-04-13",
+      "answer": "SUBHA",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-04-14",
+      "answer": "DIVOS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-04-15",
+      "answer": "ROVER",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-04-16",
+      "answer": "MACKS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-04-17",
+      "answer": "YOUSE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-04-18",
+      "answer": "HYMNS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-04-19",
+      "answer": "USNEA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-04-20",
+      "answer": "STIMS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-04-21",
+      "answer": "FIENT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-04-22",
+      "answer": "FUNDA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-04-23",
+      "answer": "GAVOT",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-04-24",
+      "answer": "TOYED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-04-25",
+      "answer": "MASON",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-04-26",
+      "answer": "GOVED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-04-27",
+      "answer": "CUPPA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-04-28",
+      "answer": "DORTS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-04-29",
+      "answer": "EPHOD",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-04-30",
+      "answer": "PAREU",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-05-01",
+      "answer": "MEANS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-05-02",
+      "answer": "LYSOL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-05-03",
+      "answer": "AIXES",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-05-04",
+      "answer": "DORKS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-05-05",
+      "answer": "DOUSE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-05-06",
+      "answer": "TASED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-05-07",
+      "answer": "GROAN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-05-08",
+      "answer": "DURRY",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-05-09",
+      "answer": "CUISH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-05-10",
+      "answer": "WIFIE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-05-11",
+      "answer": "SNIPY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-05-12",
+      "answer": "MINED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-05-13",
+      "answer": "PLOYS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-05-14",
+      "answer": "HIGHT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-05-15",
+      "answer": "BISKS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-05-16",
+      "answer": "BARDY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-05-17",
+      "answer": "EDILE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-05-18",
+      "answer": "IMBED",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-05-19",
+      "answer": "ANGLO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-05-20",
+      "answer": "KERKY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-05-21",
+      "answer": "MADRE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-05-22",
+      "answer": "GONOF",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-05-23",
+      "answer": "AWARN",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-05-24",
+      "answer": "LOLLY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-05-25",
+      "answer": "MATTE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-05-26",
+      "answer": "SATED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-05-27",
+      "answer": "NIKAB",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-05-28",
+      "answer": "SENSE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-05-29",
+      "answer": "PIKAU",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-05-30",
+      "answer": "BLUDY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-05-31",
+      "answer": "AWAIT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-06-01",
+      "answer": "TEGUS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-06-02",
+      "answer": "TRONC",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-06-03",
+      "answer": "BRAGS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-06-04",
+      "answer": "OMBER",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-06-05",
+      "answer": "BATIK",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-06-06",
+      "answer": "OLATE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-06-07",
+      "answer": "MORAT",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-06-08",
+      "answer": "TUBAL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-06-09",
+      "answer": "LANED",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-06-10",
+      "answer": "MUNTS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-06-11",
+      "answer": "DATOS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-06-12",
+      "answer": "EXONS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-06-13",
+      "answer": "WHEAR",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-06-14",
+      "answer": "NOPAL",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-06-15",
+      "answer": "SHOJO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-06-16",
+      "answer": "APIAN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-06-17",
+      "answer": "TOTES",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-06-18",
+      "answer": "ARNIS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-06-19",
+      "answer": "FLAVA",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2031-06-20",
+      "answer": "PEPPY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-06-21",
+      "answer": "ECHOS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2031-06-22",
+      "answer": "OBOLE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2031-06-23",
+      "answer": "GERLE",
+      "difficulty": "medium"
     }
   ]
 }
