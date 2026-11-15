@@ -338,6 +338,45 @@ header .nav-label{display:block!important;font:600 10px/1.1 'DM Sans',sans-serif
 
 /* Final viewport sizing after the desktop header update */
 @media(min-width:601px){main{height:calc(100dvh - 110px)!important;max-height:calc(100dvh - 110px)!important}}
+
+/* Compact the six-row board so the full puzzle fits without page scrolling */
+#board{
+ width:min(320px,calc(100vw - 40px))!important;
+ max-height:none!important;
+ overflow:visible!important;
+ gap:5px!important;
+ margin:5px auto 8px!important;
+ padding:0!important;
+}
+#board .tile{
+ min-width:0!important;
+ font-size:clamp(23px,3.5vw,29px)!important;
+ border-radius:7px!important;
+}
+#message{min-height:22px!important;height:auto!important;margin:0 0 5px!important}
+@media(max-width:600px){
+ main{margin-top:8px!important}
+ .date-top{margin:8px auto 8px!important}
+ #board{width:min(292px,calc(100vw - 44px))!important;gap:4px!important;margin:3px auto 5px!important}
+ #board .tile{font-size:clamp(21px,6vw,26px)!important;border-radius:6px!important}
+ #message{min-height:20px!important;margin:0 0 3px!important;font-size:11px!important}
+ #keyboard{gap:5px!important;padding-top:6px!important}
+ #keyboard .key{height:clamp(39px,9.5vw,46px)!important}
+}
+@media(max-height:740px){
+ #board{width:min(280px,calc(100vw - 48px))!important;gap:4px!important}
+ #board .tile{font-size:23px!important}
+ #keyboard .key{height:40px!important}
+ #keyboard{gap:4px!important;padding-top:5px!important}
+}
+@media(max-height:660px){
+ header{height:96px!important;min-height:96px!important}
+ main{padding-bottom:150px!important}
+ #board{width:min(250px,calc(100vw - 52px))!important;gap:3px!important}
+ #board .tile{font-size:20px!important}
+ #keyboard .key{height:34px!important}
+ #keyboard{padding-top:4px!important;gap:3px!important}
+}
 </style>
 </head>
 <body>
