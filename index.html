@@ -60,12 +60,54 @@ main{width:min(500px,94vw);margin:28px auto 42px}
 .archive-day{border-radius:10px;font-family:'DM Sans',sans-serif}
 @media(max-width:520px){header{height:66px}.logo{font-size:23px;letter-spacing:4px}.head-actions{right:8px;gap:0}.icon-btn{width:35px;height:38px;font-size:17px}main{margin:20px auto 30px}.tile{font-size:28px;border-radius:7px}.key{height:49px;border-radius:8px}.key-row{gap:4px}}
 
+
+/* Interaction and responsive layout fixes */
+.archive-launch{display:flex;align-items:center;justify-content:center;gap:9px;margin:0 auto 18px;padding:10px 19px;border:1px solid #cbdad2;border-radius:999px;background:rgba(255,255,255,.88);color:#315b54;font:700 13px 'DM Sans',sans-serif;letter-spacing:.01em;box-shadow:0 4px 14px rgba(31,61,52,.06);cursor:pointer;transition:transform .16s,background .16s,border-color .16s,box-shadow .16s}
+.archive-launch span{font-size:16px;line-height:1}
+.archive-launch:hover{background:#eaf2ed;border-color:#a9c7b8;transform:translateY(-1px);box-shadow:0 7px 18px rgba(31,61,52,.09)}
+.archive-launch:active{transform:translateY(0)}
+#board{width:min(350px,100%);max-width:calc(100vw - 36px)}
+#keyboard{width:100%;max-width:500px}
+.key-row{width:100%;gap:clamp(3px,1.1vw,6px)}
+.key{padding:0 2px;min-width:0}
+header{z-index:2}
+@media(max-width:600px){
+ header{height:auto;min-height:62px;padding:9px 10px;display:flex;justify-content:space-between;gap:8px}
+ .logo{position:static;flex:0 0 auto;font-size:20px;letter-spacing:3px}
+ .head-actions{position:static;display:flex;align-items:center;justify-content:flex-end;gap:1px;flex:1;min-width:0}
+ .icon-btn{width:34px;height:36px;flex:0 1 34px;padding:4px;font-size:16px;border-radius:9px}
+ main{width:calc(100% - 28px);max-width:420px;margin:14px auto 26px}
+ .date-top{font-size:11px;letter-spacing:.09em;margin:12px auto 12px;padding:0 10px}
+ .archive-launch{margin-bottom:14px;padding:9px 17px;font-size:12px}
+ #board{width:min(330px,100%);gap:5px;margin:5px auto 18px}
+ .tile{font-size:clamp(23px,7vw,29px);border-width:2px;border-radius:7px}
+ #message{min-height:27px;margin:0 0 8px;font-size:12px;padding:0 6px}
+ #keyboard{gap:7px;margin-top:5px}
+ .key-row{gap:4px}
+ .key{height:clamp(43px,12vw,52px);font-size:clamp(11px,3.2vw,14px);border-radius:7px;flex:1 1 0}
+ .key.wide{flex:1.45 1 0;font-size:clamp(9px,2.7vw,11px);letter-spacing:0}
+ #todayBelow{margin-top:16px;padding:10px 20px}
+ .panel{padding:23px 19px;border-radius:17px}
+ .archive-panel{width:min(100%,420px);max-height:85dvh;overflow-y:auto}
+ .archive-weekdays,.archive-calendar{gap:3px}
+ .archive-day{border-radius:6px;font-size:12px}
+}
+@media(max-width:360px){
+ .logo{font-size:18px;letter-spacing:2px}
+ .icon-btn{width:30px;flex-basis:30px;font-size:15px}
+ header{gap:4px;padding-inline:7px}
+ #board{gap:4px}
+ .key-row{gap:3px}
+ .key{height:42px}
+}
+
 </style>
 </head>
 <body>
-<header><div class="logo">WORDLE<span class="logo-dot">.</span></div><div class="head-actions"><button class="icon-btn" id="helpBtn" aria-label="How to play">?</button><button class="icon-btn" id="archiveBtn" aria-label="Puzzle archive" title="Archive">▦</button><button class="icon-btn" id="statsBtn" aria-label="Statistics">▥</button><button class="icon-btn" id="dictionaryBtn" aria-label="Test dictionary" title="Test dictionary">Aa</button><button class="icon-btn" id="resetBtn" aria-label="New game">↻</button></div></header>
+<header><div class="logo">WORDLE<span class="logo-dot">.</span></div><div class="head-actions"><button class="icon-btn" id="helpBtn" aria-label="How to play">?</button><button class="icon-btn" id="statsBtn" aria-label="Statistics">▥</button><button class="icon-btn" id="dictionaryBtn" aria-label="Test dictionary" title="Test dictionary">Aa</button><button class="icon-btn" id="resetBtn" aria-label="New game">↻</button></div></header>
 <div class="date-top" id="dateTop"></div>
 <main>
+<button class="archive-launch" id="archiveBtn" type="button"><span aria-hidden="true">▦</span> Browse archive</button>
 <p class="sub">A new five-letter puzzle every day</p>
 <div id="archiveBanner"><span id="archiveBannerText">Archive - 1 January 2026</span></div><div id="board" aria-label="Guess board"></div>
 <div id="message" role="status" aria-live="polite"></div>
@@ -96,6 +138,7 @@ function loadGameState(){
  if(stored){const s=JSON.parse(stored);board=s.board||board;row=s.row||0;col=s.col||0;done=!!s.done;guesses=s.guesses||[];return}
  if(!archiveMode){const legacy=JSON.parse(localStorage.getItem("wordlyGame")||"null");if(legacy&&legacy.date===dateKey){board=legacy.board||board;row=legacy.row||0;col=legacy.col||0;done=!!legacy.done;guesses=legacy.guesses||[];localStorage.setItem(activeStorageKey,JSON.stringify(legacy))}}
 }
+let isChecking=false;
 const boardEl=document.getElementById("board"),keyboardEl=document.getElementById("keyboard"),message=document.getElementById("message");
 function render(){boardEl.innerHTML="";for(let r=0;r<6;r++)for(let c=0;c<5;c++){let t=document.createElement("div");t.className="tile"+(board[r][c]?" filled":"");t.textContent=board[r][c];if(r<guesses.length){let s=score(guesses[r],answer)[c];t.className="tile "+s}boardEl.append(t)}}
 function score(word,target){let out=Array(5).fill("absent"),remaining=target.split("");for(let i=0;i<5;i++)if(word[i]===target[i]){out[i]="correct";remaining[i]=null}for(let i=0;i<5;i++)if(out[i]!=="correct"){let j=remaining.indexOf(word[i]);if(j>=0){out[i]="present";remaining[j]=null}}return out}
