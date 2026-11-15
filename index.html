@@ -744,5 +744,6 @@ document.getElementById("archiveBtn").onclick=()=>{if(!archiveData){loadArchive(
 function closeModal(modal){modal.classList.remove("open");if(!document.querySelector(".modal.open"))document.body.classList.remove("modal-open")}document.querySelectorAll("[data-close]").forEach(b=>b.onclick=()=>closeModal(b.closest(".modal")));document.querySelectorAll(".modal").forEach(m=>m.onclick=e=>{if(e.target===m)closeModal(m)});
 loadGameState();updatePuzzleMode();buildKeys();render();if(done){say("");showStats(true,guesses.at(-1)===answer)}save();
 </script>
+<script type="module" src="/analytics.js"></script>
 </body>
 </html>
