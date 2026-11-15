@@ -300,10 +300,36 @@ body.modal-open #keyboard{display:none!important}
 /* Header separation and simplified controls */
 header{background:#f1f6f3!important;border-bottom:1px solid #dce8e1!important;box-shadow:0 3px 14px rgba(35,65,52,.045)!important}
 @media(max-width:600px){header{background:#f1f6f3!important;border-bottom:1px solid #dce8e1!important;box-shadow:0 3px 14px rgba(35,65,52,.045)!important}}
+
+/* Labeled navigation controls, tuned for desktop and narrow phones */
+header{background:#f1f6f3!important;border-bottom:1px solid #dce8e1!important;box-shadow:0 3px 14px rgba(35,65,52,.045)!important}
+header .head-actions{display:flex!important;align-items:center!important;gap:8px!important}
+header .head-actions .nav-action{position:static!important;transform:none!important;display:flex!important;flex-direction:column!important;align-items:center!important;justify-content:center!important;gap:3px!important;width:76px!important;min-width:76px!important;height:52px!important;min-height:52px!important;padding:5px 4px!important;box-sizing:border-box!important;border:1px solid #dce8e1!important;border-radius:11px!important;background:#fff!important;color:#36584d!important;font:600 10px/1.1 'DM Sans',sans-serif!important;letter-spacing:0!important;white-space:nowrap!important;box-shadow:0 1px 3px rgba(35,65,52,.035)!important}
+header .head-actions .nav-action:hover{background:#eaf2ed!important;border-color:#bfd2c5!important;transform:translateY(-1px)!important}
+header .nav-icon{display:block!important;font:700 17px/1 Arial,sans-serif!important;letter-spacing:0!important}
+header .nav-label{display:block!important;font:600 10px/1.1 'DM Sans',sans-serif!important;letter-spacing:0!important}
+@media(max-width:600px){
+ header{height:112px!important;min-height:112px!important;padding:10px 8px 8px!important;gap:9px!important;justify-content:flex-start!important;background:#f1f6f3!important}
+ header .brand-heading{width:100%!important;flex:0 0 auto!important}
+ header .logo{font-size:22px!important;letter-spacing:2px!important;justify-content:center!important}
+ header .brand-by{font-size:9px!important}
+ header .head-actions{position:static!important;inset:auto!important;transform:none!important;width:100%!important;flex:0 0 auto!important;display:grid!important;grid-template-columns:repeat(4,minmax(0,1fr))!important;gap:7px!important;justify-content:stretch!important;align-items:center!important}
+ header .head-actions .nav-action{width:100%!important;min-width:0!important;height:49px!important;min-height:49px!important;padding:4px 2px!important;border-radius:9px!important;gap:3px!important}
+ header .nav-icon{font-size:16px!important}
+ header .nav-label{font-size:9px!important}
+}
+@media(max-width:360px){
+ header{height:108px!important;min-height:108px!important;padding:9px 6px 7px!important;gap:8px!important}
+ header .logo{font-size:20px!important;letter-spacing:1.7px!important}
+ header .brand-by{font-size:8px!important;margin-left:5px!important}
+ header .head-actions{gap:5px!important}
+ header .head-actions .nav-action{height:47px!important;min-height:47px!important}
+ header .nav-label{font-size:8.5px!important}
+}
 </style>
 </head>
 <body>
-<header><div class="brand-heading"><div class="logo">WORDLE<span class="logo-dot">.</span><span class="brand-by">by wordprofessor</span></div></div><div class="head-actions"><button class="icon-btn" id="helpBtn" aria-label="How to play" title="How to play">?</button><button class="archive-nav" id="archiveBtn" type="button" aria-label="Archive">▦ <span>Archive</span></button><button class="icon-btn" id="hintBtn" aria-label="Hint" title="Get a hint">💡</button><button class="icon-btn" id="statsBtn" aria-label="Statistics">▥</button></div></header>
+<header><div class="brand-heading"><div class="logo">WORDLE<span class="logo-dot">.</span><span class="brand-by">by wordprofessor</span></div></div><div class="head-actions"><button class="icon-btn nav-action" id="helpBtn" type="button" aria-label="How to play" title="How to play"><span class="nav-icon" aria-hidden="true">ⓘ</span><span class="nav-label">How to Play</span></button><button class="archive-nav nav-action" id="archiveBtn" type="button" aria-label="Archive"><span class="nav-icon" aria-hidden="true">▦</span><span class="nav-label">Archive</span></button><button class="icon-btn nav-action" id="hintBtn" type="button" aria-label="Hint" title="Get a hint"><span class="nav-icon" aria-hidden="true">💡</span><span class="nav-label">Hint</span></button><button class="icon-btn nav-action" id="statsBtn" type="button" aria-label="Statistics"><span class="nav-icon" aria-hidden="true">▥</span><span class="nav-label">Stats</span></button></div></header>
 <main>
 <div class="puzzle-meta"><span class="puzzle-number" id="puzzleNumber">#1</span><span class="date-top" id="dateTop"></span></div>
 <p class="sub">A new five-letter puzzle every day</p>
