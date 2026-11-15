@@ -105,6 +105,29 @@ header{z-index:2}
 /* Keep archive difficulty private: all dates share a neutral style */
 .archive-day.easy,.archive-day.medium,.archive-day.hard{background:#fff;border-color:var(--line);color:var(--ink)}
 .archive-day.easy:hover,.archive-day.medium:hover,.archive-day.hard:hover{background:#f0f3f1}
+
+/* Fixed keyboard, scrollable puzzle board, and completion stats */
+body{min-height:100dvh;overflow-x:hidden}
+main{padding-bottom:calc(190px + env(safe-area-inset-bottom))}
+#board{overflow-y:auto;overscroll-behavior:contain;max-height:calc(100dvh - 365px);scrollbar-width:thin;scrollbar-color:#c7d5ce transparent;padding:2px 3px}
+#keyboard{position:fixed;left:50%;bottom:0;transform:translateX(-50%);z-index:4;width:min(500px,100%);max-width:500px;margin:0;padding:12px 10px calc(12px + env(safe-area-inset-bottom));background:linear-gradient(180deg,rgba(246,247,244,.94),#f6f7f4 22%);backdrop-filter:blur(14px);border-top:1px solid rgba(39,108,99,.10);box-shadow:0 -8px 28px rgba(24,45,38,.06)}
+.result-summary{display:flex;flex-direction:column;align-items:center;gap:5px;text-align:center;margin:8px 0 18px;padding:15px;border-radius:14px;background:#edf4ef;color:#244e42}
+.result-summary strong{font:700 22px 'Space Grotesk',sans-serif}
+.result-summary span{font-size:13px;color:#61736b}
+#statsModal .panel{width:min(410px,100%)}
+@media(max-width:600px){
+ main{padding-bottom:calc(190px + env(safe-area-inset-bottom));margin-bottom:0}
+ #board{max-height:calc(100dvh - 340px);width:min(330px,100%);margin-bottom:12px}
+ #keyboard{gap:7px;padding:10px 8px calc(10px + env(safe-area-inset-bottom))}
+ .key{height:clamp(43px,11.5vw,51px)}
+ #message{margin-bottom:5px}
+}
+@media(max-height:680px){
+ #board{max-height:calc(100dvh - 310px)}
+ #keyboard{gap:5px;padding-top:7px}
+ .key{height:42px}
+}
+
 </style>
 </head>
 <body>
@@ -121,7 +144,7 @@ header{z-index:2}
 <div class="modal" id="helpModal"><div class="panel"><button class="close" data-close>×</button><h2>How to play</h2><p>Guess the hidden five-letter word in six tries.</p><div class="example"><span style="background:#6aaa64">W</span><span style="background:#858b98">O</span><span style="background:#858b98">R</span><span style="background:#858b98">D</span><span style="background:#858b98">S</span></div><p><b>Green</b> means the letter is in the word and in the correct spot.</p><div class="example"><span style="background:#858b98">P</span><span style="background:#c9a63b">L</span><span style="background:#858b98">A</span><span style="background:#858b98">N</span><span style="background:#858b98">T</span></div><p><b>Yellow</b> means the letter is in the word, but in a different spot. Grey means it is not in the word.</p><p>Use your keyboard or the on-screen keys. You get one puzzle per day.</p></div></div>
 <div class="modal" id="dictionaryModal"><div class="panel"><button class="close" data-close>×</button><h2>Dictionary tester</h2><p>Check whether a five-letter word is accepted. This test does not affect your daily puzzle or statistics.</p><form id="dictionaryForm" style="display:flex;gap:8px;margin-top:16px"><input id="dictionaryInput" type="text" maxlength="5" minlength="5" autocomplete="off" autocapitalize="characters" spellcheck="false" placeholder="ENTER WORD" aria-label="Five-letter word" style="min-width:0;flex:1;padding:12px;border:1px solid var(--line);border-radius:8px;font-size:18px;font-weight:750;letter-spacing:3px;text-transform:uppercase"><button type="submit" style="border:0;border-radius:8px;background:var(--accent);color:white;padding:0 16px;font-weight:700;cursor:pointer">Check</button></form><p id="dictionaryResult" role="status" aria-live="polite" style="min-height:24px;margin-top:14px"></p></div></div>
 <div class="modal" id="archiveModal"><div class="panel archive-panel"><button class="close" data-close>×</button><h2>Daily archive</h2><p id="archiveDescription">Play any past daily puzzle. Archive games do not affect your daily statistics.</p><div class="archive-nav"><button id="archivePrev" aria-label="Previous month">←</button><strong id="archiveMonth"></strong><button id="archiveNext" aria-label="Next month">→</button></div><div class="archive-weekdays"><span>Sun</span><span>Mon</span><span>Tue</span><span>Wed</span><span>Thu</span><span>Fri</span><span>Sat</span></div><div class="archive-calendar" id="archiveCalendar"></div></div></div>
-<div class="modal" id="statsModal"><div class="panel"><button class="close" data-close>×</button><h2>Statistics</h2><div class="stats"><div><strong id="played">0</strong><small>Played</small></div><div><strong id="winPct">0</strong><small>Win %</small></div><div><strong id="streak">0</strong><small>Streak</small></div></div><p id="statsNote">Your results will appear here.</p></div></div>
+<div class="modal" id="statsModal"><div class="panel"><button class="close" data-close>×</button><h2 id="statsTitle">Statistics</h2><div id="resultSummary" class="result-summary" style="display:none"><strong id="resultHeadline"></strong><span id="resultDetail"></span></div><div class="stats"><div><strong id="played">0</strong><small>Played</small></div><div><strong id="winPct">0</strong><small>Win %</small></div><div><strong id="streak">0</strong><small>Streak</small></div></div><p id="statsNote">Your results will appear here.</p></div></div>
 <script>
 const WORDS=["CRANE","PLANT","BRICK","SHARE","GHOST","FLAME","CLOUD","TRAIL","MONEY","GRAPE","NIGHT","MUSIC","STONE","BRAIN","QUIET","SHELF","PRIDE","WATER","ROAST","MANGO","BLINK","CROWN","DREAM","SCALE","FRESH","TIGER","HOUSE","TRAIN","LIGHT","SMILE","CHESS"];
 // Broad accepted-guess vocabulary is bundled locally in words.txt.
@@ -152,11 +175,11 @@ function key(ch,wide=""){let b=document.createElement("button");b.className="key
 function paintKeys(){document.querySelectorAll(".key").forEach(k=>{let ch=k.textContent;if(ch.length===1&&/[A-Z]/.test(ch)){let states=guesses.map(g=>({g,s:score(g,answer)}));let state="";for(let x of states)for(let i=0;i<5;i++)if(gLetter(x.g,i)===ch){let s=x.s[i];if(s==="correct")state="correct";else if(s==="present"&&state!=="correct")state="present";else if(!state)state="absent"}if(state)k.classList.add(state)}})}
 function gLetter(g,i){return g[i]}
 function press(ch){if(done||isChecking)return;if(ch==="BACK"){if(col>0){board[row][--col]="";render()}return}if(ch==="ENTER"){submit();return}if(/^[A-Z]$/.test(ch)&&col<5){board[row][col++]=ch;render()}}
-async function submit(){let word=board[row].join("");if(col<5){say("Not enough letters");return}isChecking=true;say("Checking dictionary…");try{let valid=await isDictionaryWord(word);if(!valid){say("Not recognised as an English word");return}guesses.push(word);render();paintKeys();if(word===answer){done=true;say("Brilliant! You got it in "+(row+1)+"/6");finish(true)}else if(row===5){done=true;say("The word was "+answer);finish(false)}else{row++;col=0;say("Keep going!")};save()}catch(error){say("Dictionary check unavailable. Please check your connection and try again.")}finally{isChecking=false}}
+async function submit(){let word=board[row].join("");if(col<5){say("Not enough letters");return}isChecking=true;say("Checking dictionary…");try{let valid=await isDictionaryWord(word);if(!valid){say("Not recognised as an English word");return}guesses.push(word);render();paintKeys();if(word===answer){done=true;say("");finish(true)}else if(row===5){done=true;say("");finish(false)}else{row++;col=0;say("Keep going!")};save()}catch(error){say("Dictionary check unavailable. Please check your connection and try again.")}finally{isChecking=false}}
 function say(s){message.textContent=s}
 function save(){localStorage.setItem(activeStorageKey,JSON.stringify({date:activeDateKey,board,row,col,done,guesses}))}
-function finish(win){if(!archiveMode){stats.played++;if(win){stats.wins++;stats.streak=stats.lastWin===today-1?stats.streak+1:1;stats.lastWin=today}else stats.streak=0;localStorage.setItem("wordlyStats",JSON.stringify(stats))}save()}
-function showStats(){document.getElementById("played").textContent=stats.played;document.getElementById("winPct").textContent=stats.played?Math.round(stats.wins/stats.played*100):0;document.getElementById("streak").textContent=stats.streak;document.getElementById("statsNote").textContent=archiveMode?"Archive practice does not affect these daily statistics.":done?"Today's puzzle is complete. Come back tomorrow for another.":"Keep playing to build your streak.";document.getElementById("statsModal").classList.add("open")}
+function finish(win){if(!archiveMode){stats.played++;if(win){stats.wins++;stats.streak=stats.lastWin===today-1?stats.streak+1:1;stats.lastWin=today}else stats.streak=0;localStorage.setItem("wordlyStats",JSON.stringify(stats))}save();showStats(true,win)}
+function showStats(showResult=false,win=false){document.getElementById("played").textContent=stats.played;document.getElementById("winPct").textContent=stats.played?Math.round(stats.wins/stats.played*100):0;document.getElementById("streak").textContent=stats.streak;document.getElementById("statsNote").textContent=archiveMode?"Archive games do not affect your daily statistics.":done?"Come back tomorrow for the next puzzle.":"Keep playing to build your streak.";const summary=document.getElementById("resultSummary");summary.style.display=showResult?"flex":"none";document.getElementById("statsTitle").textContent=showResult?"Puzzle complete":"Statistics";if(showResult){document.getElementById("resultHeadline").textContent=win?"Brilliant!":"Nice try!";document.getElementById("resultDetail").textContent=win?"Solved in "+guesses.length+"/6 guesses. The word was "+answer+".":"The word was "+answer+". Better luck next time."}document.getElementById("statsModal").classList.add("open")}
 function openModal(id){document.getElementById(id).classList.add("open")}
 function renderArchive(){
  if(!archiveData)return;
@@ -187,7 +210,7 @@ function returnToToday(){
 }
 function updatePuzzleMode(){
  const banner=document.getElementById("archiveBanner"),back=document.getElementById("todayBelow"),date=new Date(activeDateKey+"T12:00:00");
- document.getElementById("dateTop").textContent=date.toLocaleDateString("en-GB",{day:"numeric",month:"long",year:"numeric"});
+ document.getElementById("dateTop").textContent=date.toLocaleDateString("en-GB",{day:"numeric",month:"long",year:"numeric"});document.getElementById("dateTop").style.display=archiveMode?"none":"block";
  if(archiveMode){banner.style.display="flex";document.getElementById("archiveBannerText").textContent="Archive - "+date.toLocaleDateString("en-GB",{day:"numeric",month:"long",year:"numeric"});back.style.display="inline-flex"}
  else{banner.style.display="none";back.style.display="none"}
 }
