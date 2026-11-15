@@ -1,0 +1,1601 @@
+{
+  "start": "2026-01-01",
+  "end": "2026-11-14",
+  "distribution": {
+    "easy": 95,
+    "medium": 159,
+    "hard": 64
+  },
+  "puzzles": [
+    {
+      "date": "2026-01-01",
+      "answer": "ALONE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-01-02",
+      "answer": "GRAPE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-01-03",
+      "answer": "ADAPT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-01-04",
+      "answer": "BARON",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-01-05",
+      "answer": "ALERT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-01-06",
+      "answer": "FLOOR",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-01-07",
+      "answer": "COVER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-01-08",
+      "answer": "CORAL",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-01-09",
+      "answer": "ABOVE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-01-10",
+      "answer": "PHOTO",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-01-11",
+      "answer": "CLOCK",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-01-12",
+      "answer": "EARTH",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-01-13",
+      "answer": "CATCH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-01-14",
+      "answer": "ASHEN",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-01-15",
+      "answer": "BAKER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-01-16",
+      "answer": "FRESH",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-01-17",
+      "answer": "ENTER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-01-18",
+      "answer": "BLURT",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-01-19",
+      "answer": "GLASS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-01-20",
+      "answer": "POINT",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-01-21",
+      "answer": "GRAND",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-01-22",
+      "answer": "DREAM",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-01-23",
+      "answer": "FAVOR",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-01-24",
+      "answer": "ADAGE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-01-25",
+      "answer": "CLIMB",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-01-26",
+      "answer": "ENJOY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-01-27",
+      "answer": "AFTER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-01-28",
+      "answer": "CLEFT",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-01-29",
+      "answer": "BEGIN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-01-30",
+      "answer": "TRUCK",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-01-31",
+      "answer": "APART",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-02-01",
+      "answer": "ROUND",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-02-02",
+      "answer": "ARGUE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-02-03",
+      "answer": "CHIRP",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-02-04",
+      "answer": "EXIST",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-02-05",
+      "answer": "BREAD",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-02-06",
+      "answer": "ALARM",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-02-07",
+      "answer": "AUGUR",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-02-08",
+      "answer": "BOARD",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-02-09",
+      "answer": "HAPPY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-02-10",
+      "answer": "DEATH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-02-11",
+      "answer": "FAITH",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-02-12",
+      "answer": "ASIDE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-02-13",
+      "answer": "ABYSS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-02-14",
+      "answer": "BELOW",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-02-15",
+      "answer": "SOUND",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-02-16",
+      "answer": "CHEST",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-02-17",
+      "answer": "ANVIL",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-02-18",
+      "answer": "COAST",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-02-19",
+      "answer": "GIANT",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-02-20",
+      "answer": "BEING",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-02-21",
+      "answer": "PLANT",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-02-22",
+      "answer": "FIRST",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-02-23",
+      "answer": "AFFIX",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-02-24",
+      "answer": "FINAL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-02-25",
+      "answer": "CLOUD",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-02-26",
+      "answer": "FOUND",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-02-27",
+      "answer": "BATON",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-02-28",
+      "answer": "CHART",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-03-01",
+      "answer": "SCALE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-03-02",
+      "answer": "LEGAL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-03-03",
+      "answer": "CHARM",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-03-04",
+      "answer": "BUILD",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-03-05",
+      "answer": "CANNY",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-03-06",
+      "answer": "ANGEL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-03-07",
+      "answer": "CHEER",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-03-08",
+      "answer": "BREAK",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-03-09",
+      "answer": "BRINE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-03-10",
+      "answer": "BLAME",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-03-11",
+      "answer": "BROWN",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-03-12",
+      "answer": "CHAIN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-03-13",
+      "answer": "TEACH",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-03-14",
+      "answer": "BLIND",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-03-15",
+      "answer": "COPSE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-03-16",
+      "answer": "DOZEN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-03-17",
+      "answer": "SWEET",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-03-18",
+      "answer": "ACTOR",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-03-19",
+      "answer": "CLASP",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-03-20",
+      "answer": "FRAME",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-03-21",
+      "answer": "MANGO",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-03-22",
+      "answer": "LATER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-03-23",
+      "answer": "CLEAN",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-03-24",
+      "answer": "EXTRA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-03-25",
+      "answer": "AGILE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-03-26",
+      "answer": "GROUP",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-03-27",
+      "answer": "STAGE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-03-28",
+      "answer": "EMPTY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-03-29",
+      "answer": "CHOIR",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-03-30",
+      "answer": "BOOST",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-03-31",
+      "answer": "SMILE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-04-01",
+      "answer": "CHEAP",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-04-02",
+      "answer": "DANCE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-04-03",
+      "answer": "GOING",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-04-04",
+      "answer": "CONIC",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-04-05",
+      "answer": "HEAVY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-04-06",
+      "answer": "WHEEL",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-04-07",
+      "answer": "GLOBE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-04-08",
+      "answer": "BILGE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-04-09",
+      "answer": "CHECK",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-04-10",
+      "answer": "PRIDE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-04-11",
+      "answer": "ADULT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-04-12",
+      "answer": "APPLE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-04-13",
+      "answer": "LABEL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-04-14",
+      "answer": "AURAL",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-04-15",
+      "answer": "AGENT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-04-16",
+      "answer": "PEACE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-04-17",
+      "answer": "CHORE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-04-18",
+      "answer": "ALIBI",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-04-19",
+      "answer": "IMAGE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-04-20",
+      "answer": "OCEAN",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-04-21",
+      "answer": "LARGE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-04-22",
+      "answer": "PIZZA",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-04-23",
+      "answer": "GIVEN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-04-24",
+      "answer": "CABAL",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-04-25",
+      "answer": "EXACT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-04-26",
+      "answer": "QUICK",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-04-27",
+      "answer": "ERROR",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-04-28",
+      "answer": "BURLY",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-04-29",
+      "answer": "CLASS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-04-30",
+      "answer": "TOUGH",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-05-01",
+      "answer": "ANGLE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-05-02",
+      "answer": "LUNCH",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-05-03",
+      "answer": "CRAFT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-05-04",
+      "answer": "AMBLE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-05-05",
+      "answer": "ENEMY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-05-06",
+      "answer": "CLEAR",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-05-07",
+      "answer": "ENTRY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-05-08",
+      "answer": "BALMY",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-05-09",
+      "answer": "CHILD",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-05-10",
+      "answer": "MONEY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-05-11",
+      "answer": "FIGHT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-05-12",
+      "answer": "MUSIC",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-05-13",
+      "answer": "DRAFT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-05-14",
+      "answer": "ACRID",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-05-15",
+      "answer": "BROAD",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-05-16",
+      "answer": "SNAKE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-05-17",
+      "answer": "CHALK",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-05-18",
+      "answer": "BRAWL",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-05-19",
+      "answer": "INDEX",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-05-20",
+      "answer": "SPACE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-05-21",
+      "answer": "CRASH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-05-22",
+      "answer": "DRINK",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-05-23",
+      "answer": "COUNT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-05-24",
+      "answer": "BLAND",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-05-25",
+      "answer": "BLOOD",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-05-26",
+      "answer": "MOUSE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-05-27",
+      "answer": "LOGIC",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-05-28",
+      "answer": "CHASM",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-05-29",
+      "answer": "CHIEF",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-05-30",
+      "answer": "PHONE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-05-31",
+      "answer": "JUDGE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-06-01",
+      "answer": "LIGHT",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-06-02",
+      "answer": "EIGHT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-06-03",
+      "answer": "CONCH",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-06-04",
+      "answer": "CRIME",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-06-05",
+      "answer": "HORSE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-06-06",
+      "answer": "DRAWN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-06-07",
+      "answer": "CLING",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-06-08",
+      "answer": "ALLOW",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-06-09",
+      "answer": "TRAIN",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-06-10",
+      "answer": "GRASS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-06-11",
+      "answer": "REACH",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-06-12",
+      "answer": "COACH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-06-13",
+      "answer": "COMMA",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-06-14",
+      "answer": "BRING",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-06-15",
+      "answer": "TREAT",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-06-16",
+      "answer": "ISSUE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-06-17",
+      "answer": "AMPLE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-06-18",
+      "answer": "HELLO",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-06-19",
+      "answer": "RADIO",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-06-20",
+      "answer": "BUYER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-06-21",
+      "answer": "QUIET",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-06-22",
+      "answer": "CABLE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-06-23",
+      "answer": "BULGE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-06-24",
+      "answer": "GRANT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-06-25",
+      "answer": "ROAST",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-06-26",
+      "answer": "LEAVE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-06-27",
+      "answer": "CHUTE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-06-28",
+      "answer": "ARISE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-06-29",
+      "answer": "STONE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-06-30",
+      "answer": "COMET",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-07-01",
+      "answer": "MONTH",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-07-02",
+      "answer": "INNER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-07-03",
+      "answer": "BADGE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-07-04",
+      "answer": "DOUBT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-07-05",
+      "answer": "SHIRT",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-07-06",
+      "answer": "EVENT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-07-07",
+      "answer": "CAPER",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-07-08",
+      "answer": "FAULT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-07-09",
+      "answer": "SHEEP",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-07-10",
+      "answer": "LOCAL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-07-11",
+      "answer": "GRACE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-07-12",
+      "answer": "FUNNY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-07-13",
+      "answer": "AVERT",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-07-14",
+      "answer": "GUARD",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-07-15",
+      "answer": "HOUSE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-07-16",
+      "answer": "INPUT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-07-17",
+      "answer": "AXIOM",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-07-18",
+      "answer": "BLOCK",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-07-19",
+      "answer": "TABLE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-07-20",
+      "answer": "BLEND",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-07-21",
+      "answer": "GREEN",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-07-22",
+      "answer": "BENCH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-07-23",
+      "answer": "BRISK",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-07-24",
+      "answer": "DAILY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-07-25",
+      "answer": "WATER",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-07-26",
+      "answer": "LEVEL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-07-27",
+      "answer": "ABHOR",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-07-28",
+      "answer": "FIELD",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-07-29",
+      "answer": "SUGAR",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-07-30",
+      "answer": "ELDER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-07-31",
+      "answer": "HEART",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-08-01",
+      "answer": "BRIEF",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-08-02",
+      "answer": "CLOUT",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-08-03",
+      "answer": "DEPTH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-08-04",
+      "answer": "RIVER",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-08-05",
+      "answer": "ALTER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-08-06",
+      "answer": "BROOD",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-08-07",
+      "answer": "COLOR",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-08-08",
+      "answer": "RAINY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-08-09",
+      "answer": "GREAT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-08-10",
+      "answer": "NIGHT",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-08-11",
+      "answer": "MAJOR",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-08-12",
+      "answer": "CEDAR",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-08-13",
+      "answer": "DRAMA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-08-14",
+      "answer": "WHITE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-08-15",
+      "answer": "IDEAL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-08-16",
+      "answer": "BOUGH",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-08-17",
+      "answer": "CLOSE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-08-18",
+      "answer": "PLATE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-08-19",
+      "answer": "GROWN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-08-20",
+      "answer": "SHORT",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-08-21",
+      "answer": "FORCE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-08-22",
+      "answer": "AMITY",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-08-23",
+      "answer": "DRIVE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-08-24",
+      "answer": "TODAY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-08-25",
+      "answer": "AWARE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-08-26",
+      "answer": "APHID",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-08-27",
+      "answer": "EVERY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-08-28",
+      "answer": "STORY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-08-29",
+      "answer": "MAKER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-08-30",
+      "answer": "SHINE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-08-31",
+      "answer": "LEARN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-09-01",
+      "answer": "BANAL",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-09-02",
+      "answer": "BLAST",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-09-03",
+      "answer": "RIGHT",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-09-04",
+      "answer": "FALSE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-09-05",
+      "answer": "CAMEO",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-09-06",
+      "answer": "CROSS",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-09-07",
+      "answer": "LAUGH",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-09-08",
+      "answer": "ALBUM",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-09-09",
+      "answer": "FOCUS",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-09-10",
+      "answer": "BADLY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-09-11",
+      "answer": "BASIL",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-09-12",
+      "answer": "BASIC",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-09-13",
+      "answer": "CHAIR",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-09-14",
+      "answer": "CLICK",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-09-15",
+      "answer": "COCOA",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-09-16",
+      "answer": "LASER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-09-17",
+      "answer": "BEACH",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-09-18",
+      "answer": "FIXED",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-09-19",
+      "answer": "JUICE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-09-20",
+      "answer": "AVOID",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-09-21",
+      "answer": "BEGET",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-09-22",
+      "answer": "LEAST",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-09-23",
+      "answer": "SPORT",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-09-24",
+      "answer": "LAYER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-09-25",
+      "answer": "CIVIC",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-09-26",
+      "answer": "CREAM",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-09-27",
+      "answer": "STORE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-09-28",
+      "answer": "CARRY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-09-29",
+      "answer": "FRUIT",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-09-30",
+      "answer": "HOTEL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-10-01",
+      "answer": "CHIDE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-10-02",
+      "answer": "BLANK",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-10-03",
+      "answer": "PARTY",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-10-04",
+      "answer": "GUIDE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-10-05",
+      "answer": "COVET",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-10-06",
+      "answer": "ARENA",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-10-07",
+      "answer": "BRAVE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-10-08",
+      "answer": "CROWD",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-10-09",
+      "answer": "SPICE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-10-10",
+      "answer": "AGREE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-10-11",
+      "answer": "ABODE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-10-12",
+      "answer": "LUCKY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-10-13",
+      "answer": "SHELF",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-10-14",
+      "answer": "FIFTH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-10-15",
+      "answer": "AMISS",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-10-16",
+      "answer": "BIRTH",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-10-17",
+      "answer": "FLAME",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-10-18",
+      "answer": "CAUSE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-10-19",
+      "answer": "MAGIC",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-10-20",
+      "answer": "GRADE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-10-21",
+      "answer": "ASKEW",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-10-22",
+      "answer": "LOOSE",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-10-23",
+      "answer": "TIGER",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-10-24",
+      "answer": "EQUAL",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-10-25",
+      "answer": "ATOLL",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-10-26",
+      "answer": "BLACK",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-10-27",
+      "answer": "SALAD",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-10-28",
+      "answer": "LOWER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-10-29",
+      "answer": "HUMAN",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-10-30",
+      "answer": "FRONT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-10-31",
+      "answer": "ARDOR",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-11-01",
+      "answer": "KNOWN",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-11-02",
+      "answer": "SHARE",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-11-03",
+      "answer": "ANGER",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-11-04",
+      "answer": "AGATE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-11-05",
+      "answer": "LYING",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-11-06",
+      "answer": "SHOCK",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-11-07",
+      "answer": "CLAIM",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-11-08",
+      "answer": "STAMP",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-11-09",
+      "answer": "ADMIT",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-11-10",
+      "answer": "CHAFE",
+      "difficulty": "hard"
+    },
+    {
+      "date": "2026-11-11",
+      "answer": "BOUND",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-11-12",
+      "answer": "TRUST",
+      "difficulty": "easy"
+    },
+    {
+      "date": "2026-11-13",
+      "answer": "APPLY",
+      "difficulty": "medium"
+    },
+    {
+      "date": "2026-11-14",
+      "answer": "BELLE",
+      "difficulty": "hard"
+    }
+  ]
+}
