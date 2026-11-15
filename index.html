@@ -844,6 +844,10 @@ body.home-active header #accountBtn{
 .already-played-panel h2{font:700 21px 'Space Grotesk',sans-serif;line-height:1.3;margin:0 0 8px}
 .already-played-panel p{margin:0 0 20px;color:#738078}
 #admirePuzzleBtn{width:100%;cursor:pointer}
+
+/* Profile shortcut belongs only on the games landing page. */
+body:not(.home-active) header .profile-icon{display:none!important}
+body.home-active header .profile-icon{display:grid!important}
 </style>
 </head>
 <body>
