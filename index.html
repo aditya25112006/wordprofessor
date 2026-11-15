@@ -772,6 +772,20 @@ body.home-active header .head-actions{display:none!important}
 .profile-stats-grid b{font:700 22px 'Space Grotesk',sans-serif;color:#315e43}
 .profile-signout{width:100%;margin-top:18px}
 @media(max-width:600px){.profile-icon{right:12px;top:9px;transform:none;width:36px;height:36px}header .brand-heading{max-width:75%}}
+
+/* Header alignment and home-screen controls */
+body.home-active header .head-actions{display:none!important}
+body.home-active #homeScreen[style*="display: block"]~header .head-actions{display:none!important}
+header{align-items:center!important}
+header .head-actions{top:50%!important;transform:translateY(-50%)!important;align-items:center!important}
+header .profile-icon{top:50%!important;transform:translateY(-50%)!important}
+header .home-nav-btn{top:50%!important;transform:translateY(-50%)!important}
+@media(max-width:600px){
+ header{height:100px!important;min-height:100px!important;padding-top:0!important;align-items:center!important}
+ header .head-actions{top:50%!important;transform:translateY(-50%)!important}
+ header .profile-icon{top:50%!important;transform:translateY(-50%)!important}
+ header .home-nav-btn{top:50%!important;transform:translateY(-50%)!important}
+}
 </style>
 </head>
 <body>
