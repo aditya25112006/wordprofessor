@@ -792,7 +792,7 @@ function loadGameState(){
  if(stored){const s=JSON.parse(stored);board=s.board||board;row=s.row||0;col=s.col||0;done=!!s.done;guesses=s.guesses||[];return}
  if(!archiveMode){const legacy=JSON.parse(localStorage.getItem("wordlyGame")||"null");if(legacy&&legacy.date===dateKey){board=legacy.board||board;row=legacy.row||0;col=legacy.col||0;done=!!legacy.done;guesses=legacy.guesses||[];localStorage.setItem(activeStorageKey,JSON.stringify(legacy))}}
 }
-let doubleMode=false,doubleAnswers=[],doubleGuesses=[],doubleInput=Array(5).fill(""),doubleSolved=[false,false],doubleDone=false,doubleStats=JSON.parse(localStorage.getItem("wordlyDoubleStats")||'{"played":0,"wins":0}');,doubleDateKey=dateKey,doubleArchiveMonth=new Date(dateKey+"T12:00:00").getMonth()
+let doubleMode=false,doubleAnswers=[],doubleGuesses=[],doubleInput=Array(5).fill(""),doubleSolved=[false,false],doubleDone=false,doubleStats=JSON.parse(localStorage.getItem("wordlyDoubleStats")||'{"played":0,"wins":0}'),doubleDateKey=dateKey,doubleArchiveMonth=new Date(dateKey+"T12:00:00").getMonth();
 let isChecking=false;
 const boardEl=document.getElementById("board"),keyboardEl=document.getElementById("keyboard"),message=document.getElementById("message");
 function render(revealLatest=false){boardEl.innerHTML="";for(let r=0;r<6;r++)for(let c=0;c<5;c++){let t=document.createElement("div");t.className="tile"+(board[r][c]?" filled":"");t.textContent=board[r][c];if(r<guesses.length&&!(revealLatest&&r===guesses.length-1)){let state=score(guesses[r],answer)[c];t.className="tile "+state}boardEl.append(t)}}
