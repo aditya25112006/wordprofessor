@@ -145,12 +145,42 @@ header .date-top{display:block;font:400 18px Arial,Helvetica,sans-serif;letter-s
  header .date-top{font-size:16px}
 }
 
+
+/* Brand header restored; archive sits beside How to Play */
+header{height:112px;display:flex;align-items:flex-start;justify-content:center;padding-top:17px;position:relative;background:#fff;border-bottom:0;box-shadow:none}
+.brand-heading{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px}
+header .logo{position:static;transform:none;font-family:"Space Grotesk",Arial,sans-serif;font-size:25px;font-weight:800;letter-spacing:4px;line-height:1.15;color:#1d3435;display:flex;align-items:baseline;gap:0;white-space:nowrap;text-transform:uppercase}
+header .logo-dot{color:#58a58a}
+header .puzzle-number{font:600 13px "DM Sans",sans-serif;letter-spacing:0;color:#788782;margin-left:6px;vertical-align:middle}
+header .brand-by{margin-left:8px;font:500 10px "DM Sans",sans-serif;letter-spacing:.035em;color:#84928d;text-transform:none;white-space:nowrap}
+header .head-actions{position:absolute;right:18px;top:16px;transform:none;display:flex;align-items:center;gap:7px}
+header .date-top{display:block;font:400 16px "DM Sans",sans-serif;letter-spacing:0;color:#788782;margin:5px 0 0;text-transform:none}
+.archive-nav{display:inline-flex;align-items:center;justify-content:center;gap:5px;padding:8px 11px;border:1px solid #dce5df;border-radius:10px;background:#fff;color:#315b54;font:600 12px "DM Sans",sans-serif;cursor:pointer;white-space:nowrap;min-height:36px}
+.archive-nav:hover{background:#edf4ef;border-color:#b8cec1}
+@media(max-width:600px){
+ header{height:104px;padding-top:15px}
+ header .logo{font-size:21px;letter-spacing:2.5px}
+ header .puzzle-number{font-size:11px;margin-left:4px}
+ header .brand-by{font-size:8px;margin-left:5px}
+ header .head-actions{right:7px;top:9px;gap:2px}
+ header .head-actions .icon-btn{width:30px;height:34px;padding:4px;font-size:15px}
+ .archive-nav{padding:7px 8px;min-height:32px;font-size:11px;border-radius:8px}
+ header .date-top{font-size:14px;margin-top:4px}
+}
+@media(max-width:390px){
+ header .logo{font-size:18px;letter-spacing:1.8px}
+ header .brand-by{font-size:7px;margin-left:4px}
+ header .head-actions{right:4px;gap:0}
+ header .head-actions .icon-btn{width:26px;font-size:14px}
+ .archive-nav{padding:6px;font-size:10px}
+}
+
 </style>
 </head>
 <body>
-<header><div class="brand-heading"><div class="logo">Wordle <span class="puzzle-number" id="puzzleNumber">#1</span></div><div class="date-top" id="dateTop"></div></div><div class="head-actions"><button class="icon-btn" id="helpBtn" aria-label="How to play">?</button><button class="icon-btn" id="statsBtn" aria-label="Statistics">▥</button><button class="icon-btn" id="dictionaryBtn" aria-label="Test dictionary" title="Test dictionary">Aa</button><button class="icon-btn" id="resetBtn" aria-label="New game">↻</button></div></header>
+<header><div class="brand-heading"><div class="logo">WORDLE<span class="logo-dot">.</span><span class="puzzle-number" id="puzzleNumber">#1</span><span class="brand-by">by wordprofessor</span></div><div class="date-top" id="dateTop"></div></div><div class="head-actions"><button class="icon-btn" id="helpBtn" aria-label="How to play" title="How to play">?</button><button class="archive-nav" id="archiveBtn" type="button" aria-label="Archive">▦ <span>Archive</span></button><button class="icon-btn" id="statsBtn" aria-label="Statistics">▥</button><button class="icon-btn" id="dictionaryBtn" aria-label="Test dictionary" title="Test dictionary">Aa</button><button class="icon-btn" id="resetBtn" aria-label="New game">↻</button></div></header>
 <main>
-<button class="archive-launch" id="archiveBtn" type="button"><span aria-hidden="true">▦</span> Browse archive</button>
+
 <p class="sub">A new five-letter puzzle every day</p>
 <div id="archiveBanner"><span id="archiveBannerText">Archive - 1 January 2026</span></div><div id="board" aria-label="Guess board"></div>
 <div id="message" role="status" aria-live="polite"></div>
