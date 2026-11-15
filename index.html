@@ -786,6 +786,51 @@ header .home-nav-btn{top:50%!important;transform:translateY(-50%)!important}
  header .profile-icon{top:50%!important;transform:translateY(-50%)!important}
  header .home-nav-btn{top:50%!important;transform:translateY(-50%)!important}
 }
+
+/* Final scroll and home-header overrides */
+html,body{
+ height:auto!important;
+ min-height:100%!important;
+ overflow-x:hidden!important;
+ overflow-y:auto!important;
+ overscroll-behavior-y:auto!important;
+}
+body{
+ min-height:100dvh!important;
+ -webkit-overflow-scrolling:touch;
+}
+body.home-active{
+ height:auto!important;
+ min-height:100dvh!important;
+ overflow-x:hidden!important;
+ overflow-y:auto!important;
+ touch-action:pan-y!important;
+}
+body.home-active #homeScreen{
+ display:block!important;
+ height:auto!important;
+ min-height:calc(100dvh - 76px)!important;
+ overflow:visible!important;
+ padding-bottom:32px!important;
+}
+body.home-active header .head-actions,
+body.home-active header #homeBtn{
+ display:none!important;
+}
+body.home-active header #accountBtn{
+ display:grid!important;
+}
+@media(min-width:601px){
+ body.home-active{overflow-y:auto!important}
+ body.home-active #homeScreen{
+  height:auto!important;
+  min-height:calc(100dvh - 76px)!important;
+  padding:26px 0 32px!important;
+  display:flex!important;
+  flex-direction:column!important;
+ }
+ body.home-active .site-footer{margin:32px auto 0!important}
+}
 </style>
 </head>
 <body>
