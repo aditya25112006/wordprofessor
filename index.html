@@ -592,6 +592,49 @@ header .head-actions{
  #statsModal .stats strong{font-size:24px!important}
 }
 
+
+/* Mobile-only header repair: four equal controls, no horizontal overflow */
+@media(max-width:600px){
+ header{
+  height:126px!important;min-height:126px!important;
+  padding:0 8px!important;display:block!important;
+  overflow:visible!important;
+ }
+ header .brand-heading{
+  position:absolute!important;left:50%!important;top:12px!important;
+  transform:translateX(-50%)!important;width:max-content!important;
+ }
+ header .head-actions{
+  position:absolute!important;left:10px!important;right:10px!important;
+  top:auto!important;bottom:10px!important;transform:none!important;
+  display:grid!important;grid-template-columns:repeat(4,minmax(0,1fr))!important;
+  align-items:stretch!important;justify-content:stretch!important;
+  width:auto!important;max-width:none!important;gap:7px!important;
+ }
+ header .head-actions .nav-action{
+  display:flex!important;flex-direction:column!important;
+  align-items:center!important;justify-content:center!important;
+  width:100%!important;min-width:0!important;max-width:none!important;
+  height:48px!important;min-height:48px!important;padding:4px 2px!important;
+  gap:3px!important;border:1px solid #dce7df!important;
+  border-radius:11px!important;background:rgba(255,255,255,.92)!important;
+  box-shadow:0 2px 7px rgba(33,68,51,.045)!important;
+  white-space:nowrap!important;overflow:hidden!important;
+ }
+ header .head-actions .nav-icon{
+  display:block!important;font-size:15px!important;line-height:1!important;
+ }
+ header .head-actions .nav-label{
+  display:block!important;font-size:9px!important;line-height:1.1!important;
+  letter-spacing:-.02em!important;white-space:nowrap!important;
+ }
+}
+@media(max-width:360px){
+ header .head-actions{left:7px!important;right:7px!important;gap:4px!important}
+ header .head-actions .nav-action{height:45px!important;min-height:45px!important}
+ header .head-actions .nav-label{font-size:8px!important}
+}
+
 </style>
 </head>
 <body>
