@@ -130,11 +130,25 @@ main{padding-bottom:calc(190px + env(safe-area-inset-bottom))}
 
 .logo{display:flex;align-items:baseline;gap:0}.brand-by{margin-left:9px;font:500 10px "DM Sans",sans-serif;letter-spacing:.035em;color:#84928d;text-transform:none;white-space:nowrap}@media(max-width:600px){.brand-by{font-size:9px;margin-left:6px}}
 .puzzle-number{display:inline-block;margin-left:5px;font:600 13px "DM Sans",sans-serif;letter-spacing:0;color:#788782;vertical-align:middle}@media(max-width:600px){.puzzle-number{font-size:11px;margin-left:3px}}
+
+/* Compact Wordle-style title and date header */
+header{height:112px;display:flex;align-items:flex-start;justify-content:center;padding-top:17px;position:relative;background:#fff;border-bottom:0;box-shadow:none}
+.brand-heading{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px}
+header .logo{position:static;transform:none;font-family:Arial,Helvetica,sans-serif;font-size:30px;font-weight:800;letter-spacing:-1.1px;line-height:1.12;color:#111;display:flex;align-items:baseline;gap:7px;text-transform:none}
+header .puzzle-number{font:800 30px Arial,Helvetica,sans-serif;letter-spacing:-1.1px;color:#111;margin:0;vertical-align:baseline}
+header .head-actions{position:absolute;right:18px;top:16px;transform:none}
+header .date-top{display:block;font:400 18px Arial,Helvetica,sans-serif;letter-spacing:-.3px;color:#666;margin:3px 0 0;text-transform:none}
+@media(max-width:600px){
+ header{height:100px;padding-top:14px}
+ header .logo,header .puzzle-number{font-size:27px}
+ header .head-actions{right:8px;top:10px}
+ header .date-top{font-size:16px}
+}
+
 </style>
 </head>
 <body>
-<header><div class="logo">WORDLE<span class="logo-dot">.</span><span class="puzzle-number" id="puzzleNumber">#1</span><span class="brand-by">by wordprofessor</span></div><div class="head-actions"><button class="icon-btn" id="helpBtn" aria-label="How to play">?</button><button class="icon-btn" id="statsBtn" aria-label="Statistics">▥</button><button class="icon-btn" id="dictionaryBtn" aria-label="Test dictionary" title="Test dictionary">Aa</button><button class="icon-btn" id="resetBtn" aria-label="New game">↻</button></div></header>
-<div class="date-top" id="dateTop"></div>
+<header><div class="brand-heading"><div class="logo">Wordle <span class="puzzle-number" id="puzzleNumber">#1</span></div><div class="date-top" id="dateTop"></div></div><div class="head-actions"><button class="icon-btn" id="helpBtn" aria-label="How to play">?</button><button class="icon-btn" id="statsBtn" aria-label="Statistics">▥</button><button class="icon-btn" id="dictionaryBtn" aria-label="Test dictionary" title="Test dictionary">Aa</button><button class="icon-btn" id="resetBtn" aria-label="New game">↻</button></div></header>
 <main>
 <button class="archive-launch" id="archiveBtn" type="button"><span aria-hidden="true">▦</span> Browse archive</button>
 <p class="sub">A new five-letter puzzle every day</p>
@@ -213,7 +227,7 @@ function returnToToday(){
 function updatePuzzleMode(){
  const banner=document.getElementById("archiveBanner"),back=document.getElementById("todayBelow"),date=new Date(activeDateKey+"T12:00:00");
  const puzzleNumber=Math.floor((Date.UTC(date.getFullYear(),date.getMonth(),date.getDate())-Date.UTC(2026,0,1))/DAY)+1;document.getElementById("puzzleNumber").textContent="#"+puzzleNumber;
- document.getElementById("dateTop").textContent=date.toLocaleDateString("en-GB",{day:"numeric",month:"long",year:"numeric"});document.getElementById("dateTop").style.display=archiveMode?"none":"block";
+ document.getElementById("dateTop").textContent=date.toLocaleDateString("en-US",{month:"long",day:"numeric",year:"numeric"});document.getElementById("dateTop").style.display=archiveMode?"none":"block";
  if(archiveMode){banner.style.display="flex";document.getElementById("archiveBannerText").textContent="Archive - "+date.toLocaleDateString("en-GB",{day:"numeric",month:"long",year:"numeric"});back.style.display="inline-flex"}
  else{banner.style.display="none";back.style.display="none"}
 }
