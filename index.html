@@ -70,7 +70,7 @@ async function submit(){let word=board[row].join("");if(col<5){say("Not enough l
 function say(s){message.textContent=s}
 function save(){localStorage.setItem(activeStorageKey,JSON.stringify({date:activeDateKey,board,row,col,done,guesses}))}
 function finish(win){if(!archiveMode){stats.played++;if(win){stats.wins++;stats.streak=stats.lastWin===today-1?stats.streak+1:1;stats.lastWin=today}else stats.streak=0;localStorage.setItem("wordlyStats",JSON.stringify(stats))}save()}
-function showStats(){document.getElementById("played").textContent=stats.played;document.getElementById("winPct").textContent=stats.played?Math.round(stats.wins/stats.played*100):0;document.getElementById("streak").textContent=stats.streak;document.getElementById("statsNote").textContent=done?"Today's puzzle is complete. Come back tomorrow for another.":"Keep playing to build your streak.";document.getElementById("statsModal").classList.add("open")}
+function showStats(){document.getElementById("played").textContent=stats.played;document.getElementById("winPct").textContent=stats.played?Math.round(stats.wins/stats.played*100):0;document.getElementById("streak").textContent=stats.streak;document.getElementById("statsNote").textContent=archiveMode?"Archive practice does not affect these daily statistics.":done?"Today's puzzle is complete. Come back tomorrow for another.":"Keep playing to build your streak.";document.getElementById("statsModal").classList.add("open")}
 function openModal(id){document.getElementById(id).classList.add("open")}
 function renderArchive(){
  if(!archiveData)return;
