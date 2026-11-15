@@ -490,6 +490,11 @@ main{margin:18px auto 30px!important}
  #keyboard .key{height:41px!important}
 }
 
+
+/* Word validation shake and staggered Wordle tile reveal */
+@keyframes row-shake{0%,100%{transform:translateX(0)}15%,45%,75%{transform:translateX(-5px)}30%,60%,90%{transform:translateX(5px)}}
+#board .tile.shake{animation:row-shake .42s ease-in-out!important;border-color:#c77b72!important}
+#board .tile.flip{animation:flip .48s ease both!important}
 </style>
 </head>
 <body>
@@ -539,7 +544,9 @@ function loadGameState(){
 }
 let isChecking=false;
 const boardEl=document.getElementById("board"),keyboardEl=document.getElementById("keyboard"),message=document.getElementById("message");
-function render(){boardEl.innerHTML="";for(let r=0;r<6;r++)for(let c=0;c<5;c++){let t=document.createElement("div");t.className="tile"+(board[r][c]?" filled":"");t.textContent=board[r][c];if(r<guesses.length){let s=score(guesses[r],answer)[c];t.className="tile "+s}boardEl.append(t)}}
+function render(revealLatest=false){boardEl.innerHTML="";for(let r=0;r<6;r++)for(let c=0;c<5;c++){let t=document.createElement("div");t.className="tile"+(board[r][c]?" filled":"");t.textContent=board[r][c];if(r<guesses.length&&!(revealLatest&&r===guesses.length-1)){let state=score(guesses[r],answer)[c];t.className="tile "+state}boardEl.append(t)}}
+function shakeCurrentRow(){const tiles=[...boardEl.children].slice(row*5,row*5+5);tiles.forEach(t=>{t.classList.remove("shake");void t.offsetWidth;t.classList.add("shake")});setTimeout(()=>tiles.forEach(t=>t.classList.remove("shake")),520)}
+function revealCurrentGuess(){const states=score(guesses[guesses.length-1],answer);const tiles=[...boardEl.children].slice((guesses.length-1)*5,guesses.length*5);tiles.forEach((tile,i)=>{setTimeout(()=>{tile.classList.add("flip");setTimeout(()=>{tile.classList.remove("filled");tile.classList.add(states[i])},240)},i*180)});return new Promise(resolve=>setTimeout(resolve,5*180+500))}
 function score(word,target){let out=Array(5).fill("absent"),remaining=target.split("");for(let i=0;i<5;i++)if(word[i]===target[i]){out[i]="correct";remaining[i]=null}for(let i=0;i<5;i++)if(out[i]!=="correct"){let j=remaining.indexOf(word[i]);if(j>=0){out[i]="present";remaining[j]=null}}return out}
 const rows=["QWERTYUIOP","ASDFGHJKL","ZXCVBNM"];
 function buildKeys(){keyboardEl.innerHTML="";rows.forEach((str,i)=>{let rr=document.createElement("div");rr.className="key-row";if(i===2)rr.append(key("ENTER","wide"));for(let ch of str)rr.append(key(ch));if(i===2)rr.append(key("⌫","wide"));keyboardEl.append(rr)})}
@@ -547,7 +554,7 @@ function key(ch,wide=""){let b=document.createElement("button");b.className="key
 function paintKeys(){document.querySelectorAll(".key").forEach(k=>{let ch=k.textContent;if(ch.length===1&&/[A-Z]/.test(ch)){let states=guesses.map(g=>({g,s:score(g,answer)}));let state="";for(let x of states)for(let i=0;i<5;i++)if(gLetter(x.g,i)===ch){let s=x.s[i];if(s==="correct")state="correct";else if(s==="present"&&state!=="correct")state="present";else if(!state)state="absent"}if(state)k.classList.add(state)}})}
 function gLetter(g,i){return g[i]}
 function press(ch){if(done||isChecking)return;if(ch==="BACK"){if(col>0){board[row][--col]="";render()}return}if(ch==="ENTER"){submit();return}if(/^[A-Z]$/.test(ch)&&col<5){board[row][col++]=ch;render()}}
-async function submit(){let word=board[row].join("");if(col<5){say("Not enough letters");return}isChecking=true;say("Checking dictionary…");try{let valid=await isDictionaryWord(word);if(!valid){say("Not recognised as an English word");return}guesses.push(word);render();paintKeys();if(word===answer){done=true;say("");finish(true)}else if(row===5){done=true;say("");finish(false)}else{row++;col=0;say("Keep going!")};save()}catch(error){say("Dictionary check unavailable. Please check your connection and try again.")}finally{isChecking=false}}
+async function submit(){let word=board[row].join("");if(col<5){say("Not enough letters");return}isChecking=true;say("");try{let valid=await isDictionaryWord(word);if(!valid){say("");shakeCurrentRow();return}guesses.push(word);render(true);await revealCurrentGuess();paintKeys();if(word===answer){done=true;say("");finish(true)}else if(row===5){done=true;say("");finish(false)}else{row++;col=0;say("")};save()}catch(error){say("Dictionary check unavailable. Please check your connection and try again.")}finally{isChecking=false}}
 function say(s){message.textContent=s}
 function save(){localStorage.setItem(activeStorageKey,JSON.stringify({date:activeDateKey,board,row,col,done,guesses}))}
 function finish(win){if(!archiveMode){stats.played++;if(win){stats.wins++;stats.streak=stats.lastWin===today-1?stats.streak+1:1;stats.lastWin=today}else stats.streak=0;localStorage.setItem("wordlyStats",JSON.stringify(stats))}save();showStats(true,win)}
