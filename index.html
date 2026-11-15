@@ -339,64 +339,41 @@ header .nav-label{display:block!important;font:600 10px/1.1 'DM Sans',sans-serif
 /* Final viewport sizing after the desktop header update */
 @media(min-width:601px){main{height:calc(100dvh - 110px)!important;max-height:calc(100dvh - 110px)!important}}
 
-/* Compact the six-row board so the full puzzle fits without page scrolling */
+/* Larger board with its own scroll area when the screen is short */
 #board{
- width:min(320px,calc(100vw - 40px))!important;
- max-height:none!important;
- overflow:visible!important;
- gap:5px!important;
- margin:5px auto 8px!important;
- padding:0!important;
+ width:min(360px,calc(100vw - 40px))!important;
+ max-height:calc(100dvh - 390px)!important;
+ overflow-y:auto!important;
+ overflow-x:hidden!important;
+ gap:6px!important;
+ margin:8px auto 10px!important;
+ padding:0 2px!important;
+ scrollbar-width:thin;
 }
 #board .tile{
  min-width:0!important;
- font-size:clamp(23px,3.5vw,29px)!important;
+ font-size:clamp(27px,4vw,34px)!important;
  border-radius:7px!important;
 }
-#message{min-height:22px!important;height:auto!important;margin:0 0 5px!important}
+#message{min-height:24px!important;height:auto!important;margin:0 0 7px!important}
 @media(max-width:600px){
  main{margin-top:8px!important}
  .date-top{margin:8px auto 8px!important}
- #board{width:min(292px,calc(100vw - 44px))!important;gap:4px!important;margin:3px auto 5px!important}
- #board .tile{font-size:clamp(21px,6vw,26px)!important;border-radius:6px!important}
- #message{min-height:20px!important;margin:0 0 3px!important;font-size:11px!important}
- #keyboard{gap:5px!important;padding-top:6px!important}
- #keyboard .key{height:clamp(39px,9.5vw,46px)!important}
+ #board{
+  width:min(330px,calc(100vw - 38px))!important;
+  max-height:calc(100dvh - 365px)!important;
+  gap:5px!important;
+  margin:5px auto 8px!important;
+ }
+ #board .tile{font-size:clamp(25px,7vw,31px)!important;border-radius:6px!important}
+ #message{min-height:22px!important;margin:0 0 5px!important;font-size:12px!important}
+ #keyboard{gap:6px!important;padding-top:7px!important}
+ #keyboard .key{height:clamp(42px,10vw,49px)!important}
 }
-@media(max-height:740px){
- #board{width:min(280px,calc(100vw - 48px))!important;gap:4px!important}
- #board .tile{font-size:23px!important}
- #keyboard .key{height:40px!important}
+@media(max-height:680px){
+ #board{max-height:calc(100dvh - 330px)!important}
+ #keyboard .key{height:39px!important}
  #keyboard{gap:4px!important;padding-top:5px!important}
-}
-@media(max-height:660px){
- header{height:96px!important;min-height:96px!important}
- main{padding-bottom:150px!important}
- #board{width:min(250px,calc(100vw - 52px))!important;gap:3px!important}
- #board .tile{font-size:20px!important}
- #keyboard .key{height:34px!important}
- #keyboard{padding-top:4px!important;gap:3px!important}
-}
-
-/* Completion answer stays in its own slot between the board and keyboard */
-#resultSummary{
- position:relative!important;
- width:min(320px,calc(100vw - 40px))!important;
- box-sizing:border-box!important;
- margin:5px auto 8px!important;
- padding:8px 12px!important;
- gap:2px!important;
- border-radius:10px!important;
- background:#edf4ef!important;
- color:#244e42!important;
- text-align:center!important;
-}
-#resultSummary strong{font:700 16px 'Space Grotesk',sans-serif!important}
-#resultSummary span{font:500 11px 'DM Sans',sans-serif!important;line-height:1.3!important}
-@media(max-width:600px){
- #resultSummary{width:min(292px,calc(100vw - 44px))!important;margin:3px auto 5px!important;padding:6px 9px!important}
- #resultSummary strong{font-size:14px!important}
- #resultSummary span{font-size:10px!important}
 }
 </style>
 </head>
@@ -449,7 +426,7 @@ async function submit(){let word=board[row].join("");if(col<5){say("Not enough l
 function say(s){message.textContent=s}
 function save(){localStorage.setItem(activeStorageKey,JSON.stringify({date:activeDateKey,board,row,col,done,guesses}))}
 function finish(win){if(!archiveMode){stats.played++;if(win){stats.wins++;stats.streak=stats.lastWin===today-1?stats.streak+1:1;stats.lastWin=today}else stats.streak=0;localStorage.setItem("wordlyStats",JSON.stringify(stats))}save();showStats(true,win)}
-function showStats(showResult=false,win=false){document.getElementById("played").textContent=stats.played;document.getElementById("winPct").textContent=stats.played?Math.round(stats.wins/stats.played*100):0;document.getElementById("streak").textContent=stats.streak;document.getElementById("statsNote").textContent=archiveMode?"Archive games do not affect your daily statistics.":done?"Come back tomorrow for the next puzzle.":"Keep playing to build your streak.";const summary=document.getElementById("resultSummary");summary.style.display=showResult?"flex":"none";document.getElementById("statsTitle").textContent=showResult?"Puzzle complete":"Statistics";if(showResult){document.getElementById("resultHeadline").textContent=win?"Brilliant!":"Nice try!";document.getElementById("resultDetail").textContent=win?"Solved in "+guesses.length+"/6 guesses. The word was "+answer+".":"The word was "+answer+". Better luck next time."}if(showResult){document.getElementById("statsModal").classList.remove("open");document.body.classList.remove("modal-open")}else{document.getElementById("statsModal").classList.add("open")}}
+function showStats(showResult=false,win=false){document.getElementById("played").textContent=stats.played;document.getElementById("winPct").textContent=stats.played?Math.round(stats.wins/stats.played*100):0;document.getElementById("streak").textContent=stats.streak;document.getElementById("statsNote").textContent=archiveMode?"Archive games do not affect your daily statistics.":done?"Come back tomorrow for the next puzzle.":"Keep playing to build your streak.";const summary=document.getElementById("resultSummary");summary.style.display=showResult?"flex":"none";document.getElementById("statsTitle").textContent=showResult?"Puzzle complete":"Statistics";if(showResult){document.getElementById("resultHeadline").textContent=win?"Brilliant!":"Nice try!";document.getElementById("resultDetail").textContent=win?"Solved in "+guesses.length+"/6 guesses. The word was "+answer+".":"The word was "+answer+". Better luck next time."}document.getElementById("statsModal").classList.add("open");document.body.classList.add("modal-open")}
 function openModal(id){document.getElementById(id).classList.add("open");document.body.classList.add("modal-open")}
 function renderArchive(){
  if(!archiveData)return;
