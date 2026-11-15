@@ -848,6 +848,33 @@ body.home-active header #accountBtn{
 /* Profile shortcut belongs only on the games landing page. */
 body:not(.home-active) header .profile-icon{display:none!important}
 body.home-active header .profile-icon{display:grid!important}
+
+/* FINAL, state-based header rules: one set of controls per screen */
+header{position:relative!important;display:flex!important;align-items:center!important;justify-content:center!important;min-height:76px!important;height:76px!important;padding:0 12px!important}
+header .brand-heading{position:absolute!important;left:50%!important;top:50%!important;transform:translate(-50%,-50%)!important;margin:0!important;text-align:center!important;width:max-content!important;max-width:calc(100% - 150px)!important;z-index:2!important}
+header .logo{display:flex!important;align-items:baseline!important;justify-content:center!important;flex-wrap:wrap!important;line-height:1.15!important}
+header .brand-by{display:inline-block!important}
+header .profile-icon{position:absolute!important;right:16px!important;left:auto!important;top:50%!important;transform:translateY(-50%)!important;z-index:5!important}
+header .home-nav-btn{position:absolute!important;left:16px!important;top:50%!important;transform:translateY(-50%)!important;z-index:5!important}
+/* Landing page: only the profile shortcut, no in-game controls. */
+body.home-active header .head-actions{display:none!important}
+body.home-active header #homeBtn{display:none!important}
+body.home-active header .profile-icon{display:grid!important}
+/* Active game: game controls and Games navigation, never the profile shortcut. */
+body:not(.home-active) header .head-actions{display:flex!important}
+body:not(.home-active) header #homeBtn{display:flex!important}
+body:not(.home-active) header .profile-icon{display:none!important}
+@media(max-width:600px){
+ header{height:68px!important;min-height:68px!important;padding:0 8px!important}
+ header .brand-heading{max-width:calc(100% - 112px)!important}
+ header .logo{font-size:clamp(16px,4.8vw,21px)!important;letter-spacing:clamp(2px,1vw,4px)!important}
+ header .brand-by{font-size:10px!important;letter-spacing:0!important;margin-left:4px!important}
+ header .profile-icon{right:10px!important;width:36px!important;height:36px!important}
+ header .home-nav-btn{left:8px!important;height:32px!important;padding:0 8px!important;font-size:11px!important}
+ header .head-actions{right:6px!important;gap:2px!important}
+ header .head-actions .nav-label{display:none!important}
+ header .head-actions .icon-btn,header .head-actions .archive-nav{padding:6px!important}
+}
 </style>
 </head>
 <body>
