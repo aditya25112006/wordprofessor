@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>WORDLY — Daily Word Puzzle</title>
+<title>WORDLE — Daily Word Puzzle</title>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
 <style>
 :root{--bg:#fbfcff;--ink:#202434;--muted:#7c8293;--line:#d9deea;--green:#6aaa64;--yellow:#c9a63b;--gray:#858b98;--tile:#fff;--accent:#5b65d8}
@@ -23,10 +23,47 @@ footer{margin-top:24px;color:var(--muted);font-size:12px;text-align:center}
 .modal{position:fixed;inset:0;background:#11182766;display:none;align-items:center;justify-content:center;padding:18px;z-index:5}.modal.open{display:flex}.panel{background:white;border-radius:16px;padding:25px;width:min(390px,100%);box-shadow:0 20px 60px #11182733;position:relative}.panel h2{margin:0 0 12px}.panel p,.panel li{font-size:14px;line-height:1.55;color:#555d70}.close{position:absolute;right:13px;top:10px;font-size:23px;border:0;background:none;cursor:pointer}.example{display:flex;gap:5px;margin:10px 0}.example span{width:34px;height:34px;display:grid;place-items:center;color:white;font-weight:800;border-radius:3px}.stats{display:flex;justify-content:space-around;text-align:center;margin:20px 0}.stats strong{display:block;font-size:25px}.stats small{color:var(--muted)}
 .archive-panel{width:min(460px,100%);max-height:88vh;overflow:auto}.archive-nav{display:flex;align-items:center;justify-content:space-between;margin:16px 0 12px}.archive-nav button{border:1px solid var(--line);background:white;border-radius:8px;padding:7px 12px;cursor:pointer;font-size:16px}.archive-weekdays,.archive-calendar{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:5px}.archive-weekdays span{text-align:center;font-size:11px;color:var(--muted);padding:5px 0}.archive-day{aspect-ratio:1;border:1px solid var(--line);border-radius:8px;background:white;color:var(--ink);font-weight:700;position:relative;cursor:pointer}.archive-day:disabled{opacity:.25;cursor:default}.archive-day.easy{background:#edf7ec;border-color:#c5e3c1}.archive-day.medium{background:#fff7df;border-color:#ead79b}.archive-day.hard{background:#fcecec;border-color:#efc3c3}.archive-day.played:after{content:"";position:absolute;width:5px;height:5px;border-radius:50%;background:#5b65d8;bottom:4px;left:calc(50% - 2.5px)}.archive-legend{display:flex;gap:12px;flex-wrap:wrap;margin-top:14px;font-size:12px;color:var(--muted)}.archive-legend span{display:flex;align-items:center;gap:5px}.legend-dot{width:9px;height:9px;border-radius:50%;display:inline-block}.legend-dot.easy{background:#6aaa64}.legend-dot.medium{background:#c9a63b}.legend-dot.hard{background:#c66b6b}#archiveBanner{display:none;align-items:center;justify-content:center;gap:10px;width:100%;padding:10px 14px;margin:0 0 18px;background:transparent;border:0;border-radius:0;font-size:15px;font-weight:700;letter-spacing:-.02em;color:var(--ink)}#archiveBanner button{display:none}#todayBelow{display:none;margin:20px auto 0;border:1px solid var(--line);background:#fff;color:var(--ink);border-radius:999px;padding:11px 22px;font:600 13px "DM Sans",sans-serif;cursor:pointer;transition:all .2s}#todayBelow:hover{background:#f0f1ff;border-color:#b9bef5;color:var(--accent)}
 @media(max-width:390px){.key{height:48px;font-size:12px}.tile{font-size:26px}main{margin-top:16px}}
+
+/* WORDLE visual refresh */
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;600;700&display=swap');
+:root{--bg:#f6f7f4;--ink:#18252a;--muted:#78858a;--line:#dce3df;--green:#4f9d78;--yellow:#d4a94b;--gray:#879397;--tile:#ffffff;--accent:#276c63}
+body{font-family:'DM Sans',sans-serif;background:radial-gradient(ellipse at 50% -18%,#e4eee9 0%,#f6f7f4 56%);color:var(--ink);letter-spacing:-.01em}
+header{height:76px;border-bottom:1px solid rgba(24,37,42,.09);background:rgba(250,251,249,.82);backdrop-filter:blur(16px);box-shadow:0 3px 20px rgba(24,37,42,.025)}
+.logo{font-family:'Space Grotesk',sans-serif;font-size:26px;font-weight:700;letter-spacing:5px;color:#1d3435}
+.logo-dot{color:#58a58a}
+.head-actions{right:clamp(12px,3vw,34px);gap:5px}
+.icon-btn{width:40px;height:40px;display:grid;place-items:center;border-radius:12px;color:#526368;font-size:19px;transition:background .18s,transform .18s,color .18s}
+.icon-btn:hover{background:#e8efeb;color:#276c63;transform:translateY(-1px)}
+main{width:min(500px,94vw);margin:28px auto 42px}
+.date-top{font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:#7b8c87;margin:10px auto 18px}
+#archiveBanner{color:#315b54;font-size:14px;font-weight:700;padding:8px 0 16px;margin-bottom:8px}
+#board{width:min(350px,88vw);gap:7px;margin:8px auto 25px}
+.tile{border:2px solid #d9e1dd;border-radius:9px;font-family:'Space Grotesk',sans-serif;font-size:32px;font-weight:700;color:#213337;box-shadow:0 2px 4px rgba(28,48,46,.025);transition:transform .15s,border-color .15s,background .2s}
+.tile.filled{border-color:#91aaa0;box-shadow:0 3px 9px rgba(35,75,63,.07)}
+.tile.correct,.key.correct{background:#4f9d78;border-color:#4f9d78;color:#fff}
+.tile.present,.key.present{background:#d4a94b;border-color:#d4a94b;color:#fff}
+.tile.absent,.key.absent{background:#879397;border-color:#879397;color:#fff}
+#message{min-height:30px;height:auto;margin:2px 0 12px;font-size:13px;font-weight:700;letter-spacing:.01em;color:#52656a}
+#keyboard{gap:9px;margin:10px auto 0;max-width:500px}
+.key-row{gap:6px}
+.key{height:54px;border:1px solid transparent;border-radius:9px;background:#e6ece8;color:#273b3d;font-family:'DM Sans',sans-serif;font-size:14px;font-weight:800;box-shadow:0 2px 0 rgba(35,58,51,.07);transition:transform .12s,background .15s,box-shadow .15s}
+.key:hover{background:#dbe6df}
+.key:active{transform:translateY(2px);box-shadow:none}
+.key.wide{font-size:11px;letter-spacing:.04em}
+#todayBelow{font-family:'DM Sans',sans-serif;font-weight:700;border-radius:999px;padding:12px 23px;color:#315b54;border-color:#cbdad2;background:#fff;box-shadow:0 4px 14px rgba(31,61,52,.06)}
+#todayBelow:hover{background:#eaf2ed;border-color:#a9c7b8;color:#1f6659}
+.modal{background:rgba(17,35,34,.42);backdrop-filter:blur(5px)}
+.panel{border:1px solid rgba(255,255,255,.7);border-radius:20px;padding:28px;background:#fcfdfb;box-shadow:0 24px 80px rgba(17,35,34,.2)}
+.panel h2{font-family:'Space Grotesk',sans-serif;letter-spacing:-.04em;color:#203537}
+.panel p,.panel li{color:#5c6b6b}
+.close{color:#647775}
+.archive-day{border-radius:10px;font-family:'DM Sans',sans-serif}
+@media(max-width:520px){header{height:66px}.logo{font-size:23px;letter-spacing:4px}.head-actions{right:8px;gap:0}.icon-btn{width:35px;height:38px;font-size:17px}main{margin:20px auto 30px}.tile{font-size:28px;border-radius:7px}.key{height:49px;border-radius:8px}.key-row{gap:4px}}
+
 </style>
 </head>
 <body>
-<header><div class="logo">WORDLY</div><div class="head-actions"><button class="icon-btn" id="helpBtn" aria-label="How to play">?</button><button class="icon-btn" id="archiveBtn" aria-label="Puzzle archive" title="Archive">▦</button><button class="icon-btn" id="statsBtn" aria-label="Statistics">▥</button><button class="icon-btn" id="dictionaryBtn" aria-label="Test dictionary" title="Test dictionary">Aa</button><button class="icon-btn" id="resetBtn" aria-label="New game">↻</button></div></header>
+<header><div class="logo">WORDLE<span class="logo-dot">.</span></div><div class="head-actions"><button class="icon-btn" id="helpBtn" aria-label="How to play">?</button><button class="icon-btn" id="archiveBtn" aria-label="Puzzle archive" title="Archive">▦</button><button class="icon-btn" id="statsBtn" aria-label="Statistics">▥</button><button class="icon-btn" id="dictionaryBtn" aria-label="Test dictionary" title="Test dictionary">Aa</button><button class="icon-btn" id="resetBtn" aria-label="New game">↻</button></div></header>
 <div class="date-top" id="dateTop"></div>
 <main>
 <p class="sub">A new five-letter puzzle every day</p>
