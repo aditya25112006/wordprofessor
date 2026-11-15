@@ -248,6 +248,47 @@ main{height:calc(100dvh - 88px);max-height:calc(100dvh - 88px);min-height:0;box-
  .tile{font-size:27px}
 }
 
+
+/* Rebuild mobile header as two clean, non-overlapping rows */
+@media(max-width:600px){
+ header{
+  height:112px!important;min-height:112px!important;box-sizing:border-box;
+  display:flex!important;flex-direction:column!important;align-items:center!important;justify-content:flex-start!important;
+  padding:12px 10px 8px!important;gap:10px!important;position:relative!important;
+  background:#fff!important;border-bottom:1px solid #edf0ed!important;box-shadow:none!important;
+ }
+ header .brand-heading{position:static!important;display:flex!important;align-items:center!important;justify-content:center!important;width:100%!important;min-width:0}
+ header .logo{
+  position:static!important;transform:none!important;display:flex!important;align-items:baseline!important;justify-content:center!important;
+  width:100%!important;white-space:nowrap!important;font-size:23px!important;line-height:1.15!important;
+  letter-spacing:2.5px!important;font-weight:800!important;gap:0!important
+ }
+ header .brand-by{font-size:9px!important;letter-spacing:.025em!important;margin-left:7px!important}
+ header .head-actions{
+  position:static!important;transform:none!important;inset:auto!important;
+  display:flex!important;flex-direction:row!important;align-items:center!important;justify-content:center!important;
+  width:100%!important;gap:9px!important;margin:0!important
+ }
+ header .head-actions .icon-btn,header .head-actions .archive-nav{
+  position:static!important;display:inline-flex!important;flex:0 0 38px!important;
+  align-items:center!important;justify-content:center!important;width:38px!important;height:36px!important;min-height:36px!important;
+  box-sizing:border-box!important;padding:0!important;margin:0!important;border:1px solid #e1e8e3!important;
+  border-radius:10px!important;background:#f8faf8!important;color:#36584d!important;
+  font:600 15px "DM Sans",sans-serif!important;line-height:1!important;box-shadow:none!important
+ }
+ header .head-actions .archive-nav{flex:0 0 auto!important;width:auto!important;padding:0 11px!important;gap:5px!important;font-size:12px!important}
+ header .head-actions .archive-nav span{display:inline!important}
+ header .head-actions .icon-btn:hover,header .head-actions .archive-nav:hover{background:#edf4ef!important}
+}
+@media(max-width:360px){
+ header{height:108px!important;min-height:108px!important;padding-top:10px!important;gap:8px!important}
+ header .logo{font-size:20px!important;letter-spacing:2px!important}
+ header .brand-by{font-size:8px!important;margin-left:5px!important}
+ header .head-actions{gap:6px!important}
+ header .head-actions .icon-btn{flex-basis:34px!important;width:34px!important;height:34px!important}
+ header .head-actions .archive-nav{height:34px!important;min-height:34px!important;padding:0 8px!important;font-size:11px!important}
+}
+
 </style>
 </head>
 <body>
