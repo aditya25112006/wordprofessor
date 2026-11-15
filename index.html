@@ -668,6 +668,21 @@ body.home-active #homeScreen{
  padding-bottom:30px!important;
 }
 body.home-active .site-footer{display:flex!important;visibility:visible!important;opacity:1!important}
+
+/* Allow the entire site to scroll vertically on every screen */
+html{
+ height:auto!important;min-height:100%!important;
+ overflow-x:hidden!important;overflow-y:auto!important;
+}
+body{
+ height:auto!important;min-height:100dvh!important;
+ overflow-x:hidden!important;overflow-y:auto!important;
+ overscroll-behavior-y:contain!important;
+}
+body:not(.home-active) main{
+ padding-bottom:190px!important;
+}
+
 </style>
 </head>
 <body>
