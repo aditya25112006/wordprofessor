@@ -495,6 +495,103 @@ main{margin:18px auto 30px!important}
 @keyframes row-shake{0%,100%{transform:translateX(0)}15%,45%,75%{transform:translateX(-5px)}30%,60%,90%{transform:translateX(5px)}}
 #board .tile.shake{animation:row-shake .42s ease-in-out!important;border-color:#c77b72!important}
 #board .tile.flip{animation:flip .48s ease both!important}
+
+/* Refined centered header and premium modal system */
+header{
+ height:104px!important;min-height:104px!important;
+ display:flex!important;align-items:center!important;justify-content:center!important;
+}
+header .brand-heading{
+ position:absolute!important;left:50%!important;top:50%!important;
+ transform:translate(-50%,-50%)!important;margin:0!important;
+}
+header .head-actions{
+ position:absolute!important;right:clamp(12px,3vw,34px)!important;
+ top:50%!important;transform:translateY(-50%)!important;
+ display:flex!important;align-items:center!important;
+}
+.modal{
+ padding:20px!important;
+ background:rgba(17,42,32,.48)!important;
+ backdrop-filter:blur(9px)!important;
+ -webkit-backdrop-filter:blur(9px)!important;
+}
+.modal.open{animation:modal-fade .2s ease both}
+@keyframes modal-fade{from{opacity:0}to{opacity:1}}
+.modal .panel{
+ width:min(420px,100%)!important;
+ max-height:min(88dvh,760px)!important;overflow-y:auto!important;
+ padding:34px 30px 28px!important;
+ border:1px solid rgba(255,255,255,.82)!important;
+ border-radius:25px!important;
+ background:linear-gradient(155deg,#ffffff 0%,#f8fbf8 100%)!important;
+ box-shadow:0 28px 90px rgba(12,39,26,.24),0 5px 18px rgba(20,55,35,.08)!important;
+ animation:panel-rise .25s cubic-bezier(.2,.8,.2,1) both;
+}
+@keyframes panel-rise{from{transform:translateY(12px) scale(.975)}to{transform:translateY(0) scale(1)}}
+.modal .panel:before{
+ content:"";position:absolute;top:0;left:30px;right:30px;height:4px;
+ border-radius:0 0 8px 8px;background:linear-gradient(90deg,#8fc3a0,#3f8766);
+}
+.modal .panel h2{
+ margin:0 38px 16px 0!important;
+ font:700 23px 'Space Grotesk',sans-serif!important;
+ letter-spacing:-.045em!important;color:#1d3b30!important;
+}
+.modal .panel p,.modal .panel li{
+ font:400 13px/1.7 'DM Sans',sans-serif!important;color:#687a70!important;
+}
+.modal .close{
+ top:17px!important;right:17px!important;width:34px!important;height:34px!important;
+ display:grid!important;place-items:center!important;border:1px solid #e3ece5!important;
+ background:#f0f6f1!important;color:#527363!important;border-radius:50%!important;
+ font-size:21px!important;line-height:1!important;transition:all .16s ease!important;
+}
+.modal .close:hover{background:#e2efe5!important;transform:rotate(90deg)!important}
+#resultModal .panel{width:min(390px,100%)!important;text-align:center!important;padding:39px 28px 30px!important}
+#resultModal .panel h2{margin:0 0 20px!important;font-size:25px!important;text-align:center!important}
+#resultSummary{
+ display:flex!important;flex-direction:column!important;align-items:center!important;
+ gap:9px!important;margin:0!important;padding:23px 18px!important;
+ border:1px solid #dcebe0!important;border-radius:18px!important;
+ background:linear-gradient(145deg,#edf6ef,#f7faf6)!important;
+ box-shadow:inset 0 1px 0 rgba(255,255,255,.9)!important;
+}
+#resultSummary strong{font:700 25px 'Space Grotesk',sans-serif!important;color:#2d6749!important}
+#resultSummary span{font:500 13px/1.6 'DM Sans',sans-serif!important;color:#64796b!important}
+#statsModal .panel{width:min(430px,100%)!important}
+#statsModal .stats{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:10px!important;margin:24px 0 18px!important}
+#statsModal .stats>div{
+ padding:17px 8px!important;border:1px solid #e0ebe2!important;
+ border-radius:15px!important;background:#f4f8f4!important;
+}
+#statsModal .stats strong{font:700 27px 'Space Grotesk',sans-serif!important;color:#2d6749!important}
+#statsModal .stats small{font:600 10px 'DM Sans',sans-serif!important;color:#819087!important;text-transform:uppercase!important;letter-spacing:.08em!important}
+#statsModal #statsNote{text-align:center!important;margin:12px 0 0!important}
+#hintModal .panel,#helpModal .panel{width:min(410px,100%)!important}
+#hintText{padding:17px 18px!important;border:1px solid #dfebe2!important;border-radius:15px!important;background:#f2f8f3!important;color:#35664a!important;font-weight:600!important}
+#helpModal .example{gap:6px!important;margin:14px 0!important}
+#helpModal .example span{width:38px!important;height:38px!important;border-radius:8px!important;font:700 17px 'Space Grotesk',sans-serif!important;box-shadow:0 2px 5px rgba(25,50,35,.12)!important}
+#archiveModal .archive-panel{width:min(470px,100%)!important}
+#archiveModal .archive-nav button{width:36px;height:36px;border-radius:11px!important;background:#f2f7f3!important;border-color:#dce9df!important;color:#416c53!important}
+#archiveModal .archive-day{font-size:13px!important;transition:background .15s,border-color .15s,transform .15s!important}
+#archiveModal .archive-day:not(:disabled):hover{transform:translateY(-1px)!important}
+@media(max-width:600px){
+ header{height:112px!important;min-height:112px!important;display:block!important}
+ header .brand-heading{top:10px!important;left:50%!important;transform:translateX(-50%)!important}
+ header .head-actions{top:auto!important;bottom:9px!important;left:8px!important;right:8px!important;transform:none!important}
+ .modal{padding:14px!important}
+ .modal .panel{padding:30px 21px 23px!important;border-radius:21px!important}
+ .modal .panel:before{left:21px!important;right:21px!important}
+ .modal .panel h2{font-size:21px!important}
+ #resultModal .panel{padding:35px 20px 23px!important}
+ #resultSummary{padding:20px 14px!important}
+ #resultSummary strong{font-size:23px!important}
+ #statsModal .stats{gap:7px!important}
+ #statsModal .stats>div{padding:14px 5px!important}
+ #statsModal .stats strong{font-size:24px!important}
+}
+
 </style>
 </head>
 <body>
