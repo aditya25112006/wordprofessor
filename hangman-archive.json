@@ -2586,6 +2586,516 @@
         "category": "LITERATURE",
         "clue": "The immediate repetition of a word for emphasis."
       }
+    },
+    "2026-04-01": {
+      "easy": {
+        "word": "ALGAE",
+        "category": "Nature",
+        "clue": "Simple organisms that commonly grow in water."
+      },
+      "medium": {
+        "word": "ACCOLADE",
+        "category": "Recognition",
+        "clue": "An award or expression of praise for an achievement."
+      },
+      "hard": {
+        "word": "BATHYSCAPHE",
+        "category": "Exploration",
+        "clue": "A deep-sea vessel designed to descend to great depths."
+      }
+    },
+    "2026-04-02": {
+      "easy": {
+        "word": "BAYOU",
+        "category": "Geography",
+        "clue": "A slow-moving stream or marshy inlet, especially in the southern United States."
+      },
+      "medium": {
+        "word": "BARRAGE",
+        "category": "Military",
+        "clue": "A concentrated artillery attack or overwhelming series of questions."
+      },
+      "hard": {
+        "word": "CIRCUMSPECT",
+        "category": "Character",
+        "clue": "Careful to consider all circumstances and possible consequences."
+      }
+    },
+    "2026-04-03": {
+      "easy": {
+        "word": "CHALK",
+        "category": "Materials",
+        "clue": "A soft white rock used for writing on boards."
+      },
+      "medium": {
+        "word": "COVENANT",
+        "category": "Agreements",
+        "clue": "A formal and binding agreement."
+      },
+      "hard": {
+        "word": "DEIPNOSOPHIST",
+        "category": "People",
+        "clue": "A person skilled in the art of dinner-table conversation."
+      }
+    },
+    "2026-04-04": {
+      "easy": {
+        "word": "DRIFT",
+        "category": "Movement",
+        "clue": "To be carried slowly by wind or water."
+      },
+      "medium": {
+        "word": "DISSONANCE",
+        "category": "Music",
+        "clue": "A combination of notes that creates tension or lacks harmony."
+      },
+      "hard": {
+        "word": "EQUANIMITY",
+        "category": "Character",
+        "clue": "Calmness and composure, especially in a difficult situation."
+      }
+    },
+    "2026-04-05": {
+      "easy": {
+        "word": "FENNEC",
+        "category": "Animals",
+        "clue": "A small desert fox known for its exceptionally large ears."
+      },
+      "medium": {
+        "word": "EXEMPLAR",
+        "category": "People",
+        "clue": "A person or thing regarded as an ideal example."
+      },
+      "hard": {
+        "word": "GOBEMOUCHE",
+        "category": "People",
+        "clue": "A gullible person who readily believes what others tell them."
+      }
+    },
+    "2026-04-06": {
+      "easy": {
+        "word": "GABLE",
+        "category": "Architecture",
+        "clue": "The triangular upper part of a wall beneath a sloping roof."
+      },
+      "medium": {
+        "word": "FALLOW",
+        "category": "Agriculture",
+        "clue": "Land left unplanted for a period to restore its fertility."
+      },
+      "hard": {
+        "word": "HERMENEUTICS",
+        "category": "Philosophy",
+        "clue": "The theory and method of interpreting texts."
+      }
+    },
+    "2026-04-07": {
+      "easy": {
+        "word": "GEESE",
+        "category": "Animals",
+        "clue": "Large water birds, plural."
+      },
+      "medium": {
+        "word": "GLEANING",
+        "category": "Agriculture",
+        "clue": "Gathering leftover grain or information bit by bit."
+      },
+      "hard": {
+        "word": "INTRANSIGENCE",
+        "category": "Behaviour",
+        "clue": "The refusal to change one's position or compromise."
+      }
+    },
+    "2026-04-08": {
+      "easy": {
+        "word": "HERON",
+        "category": "Animals",
+        "clue": "A long-legged wading bird often seen near water."
+      },
+      "medium": {
+        "word": "HAPHAZARD",
+        "category": "Descriptors",
+        "clue": "Lacking organisation, planning or order."
+      },
+      "hard": {
+        "word": "JACTITATION",
+        "category": "Law",
+        "clue": "A false or boastful claim, especially one affecting another person's rights."
+      }
+    },
+    "2026-04-09": {
+      "easy": {
+        "word": "INLET",
+        "category": "Geography",
+        "clue": "A narrow body of water reaching into a coastline."
+      },
+      "medium": {
+        "word": "IDYLLIC",
+        "category": "Descriptors",
+        "clue": "Extremely peaceful, picturesque or happy."
+      },
+      "hard": {
+        "word": "KAKORRHAPHIOPHOBIA",
+        "category": "Psychology",
+        "clue": "An excessive fear of failure or defeat."
+      }
+    },
+    "2026-04-10": {
+      "easy": {
+        "word": "JAZZY",
+        "category": "Music",
+        "clue": "Lively, bright or strongly influenced by jazz."
+      },
+      "medium": {
+        "word": "JARGON",
+        "category": "Language",
+        "clue": "Specialised words used by a particular profession or group."
+      },
+      "hard": {
+        "word": "PEREGRINATION",
+        "category": "Travel",
+        "clue": "A journey, especially one involving wandering from place to place."
+      }
+    },
+    "2026-04-11": {
+      "easy": {
+        "word": "KELP",
+        "category": "Nature",
+        "clue": "Large brown seaweed that grows in underwater forests."
+      },
+      "medium": {
+        "word": "LUCID",
+        "category": "Descriptors",
+        "clue": "Expressed clearly and easy to understand."
+      },
+      "hard": {
+        "word": "RHADAMANTHINE",
+        "category": "Literature",
+        "clue": "Strictly just, severe or inflexible."
+      }
+    },
+    "2026-04-12": {
+      "easy": {
+        "word": "LOAM",
+        "category": "Soil",
+        "clue": "Rich, crumbly soil containing sand, silt and clay."
+      },
+      "medium": {
+        "word": "LATTICE",
+        "category": "Structures",
+        "clue": "A framework of crossed strips or bars."
+      },
+      "hard": {
+        "word": "SESQUIPEDALIAN",
+        "category": "Language",
+        "clue": "Characterised by the use of unusually long words."
+      }
+    },
+    "2026-04-13": {
+      "easy": {
+        "word": "MULCH",
+        "category": "Gardening",
+        "clue": "A protective layer spread over soil to retain moisture."
+      },
+      "medium": {
+        "word": "MALAISE",
+        "category": "Health",
+        "clue": "A general feeling of discomfort or unease."
+      },
+      "hard": {
+        "word": "TINTINNABULATION",
+        "category": "Sound",
+        "clue": "The ringing or tinkling sound of bells."
+      }
+    },
+    "2026-04-14": {
+      "easy": {
+        "word": "NADIR",
+        "category": "Astronomy",
+        "clue": "The point in the sky directly beneath an observer."
+      },
+      "medium": {
+        "word": "OBLIQUE",
+        "category": "Geometry",
+        "clue": "Neither parallel nor perpendicular; also indirect in expression."
+      },
+      "hard": {
+        "word": "ULTRAMARINE",
+        "category": "Art",
+        "clue": "A vivid blue pigment originally made from lapis lazuli."
+      }
+    },
+    "2026-04-15": {
+      "easy": {
+        "word": "OZONE",
+        "category": "Science",
+        "clue": "A form of oxygen found in a protective layer of the atmosphere."
+      },
+      "medium": {
+        "word": "OSTENSIBLE",
+        "category": "Language",
+        "clue": "Appearing to be true or stated as the reason, though not necessarily so."
+      },
+      "hard": {
+        "word": "VERMICULATE",
+        "category": "Art and design",
+        "clue": "To decorate a surface with wavy, worm-like lines."
+      }
+    },
+    "2026-04-16": {
+      "easy": {
+        "word": "PLANK",
+        "category": "Objects",
+        "clue": "A long, flat piece of timber."
+      },
+      "medium": {
+        "word": "PLACATE",
+        "category": "Actions",
+        "clue": "To calm someone who is angry or upset."
+      },
+      "hard": {
+        "word": "WELTERWEIGHT",
+        "category": "Sport",
+        "clue": "A boxing or wrestling division between lightweight and middleweight."
+      }
+    },
+    "2026-04-17": {
+      "easy": {
+        "word": "QUART",
+        "category": "Measurement",
+        "clue": "A unit of liquid capacity equal to two pints."
+      },
+      "medium": {
+        "word": "QUANDARY",
+        "category": "Situations",
+        "clue": "A state of uncertainty about what to do."
+      },
+      "hard": {
+        "word": "XENODOCHIAL",
+        "category": "Character",
+        "clue": "Friendly or hospitable to strangers."
+      }
+    },
+    "2026-04-18": {
+      "easy": {
+        "word": "RAVEN",
+        "category": "Animals",
+        "clue": "A large black bird known for its intelligence."
+      },
+      "medium": {
+        "word": "RAPPORT",
+        "category": "Relationships",
+        "clue": "A friendly and understanding connection between people."
+      },
+      "hard": {
+        "word": "YESTEREVE",
+        "category": "Time",
+        "clue": "An archaic word meaning yesterday evening."
+      }
+    },
+    "2026-04-19": {
+      "easy": {
+        "word": "SPORE",
+        "category": "Biology",
+        "clue": "A tiny reproductive unit produced by fungi, mosses and some plants."
+      },
+      "medium": {
+        "word": "STOICISM",
+        "category": "Philosophy",
+        "clue": "Endurance of pain or hardship without showing emotion."
+      },
+      "hard": {
+        "word": "ZUGZWANG",
+        "category": "Chess",
+        "clue": "A position in which every legal move worsens a player's situation."
+      }
+    },
+    "2026-04-20": {
+      "easy": {
+        "word": "THYME",
+        "category": "Food",
+        "clue": "A fragrant herb commonly used in cooking."
+      },
+      "medium": {
+        "word": "TANGIBLE",
+        "category": "Descriptors",
+        "clue": "Able to be touched or clearly perceived."
+      },
+      "hard": {
+        "word": "APOTROPAIC",
+        "category": "Culture",
+        "clue": "Intended to ward off evil or bad luck."
+      }
+    },
+    "2026-04-21": {
+      "easy": {
+        "word": "UNZIP",
+        "category": "Actions",
+        "clue": "To open something by moving its fastening apart."
+      },
+      "medium": {
+        "word": "UNWIELDY",
+        "category": "Descriptors",
+        "clue": "Difficult to handle or manage because of size or complexity."
+      },
+      "hard": {
+        "word": "BRONTOPHOBIA",
+        "category": "Psychology",
+        "clue": "An intense fear of thunder."
+      }
+    },
+    "2026-04-22": {
+      "easy": {
+        "word": "WREN",
+        "category": "Animals",
+        "clue": "A very small bird with a short, upright tail."
+      },
+      "medium": {
+        "word": "VENEER",
+        "category": "Materials",
+        "clue": "A thin decorative layer of fine wood or another material."
+      },
+      "hard": {
+        "word": "CHIROGRAPHY",
+        "category": "Writing",
+        "clue": "The art or practice of handwriting."
+      }
+    },
+    "2026-04-23": {
+      "easy": {
+        "word": "YAWN",
+        "category": "Actions",
+        "clue": "To open the mouth involuntarily when tired or bored."
+      },
+      "medium": {
+        "word": "WISTFUL",
+        "category": "Emotion",
+        "clue": "Having a feeling of vague longing or gentle sadness."
+      },
+      "hard": {
+        "word": "DYSPEPTIC",
+        "category": "Medicine",
+        "clue": "Relating to indigestion, or marked by irritability and gloom."
+      }
+    },
+    "2026-04-24": {
+      "easy": {
+        "word": "YOLK",
+        "category": "Food",
+        "clue": "The yellow central part of an egg."
+      },
+      "medium": {
+        "word": "YEARNING",
+        "category": "Emotion",
+        "clue": "A strong feeling of longing for something."
+      },
+      "hard": {
+        "word": "ABSTEMIOUS",
+        "category": "Character",
+        "clue": "Moderate or sparing, especially in eating and drinking."
+      }
+    },
+    "2026-04-25": {
+      "easy": {
+        "word": "ZEST",
+        "category": "Food",
+        "clue": "The fragrant outer peel of citrus fruit, or lively enthusiasm."
+      },
+      "medium": {
+        "word": "ZEITGEIST",
+        "category": "Culture",
+        "clue": "The defining spirit or mood of a particular period."
+      },
+      "hard": {
+        "word": "CARPHOLOGY",
+        "category": "Medicine",
+        "clue": "The repetitive plucking or picking at bedclothes, often seen in severe illness."
+      }
+    },
+    "2026-04-26": {
+      "easy": {
+        "word": "BRINE",
+        "category": "Food",
+        "clue": "Water strongly saturated with salt."
+      },
+      "medium": {
+        "word": "AUSTERE",
+        "category": "Descriptors",
+        "clue": "Severe or plain in appearance, manner or style."
+      },
+      "hard": {
+        "word": "BORBORYGMUS",
+        "category": "Medicine",
+        "clue": "A rumbling or gurgling noise produced by movement of gas in the intestines."
+      }
+    },
+    "2026-04-27": {
+      "easy": {
+        "word": "CUMIN",
+        "category": "Food",
+        "clue": "An aromatic spice made from the seeds of a plant."
+      },
+      "medium": {
+        "word": "BULWARK",
+        "category": "Defence",
+        "clue": "A protective barrier or strong defence."
+      },
+      "hard": {
+        "word": "BLATHERSKITE",
+        "category": "People",
+        "clue": "A person who talks at great length without making much sense."
+      }
+    },
+    "2026-04-28": {
+      "easy": {
+        "word": "DINGO",
+        "category": "Animals",
+        "clue": "A wild dog native to Australia."
+      },
+      "medium": {
+        "word": "CANDOUR",
+        "category": "Character",
+        "clue": "The quality of being honest and straightforward."
+      },
+      "hard": {
+        "word": "DEGUST",
+        "category": "Actions",
+        "clue": "To taste or sample food and drink carefully."
+      }
+    },
+    "2026-04-29": {
+      "easy": {
+        "word": "FJORD",
+        "category": "Geography",
+        "clue": "A long, narrow sea inlet bordered by steep cliffs."
+      },
+      "medium": {
+        "word": "DEBACLE",
+        "category": "Events",
+        "clue": "A sudden and complete failure."
+      },
+      "hard": {
+        "word": "DIPYLON",
+        "category": "Archaeology",
+        "clue": "Relating to an ancient Athenian gate and the cemetery beside it."
+      }
+    },
+    "2026-04-30": {
+      "easy": {
+        "word": "GLEAN",
+        "category": "Agriculture",
+        "clue": "To gather leftover crops after the main harvest."
+      },
+      "medium": {
+        "word": "ELUSIVE",
+        "category": "Descriptors",
+        "clue": "Difficult to find, catch or achieve."
+      },
+      "hard": {
+        "word": "HWYL",
+        "category": "Emotion",
+        "clue": "An intense feeling of emotional fervour or inspired enthusiasm."
+      }
     }
   }
 }
