@@ -5187,6 +5187,516 @@
         "category": "Writing",
         "clue": "A long, detailed discussion of a subject"
       }
+    },
+    "2026-09-01": {
+      "easy": {
+        "word": "ACCORDION",
+        "category": "Music",
+        "clue": "A portable instrument with bellows and buttons"
+      },
+      "medium": {
+        "word": "ABERRANT",
+        "category": "Behaviour",
+        "clue": "Departing from what is normal or expected"
+      },
+      "hard": {
+        "word": "ABATTOIR",
+        "category": "Place",
+        "clue": "A slaughterhouse"
+      }
+    },
+    "2026-09-02": {
+      "easy": {
+        "word": "AIRPLANE",
+        "category": "Transport",
+        "clue": "A powered aircraft with fixed wings"
+      },
+      "medium": {
+        "word": "ABJURE",
+        "category": "Language",
+        "clue": "To formally reject or renounce a belief"
+      },
+      "hard": {
+        "word": "ABLAUT",
+        "category": "Linguistics",
+        "clue": "A vowel change within related forms of a word"
+      }
+    },
+    "2026-09-03": {
+      "easy": {
+        "word": "ALLIGATOR",
+        "category": "Animal",
+        "clue": "A large reptile related to crocodiles"
+      },
+      "medium": {
+        "word": "ABRIDGE",
+        "category": "Writing",
+        "clue": "To shorten a text without losing its main sense"
+      },
+      "hard": {
+        "word": "ABSCISSION",
+        "category": "Botany",
+        "clue": "The natural shedding of a plant part"
+      }
+    },
+    "2026-09-04": {
+      "easy": {
+        "word": "APRICOT",
+        "category": "Food",
+        "clue": "A small orange fruit with a stone"
+      },
+      "medium": {
+        "word": "ACRIMONY",
+        "category": "Emotion",
+        "clue": "Bitterness or harshness in speech"
+      },
+      "hard": {
+        "word": "ACATAPHASIA",
+        "category": "Medicine",
+        "clue": "Impaired ability to arrange words into meaningful sentences"
+      }
+    },
+    "2026-09-05": {
+      "easy": {
+        "word": "ASTRONAUT",
+        "category": "Space",
+        "clue": "A person trained to travel beyond Earth"
+      },
+      "medium": {
+        "word": "ADMONISH",
+        "category": "Behaviour",
+        "clue": "To warn or reprimand gently"
+      },
+      "hard": {
+        "word": "ACCIACCATURA",
+        "category": "Music",
+        "clue": "A short ornamental note played before a principal note"
+      }
+    },
+    "2026-09-06": {
+      "easy": {
+        "word": "BAGPIPE",
+        "category": "Music",
+        "clue": "A wind instrument with a bag and pipes"
+      },
+      "medium": {
+        "word": "AEROSOL",
+        "category": "Science",
+        "clue": "Tiny particles or droplets suspended in a gas"
+      },
+      "hard": {
+        "word": "ACROAMATIC",
+        "category": "Philosophy",
+        "clue": "Intended for advanced or specialist teaching"
+      }
+    },
+    "2026-09-07": {
+      "easy": {
+        "word": "BANDAGE",
+        "category": "Medical",
+        "clue": "A strip of material used to cover a wound"
+      },
+      "medium": {
+        "word": "AFFINITY",
+        "category": "Relationship",
+        "clue": "A natural liking or connection"
+      },
+      "hard": {
+        "word": "ADUMBRATION",
+        "category": "Art",
+        "clue": "A faint outline or sketch"
+      }
+    },
+    "2026-09-08": {
+      "easy": {
+        "word": "BARNACLE",
+        "category": "Animal",
+        "clue": "A small marine creature that attaches to hard surfaces"
+      },
+      "medium": {
+        "word": "AGGREGATE",
+        "category": "Mathematics",
+        "clue": "A whole formed by combining separate parts"
+      },
+      "hard": {
+        "word": "AENIGMATIC",
+        "category": "Language",
+        "clue": "Difficult to interpret or understand"
+      }
+    },
+    "2026-09-09": {
+      "easy": {
+        "word": "BEECHWOOD",
+        "category": "Material",
+        "clue": "Timber from a smooth-barked forest tree"
+      },
+      "medium": {
+        "word": "ALMANAC",
+        "category": "Reference",
+        "clue": "An annual publication of facts and information"
+      },
+      "hard": {
+        "word": "AEROMANCY",
+        "category": "Divination",
+        "clue": "A supposed prediction of the future from atmospheric signs"
+      }
+    },
+    "2026-09-10": {
+      "easy": {
+        "word": "BICYCLE",
+        "category": "Transport",
+        "clue": "A two-wheeled vehicle powered by pedals"
+      },
+      "medium": {
+        "word": "AMBIVALENT",
+        "category": "Emotion",
+        "clue": "Having mixed or conflicting feelings"
+      },
+      "hard": {
+        "word": "AGATHISM",
+        "category": "Philosophy",
+        "clue": "The belief that all things tend towards ultimate good"
+      }
+    },
+    "2026-09-11": {
+      "easy": {
+        "word": "BLOSSOM",
+        "category": "Nature",
+        "clue": "A flower, especially on a fruit tree"
+      },
+      "medium": {
+        "word": "AMELIORATE",
+        "category": "Action",
+        "clue": "To make a situation better"
+      },
+      "hard": {
+        "word": "ALLOPATHY",
+        "category": "Medicine",
+        "clue": "A system of medicine using treatments unlike the disease symptoms"
+      }
+    },
+    "2026-09-12": {
+      "easy": {
+        "word": "BOOKCASE",
+        "category": "Furniture",
+        "clue": "A piece of furniture used to store books"
+      },
+      "medium": {
+        "word": "ANOMALY",
+        "category": "Science",
+        "clue": "Something that differs from what is usual"
+      },
+      "hard": {
+        "word": "ANACAMPTIC",
+        "category": "Physics",
+        "clue": "Relating to reflection or the bending back of waves"
+      }
+    },
+    "2026-09-13": {
+      "easy": {
+        "word": "BRACELET",
+        "category": "Jewellery",
+        "clue": "An ornament worn around the wrist"
+      },
+      "medium": {
+        "word": "ANTHOLOGY",
+        "category": "Literature",
+        "clue": "A collection of selected writings"
+      },
+      "hard": {
+        "word": "ANAGLYPH",
+        "category": "Visual art",
+        "clue": "A stereoscopic image made with two differently coloured views"
+      }
+    },
+    "2026-09-14": {
+      "easy": {
+        "word": "BROWNIE",
+        "category": "Food",
+        "clue": "A small rich chocolate cake square"
+      },
+      "medium": {
+        "word": "APATHETIC",
+        "category": "Character",
+        "clue": "Showing little interest or emotion"
+      },
+      "hard": {
+        "word": "ANAMNESIS",
+        "category": "Medicine",
+        "clue": "A patient's account of their medical history"
+      }
+    },
+    "2026-09-15": {
+      "easy": {
+        "word": "BULLDOZER",
+        "category": "Machine",
+        "clue": "A powerful vehicle used to push earth"
+      },
+      "medium": {
+        "word": "ARBITRARY",
+        "category": "Decision",
+        "clue": "Based on random choice rather than reason"
+      },
+      "hard": {
+        "word": "ANASTROPHE",
+        "category": "Rhetoric",
+        "clue": "An inversion of the usual word order"
+      }
+    },
+    "2026-09-16": {
+      "easy": {
+        "word": "CABINET",
+        "category": "Furniture",
+        "clue": "A storage unit with shelves or doors"
+      },
+      "medium": {
+        "word": "ASCENDANCY",
+        "category": "Influence",
+        "clue": "A position of dominance or control"
+      },
+      "hard": {
+        "word": "ANHEDONIA",
+        "category": "Psychology",
+        "clue": "The inability to feel pleasure"
+      }
+    },
+    "2026-09-17": {
+      "easy": {
+        "word": "CAMPFIRE",
+        "category": "Outdoors",
+        "clue": "An outdoor fire used for warmth or cooking"
+      },
+      "medium": {
+        "word": "ASSIDUOUS",
+        "category": "Character",
+        "clue": "Showing great care and persistent effort"
+      },
+      "hard": {
+        "word": "ANTINOMIAN",
+        "category": "Religion",
+        "clue": "Rejecting the idea that moral laws apply"
+      }
+    },
+    "2026-09-18": {
+      "easy": {
+        "word": "CARAVAN",
+        "category": "Travel",
+        "clue": "A vehicle equipped for living in while travelling"
+      },
+      "medium": {
+        "word": "AUSPICIOUS",
+        "category": "Fortune",
+        "clue": "Suggesting future success"
+      },
+      "hard": {
+        "word": "APODEICTIC",
+        "category": "Logic",
+        "clue": "Clearly or demonstrably true"
+      }
+    },
+    "2026-09-19": {
+      "easy": {
+        "word": "CAROUSEL",
+        "category": "Amusement",
+        "clue": "A rotating ride with seats or wooden horses"
+      },
+      "medium": {
+        "word": "BELLIGERENT",
+        "category": "Behaviour",
+        "clue": "Hostile and eager to fight"
+      },
+      "hard": {
+        "word": "ARBITRAGEUR",
+        "category": "Finance",
+        "clue": "A trader who seeks profit from price differences"
+      }
+    },
+    "2026-09-20": {
+      "easy": {
+        "word": "CASHEW",
+        "category": "Food",
+        "clue": "A curved edible seed often used as a snack"
+      },
+      "medium": {
+        "word": "BENEVOLENT",
+        "category": "Character",
+        "clue": "Kind and well meaning"
+      },
+      "hard": {
+        "word": "ARBOREAL",
+        "category": "Botany",
+        "clue": "Relating to trees"
+      }
+    },
+    "2026-09-21": {
+      "easy": {
+        "word": "CHEETAH",
+        "category": "Animal",
+        "clue": "A fast-running spotted wild cat"
+      },
+      "medium": {
+        "word": "BOISTEROUS",
+        "category": "Behaviour",
+        "clue": "Noisy, energetic and rowdy"
+      },
+      "hard": {
+        "word": "ASYNDETON",
+        "category": "Rhetoric",
+        "clue": "Omission of conjunctions between phrases"
+      }
+    },
+    "2026-09-22": {
+      "easy": {
+        "word": "CHIMNEY",
+        "category": "House",
+        "clue": "A structure that carries smoke away from a fireplace"
+      },
+      "medium": {
+        "word": "BUREAUCRACY",
+        "category": "Government",
+        "clue": "A system run through many administrative departments"
+      },
+      "hard": {
+        "word": "AUGENSCHEIN",
+        "category": "Philosophy",
+        "clue": "Knowledge based on direct visual appearance"
+      }
+    },
+    "2026-09-23": {
+      "easy": {
+        "word": "CLARINET",
+        "category": "Music",
+        "clue": "A woodwind instrument with a single reed"
+      },
+      "medium": {
+        "word": "CACOPHONY",
+        "category": "Sound",
+        "clue": "A harsh mixture of unpleasant sounds"
+      },
+      "hard": {
+        "word": "AUTARKY",
+        "category": "Economics",
+        "clue": "A policy of national economic self-sufficiency"
+      }
+    },
+    "2026-09-24": {
+      "easy": {
+        "word": "CLOTHESPIN",
+        "category": "Household",
+        "clue": "A small clip used to hang laundry"
+      },
+      "medium": {
+        "word": "CANDIDATE",
+        "category": "Politics",
+        "clue": "A person seeking election or appointment"
+      },
+      "hard": {
+        "word": "BIBLIOTHECAL",
+        "category": "Books",
+        "clue": "Relating to a library or librarianship"
+      }
+    },
+    "2026-09-25": {
+      "easy": {
+        "word": "COCONUT",
+        "category": "Food",
+        "clue": "A tropical fruit with a hard fibrous shell"
+      },
+      "medium": {
+        "word": "CAPITULATE",
+        "category": "Conflict",
+        "clue": "To surrender or give in"
+      },
+      "hard": {
+        "word": "BLANDILOQUENT",
+        "category": "Language",
+        "clue": "Speaking in a flattering or soothing manner"
+      }
+    },
+    "2026-09-26": {
+      "easy": {
+        "word": "CROCHET",
+        "category": "Craft",
+        "clue": "A method of making fabric with a hooked needle"
+      },
+      "medium": {
+        "word": "CIRCUMVENT",
+        "category": "Strategy",
+        "clue": "To find a way around an obstacle or rule"
+      },
+      "hard": {
+        "word": "BRONTOSCOPY",
+        "category": "Weather",
+        "clue": "An ancient method of predicting weather from thunder"
+      }
+    },
+    "2026-09-27": {
+      "easy": {
+        "word": "DIAMOND",
+        "category": "Gemstone",
+        "clue": "A very hard precious stone made of carbon"
+      },
+      "medium": {
+        "word": "COALESCENCE",
+        "category": "Process",
+        "clue": "The joining together of separate things"
+      },
+      "hard": {
+        "word": "CALCEOLATE",
+        "category": "Botany",
+        "clue": "Slipper-shaped, especially describing a flower"
+      }
+    },
+    "2026-09-28": {
+      "easy": {
+        "word": "DISHWASHER",
+        "category": "Appliance",
+        "clue": "A machine that cleans plates and cutlery"
+      },
+      "medium": {
+        "word": "COGNIZANT",
+        "category": "Awareness",
+        "clue": "Having knowledge or awareness of something"
+      },
+      "hard": {
+        "word": "CALLIPYGEAN",
+        "category": "Anatomy",
+        "clue": "Having beautifully shaped buttocks"
+      }
+    },
+    "2026-09-29": {
+      "easy": {
+        "word": "DUNES",
+        "category": "Geography",
+        "clue": "Hills of sand shaped by wind"
+      },
+      "medium": {
+        "word": "COMMENSAL",
+        "category": "Biology",
+        "clue": "An organism that benefits from another without harming it"
+      },
+      "hard": {
+        "word": "CENOTAPHIC",
+        "category": "Memorial",
+        "clue": "Relating to an empty tomb or war memorial"
+      }
+    },
+    "2026-09-30": {
+      "easy": {
+        "word": "FALAFEL",
+        "category": "Food",
+        "clue": "A Middle Eastern ball or patty made from ground legumes"
+      },
+      "medium": {
+        "word": "CONFLUENCE",
+        "category": "Geography",
+        "clue": "The point where rivers or streams meet"
+      },
+      "hard": {
+        "word": "CHIROGNOMY",
+        "category": "Study",
+        "clue": "The supposed art of judging character from hands"
+      }
     }
   }
 }
