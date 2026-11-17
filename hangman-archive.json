@@ -5697,6 +5697,533 @@
         "category": "Study",
         "clue": "The supposed art of judging character from hands"
       }
+    },
+    "2026-10-01": {
+      "easy": {
+        "word": "AIRSHIP",
+        "category": "Transport",
+        "clue": "A lighter-than-air craft with a powered engine"
+      },
+      "medium": {
+        "word": "ABSTEMIOUS",
+        "category": "Character",
+        "clue": "Not self-indulgent, especially with food or drink"
+      },
+      "hard": {
+        "word": "ABIOGENESIS",
+        "category": "Biology",
+        "clue": "The historical theory of life arising from non-living matter"
+      }
+    },
+    "2026-10-02": {
+      "easy": {
+        "word": "ALBATROSS",
+        "category": "Bird",
+        "clue": "A large seabird with very long wings"
+      },
+      "medium": {
+        "word": "ACUMEN",
+        "category": "Thinking",
+        "clue": "The ability to make good judgements quickly"
+      },
+      "hard": {
+        "word": "ACROPHOBIA",
+        "category": "Psychology",
+        "clue": "An extreme fear of heights"
+      }
+    },
+    "2026-10-03": {
+      "easy": {
+        "word": "ALMOND",
+        "category": "Food",
+        "clue": "An edible seed often used in baking"
+      },
+      "medium": {
+        "word": "ADJACENT",
+        "category": "Geometry",
+        "clue": "Next to or adjoining something"
+      },
+      "hard": {
+        "word": "ADSCITITIOUS",
+        "category": "Language",
+        "clue": "Added or acquired from an external source"
+      }
+    },
+    "2026-10-04": {
+      "easy": {
+        "word": "AMETHYST",
+        "category": "Gemstone",
+        "clue": "A purple variety of quartz"
+      },
+      "medium": {
+        "word": "ADVERSARY",
+        "category": "Conflict",
+        "clue": "An opponent or enemy"
+      },
+      "hard": {
+        "word": "AEOLIAN",
+        "category": "Music",
+        "clue": "Relating to the wind or an ancient Greek musical mode"
+      }
+    },
+    "2026-10-05": {
+      "easy": {
+        "word": "ANTENNA",
+        "category": "Technology",
+        "clue": "A device used to send or receive radio signals"
+      },
+      "medium": {
+        "word": "AESTHETIC",
+        "category": "Art",
+        "clue": "Concerned with beauty or artistic taste"
+      },
+      "hard": {
+        "word": "AGNOSIA",
+        "category": "Medicine",
+        "clue": "The inability to recognise objects despite intact senses"
+      }
+    },
+    "2026-10-06": {
+      "easy": {
+        "word": "AQUARIUM",
+        "category": "Place",
+        "clue": "A tank or building where aquatic animals are kept"
+      },
+      "medium": {
+        "word": "AFFLUENCE",
+        "category": "Economics",
+        "clue": "The state of having plenty of wealth"
+      },
+      "hard": {
+        "word": "ALBEDO",
+        "category": "Astronomy",
+        "clue": "The proportion of light reflected by a surface"
+      }
+    },
+    "2026-10-07": {
+      "easy": {
+        "word": "ARCHERY",
+        "category": "Sport",
+        "clue": "The sport of shooting arrows at a target"
+      },
+      "medium": {
+        "word": "ALLEGORY",
+        "category": "Literature",
+        "clue": "A story with a hidden symbolic meaning"
+      },
+      "hard": {
+        "word": "ALEXITHYMIA",
+        "category": "Psychology",
+        "clue": "Difficulty identifying and describing one's emotions"
+      }
+    },
+    "2026-10-08": {
+      "easy": {
+        "word": "AVALANCHE",
+        "category": "Nature",
+        "clue": "A mass of snow rushing down a mountain"
+      },
+      "medium": {
+        "word": "ANALOGOUS",
+        "category": "Comparison",
+        "clue": "Comparable in certain respects"
+      },
+      "hard": {
+        "word": "ALLOCHTHONOUS",
+        "category": "Geology",
+        "clue": "Originating in a place other than where it is found"
+      }
+    },
+    "2026-10-09": {
+      "easy": {
+        "word": "BACKGAMMON",
+        "category": "Game",
+        "clue": "A board game played with dice and counters"
+      },
+      "medium": {
+        "word": "ANARCHY",
+        "category": "Politics",
+        "clue": "A state without government or authority"
+      },
+      "hard": {
+        "word": "ANACOLUTHON",
+        "category": "Rhetoric",
+        "clue": "A sudden change in grammatical construction"
+      }
+    },
+    "2026-10-10": {
+      "easy": {
+        "word": "BARBECUE",
+        "category": "Cooking",
+        "clue": "A meal or gathering centred on outdoor grilling"
+      },
+      "medium": {
+        "word": "ANIMOSITY",
+        "category": "Emotion",
+        "clue": "Strong hostility or dislike"
+      },
+      "hard": {
+        "word": "ANAGOGE",
+        "category": "Literature",
+        "clue": "A mystical or spiritual interpretation"
+      }
+    },
+    "2026-10-11": {
+      "easy": {
+        "word": "BASILISK",
+        "category": "Mythology",
+        "clue": "A legendary reptile said to kill with its gaze"
+      },
+      "medium": {
+        "word": "ANTAGONIST",
+        "category": "Literature",
+        "clue": "A character who opposes the main character"
+      },
+      "hard": {
+        "word": "ANAMORPHOSIS",
+        "category": "Art",
+        "clue": "A distorted image that appears normal from a particular viewpoint"
+      }
+    },
+    "2026-10-12": {
+      "easy": {
+        "word": "BATHROBE",
+        "category": "Clothing",
+        "clue": "A loose garment worn after bathing"
+      },
+      "medium": {
+        "word": "APOCRYPHAL",
+        "category": "History",
+        "clue": "Of doubtful authenticity or origin"
+      },
+      "hard": {
+        "word": "ANASTYLOSIS",
+        "category": "Architecture",
+        "clue": "The reconstruction of a ruined monument using original pieces"
+      }
+    },
+    "2026-10-13": {
+      "easy": {
+        "word": "BEETROOT",
+        "category": "Food",
+        "clue": "A dark red root vegetable"
+      },
+      "medium": {
+        "word": "APPRAISAL",
+        "category": "Business",
+        "clue": "An assessment of value or performance"
+      },
+      "hard": {
+        "word": "ANATHEMA",
+        "category": "Religion",
+        "clue": "Something or someone formally condemned"
+      }
+    },
+    "2026-10-14": {
+      "easy": {
+        "word": "BELLTOWER",
+        "category": "Building",
+        "clue": "A tower that houses bells"
+      },
+      "medium": {
+        "word": "ARBITRATE",
+        "category": "Law",
+        "clue": "To settle a dispute by an independent decision"
+      },
+      "hard": {
+        "word": "ANTEPENULTIMATE",
+        "category": "Language",
+        "clue": "Third from the end"
+      }
+    },
+    "2026-10-15": {
+      "easy": {
+        "word": "BIRTHDAY",
+        "category": "Celebration",
+        "clue": "The yearly anniversary of someone's birth"
+      },
+      "medium": {
+        "word": "ARTICULATE",
+        "category": "Speech",
+        "clue": "Able to express ideas clearly"
+      },
+      "hard": {
+        "word": "ANTHROPOMETRY",
+        "category": "Science",
+        "clue": "The measurement of the human body"
+      }
+    },
+    "2026-10-16": {
+      "easy": {
+        "word": "BLACKBERRY",
+        "category": "Food",
+        "clue": "A dark edible berry that grows on brambles"
+      },
+      "medium": {
+        "word": "ASSERTIVE",
+        "category": "Behaviour",
+        "clue": "Confidently expressing one's views"
+      },
+      "hard": {
+        "word": "ARACHNOLOGY",
+        "category": "Biology",
+        "clue": "The scientific study of spiders"
+      }
+    },
+    "2026-10-17": {
+      "easy": {
+        "word": "BLUEPRINT",
+        "category": "Design",
+        "clue": "A detailed plan or technical drawing"
+      },
+      "medium": {
+        "word": "ASTUTE",
+        "category": "Character",
+        "clue": "Having sharp practical judgement"
+      },
+      "hard": {
+        "word": "ARBITRAMENT",
+        "category": "Law",
+        "clue": "The settlement of a dispute by judgement"
+      }
+    },
+    "2026-10-18": {
+      "easy": {
+        "word": "BOOMERANG",
+        "category": "Object",
+        "clue": "A curved throwing tool designed to return"
+      },
+      "medium": {
+        "word": "ATROPHY",
+        "category": "Biology",
+        "clue": "To waste away through lack of use"
+      },
+      "hard": {
+        "word": "ASPERGILLUM",
+        "category": "Religion",
+        "clue": "A vessel or brush used to sprinkle holy water"
+      }
+    },
+    "2026-10-19": {
+      "easy": {
+        "word": "BREADCRUMB",
+        "category": "Food",
+        "clue": "A tiny piece of dried or fresh bread"
+      },
+      "medium": {
+        "word": "AUGMENT",
+        "category": "Action",
+        "clue": "To make something larger or greater"
+      },
+      "hard": {
+        "word": "AUGURY",
+        "category": "History",
+        "clue": "The practice of interpreting omens"
+      }
+    },
+    "2026-10-20": {
+      "easy": {
+        "word": "BUTTERMILK",
+        "category": "Food",
+        "clue": "A tangy milk product used in baking"
+      },
+      "medium": {
+        "word": "AUSTERITY",
+        "category": "Economics",
+        "clue": "Strict limits on public spending or consumption"
+      },
+      "hard": {
+        "word": "AUTODIDACT",
+        "category": "Education",
+        "clue": "A person who is self-taught"
+      }
+    },
+    "2026-10-21": {
+      "easy": {
+        "word": "CAMPUS",
+        "category": "Education",
+        "clue": "The grounds and buildings of a college or university"
+      },
+      "medium": {
+        "word": "AVERSION",
+        "category": "Emotion",
+        "clue": "A strong feeling of dislike"
+      },
+      "hard": {
+        "word": "BATRACHOLOGY",
+        "category": "Biology",
+        "clue": "The study of frogs and other amphibians"
+      }
+    },
+    "2026-10-22": {
+      "easy": {
+        "word": "CARNIVAL",
+        "category": "Festival",
+        "clue": "A public celebration with rides and entertainment"
+      },
+      "medium": {
+        "word": "BENEFACTOR",
+        "category": "Society",
+        "clue": "A person who gives help or money"
+      },
+      "hard": {
+        "word": "BIBLIOMANCY",
+        "category": "Divination",
+        "clue": "Fortune-telling by randomly selecting passages from a book"
+      }
+    },
+    "2026-10-23": {
+      "easy": {
+        "word": "CHICKPEA",
+        "category": "Food",
+        "clue": "A round legume used to make hummus"
+      },
+      "medium": {
+        "word": "BIFURCATE",
+        "category": "Geometry",
+        "clue": "To divide into two branches"
+      },
+      "hard": {
+        "word": "BRUXISM",
+        "category": "Medicine",
+        "clue": "The habitual grinding or clenching of teeth"
+      }
+    },
+    "2026-10-24": {
+      "easy": {
+        "word": "CINEMA",
+        "category": "Entertainment",
+        "clue": "A place where films are shown"
+      },
+      "medium": {
+        "word": "BILATERAL",
+        "category": "Politics",
+        "clue": "Involving two sides or parties"
+      },
+      "hard": {
+        "word": "CACUMINAL",
+        "category": "Linguistics",
+        "clue": "Relating to a speech sound made with the tongue tip curled back"
+      }
+    },
+    "2026-10-25": {
+      "easy": {
+        "word": "COASTLINE",
+        "category": "Geography",
+        "clue": "The outline where land meets the sea"
+      },
+      "medium": {
+        "word": "BUREAUCRAT",
+        "category": "Government",
+        "clue": "An official working in an administrative system"
+      },
+      "hard": {
+        "word": "CALISTHENICS",
+        "category": "Sport",
+        "clue": "Gymnastic exercises using body weight"
+      }
+    },
+    "2026-10-26": {
+      "easy": {
+        "word": "CRANBERRY",
+        "category": "Food",
+        "clue": "A small tart red berry"
+      },
+      "medium": {
+        "word": "CAPRICIOUS",
+        "category": "Behaviour",
+        "clue": "Changing suddenly and unpredictably"
+      },
+      "hard": {
+        "word": "CATACHRESIS",
+        "category": "Rhetoric",
+        "clue": "An unusual or strained use of a word"
+      }
+    },
+    "2026-10-27": {
+      "easy": {
+        "word": "CUCKOO",
+        "category": "Bird",
+        "clue": "A bird known for laying eggs in other birds' nests"
+      },
+      "medium": {
+        "word": "CATALOGUE",
+        "category": "Reference",
+        "clue": "A systematic list of items"
+      },
+      "hard": {
+        "word": "CHALCEDONY",
+        "category": "Geology",
+        "clue": "A microcrystalline form of quartz"
+      }
+    },
+    "2026-10-28": {
+      "easy": {
+        "word": "DACHSHUND",
+        "category": "Animal",
+        "clue": "A short-legged dog breed with a long body"
+      },
+      "medium": {
+        "word": "CATHARSIS",
+        "category": "Literature",
+        "clue": "An emotional release through art or experience"
+      },
+      "hard": {
+        "word": "CHILIAD",
+        "category": "Quantity",
+        "clue": "A group or period of one thousand"
+      }
+    },
+    "2026-10-29": {
+      "easy": {
+        "word": "DEWDROP",
+        "category": "Nature",
+        "clue": "A tiny bead of water formed by condensation"
+      },
+      "medium": {
+        "word": "CHRONOLOGY",
+        "category": "History",
+        "clue": "The arrangement of events in time order"
+      },
+      "hard": {
+        "word": "CHINOISERIE",
+        "category": "Art",
+        "clue": "European decorative style inspired by Chinese art"
+      }
+    },
+    "2026-10-30": {
+      "easy": {
+        "word": "DOLPHIN",
+        "category": "Animal",
+        "clue": "An intelligent marine mammal"
+      },
+      "medium": {
+        "word": "CIRCUMSPECT",
+        "category": "Character",
+        "clue": "Careful to consider all circumstances"
+      },
+      "hard": {
+        "word": "CHREMATISTICS",
+        "category": "Economics",
+        "clue": "The study of wealth and monetary gain"
+      }
+    },
+    "2026-10-31": {
+      "easy": {
+        "word": "DRUMSTICK",
+        "category": "Food",
+        "clue": "The lower part of a chicken leg"
+      },
+      "medium": {
+        "word": "COGNITIVE",
+        "category": "Psychology",
+        "clue": "Relating to thought and understanding"
+      },
+      "hard": {
+        "word": "CLADISTICS",
+        "category": "Biology",
+        "clue": "The classification of organisms by shared ancestry"
+      }
     }
   }
 }
