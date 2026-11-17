@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "start_date": "2026-11-18",
+  "start_date": "2026-11-17",
   "end_date": "2027-01-17",
   "puzzles": {
     "2026-11-18": {
@@ -566,9 +566,9 @@
     },
     "2026-12-21": {
       "easy": {
-        "word": "SHELL",
+        "word": "FLAME",
         "category": "NATURE",
-        "clue": "A hard outer covering of some sea animals."
+        "clue": "The visible, hot part of a fire."
       },
       "medium": {
         "word": "HORIZON",
@@ -780,9 +780,9 @@
         "clue": "A decorative woven wall hanging."
       },
       "hard": {
-        "word": "PERNICIOUS",
-        "category": "LANGUAGE",
-        "clue": "Having a harmful effect, especially gradually."
+        "word": "PARSIMONY",
+        "category": "PERSONALITY",
+        "clue": "Extreme unwillingness to spend money or use resources."
       }
     },
     "2027-01-03": {
@@ -814,9 +814,9 @@
         "clue": "A mythical being said to drink blood."
       },
       "hard": {
-        "word": "PERNICIOUS",
-        "category": "LANGUAGE",
-        "clue": "Causing subtle but serious harm."
+        "word": "PARSIMONY",
+        "category": "PERSONALITY",
+        "clue": "Extreme unwillingness to spend money or use resources."
       }
     },
     "2027-01-05": {
@@ -1008,9 +1008,9 @@
     },
     "2027-01-16": {
       "easy": {
-        "word": "SHELL",
+        "word": "FLAME",
         "category": "NATURE",
-        "clue": "A protective outer casing."
+        "clue": "The visible, hot part of a fire."
       },
       "medium": {
         "word": "IMPULSE",
@@ -1038,6 +1038,23 @@
         "word": "VITUPERATE",
         "category": "LANGUAGE",
         "clue": "To criticise or insult in bitter language."
+      }
+    },
+    "2026-11-17": {
+      "easy": {
+        "word": "TULIP",
+        "category": "PLANTS",
+        "clue": "A spring flower shaped like a cup."
+      },
+      "medium": {
+        "word": "KINETIC",
+        "category": "PHYSICS",
+        "clue": "Relating to motion."
+      },
+      "hard": {
+        "word": "PUSILLANIMOUS",
+        "category": "PERSONALITY",
+        "clue": "Showing a lack of courage or determination."
       }
     }
   }
