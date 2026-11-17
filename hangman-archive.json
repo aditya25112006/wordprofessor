@@ -4660,6 +4660,533 @@
         "category": "LANGUAGE",
         "clue": "To criticise or insult in bitter language."
       }
+    },
+    "2026-08-01": {
+      "easy": {
+        "word": "ANCHOVY",
+        "category": "Food",
+        "clue": "A small, salty fish often used on pizza"
+      },
+      "medium": {
+        "word": "ABSTAIN",
+        "category": "Verb",
+        "clue": "To deliberately choose not to do something"
+      },
+      "hard": {
+        "word": "ACERBIC",
+        "category": "Language",
+        "clue": "Sharp or biting in tone"
+      }
+    },
+    "2026-08-02": {
+      "easy": {
+        "word": "ARMADILLO",
+        "category": "Animal",
+        "clue": "A mammal protected by a shell of bony plates"
+      },
+      "medium": {
+        "word": "ACOUSTIC",
+        "category": "Sound",
+        "clue": "Relating to sound or hearing"
+      },
+      "hard": {
+        "word": "ACROTERION",
+        "category": "Architecture",
+        "clue": "A decorative ornament placed at a roof's apex or corner"
+      }
+    },
+    "2026-08-03": {
+      "easy": {
+        "word": "AVOCADO",
+        "category": "Food",
+        "clue": "A creamy green fruit often mashed into guacamole"
+      },
+      "medium": {
+        "word": "ADVERSITY",
+        "category": "Life",
+        "clue": "A difficult or challenging situation"
+      },
+      "hard": {
+        "word": "ADJURATION",
+        "category": "Rhetoric",
+        "clue": "An earnest appeal or solemn urging"
+      }
+    },
+    "2026-08-04": {
+      "easy": {
+        "word": "BROCCOLI",
+        "category": "Food",
+        "clue": "A green vegetable with a tree-like shape"
+      },
+      "medium": {
+        "word": "ALCHEMIST",
+        "category": "History",
+        "clue": "A person who practised an early form of chemistry"
+      },
+      "hard": {
+        "word": "AESTHETICISM",
+        "category": "Philosophy",
+        "clue": "The view that art and beauty are central values"
+      }
+    },
+    "2026-08-05": {
+      "easy": {
+        "word": "BUTTERFLY",
+        "category": "Animal",
+        "clue": "An insect with colourful wings"
+      },
+      "medium": {
+        "word": "AMBIENCE",
+        "category": "Atmosphere",
+        "clue": "The character or mood of a place"
+      },
+      "hard": {
+        "word": "AGGLUTINATE",
+        "category": "Linguistics",
+        "clue": "To join separate elements together"
+      }
+    },
+    "2026-08-06": {
+      "easy": {
+        "word": "CALENDAR",
+        "category": "Everyday object",
+        "clue": "A chart that shows days, weeks and months"
+      },
+      "medium": {
+        "word": "ANALOGY",
+        "category": "Language",
+        "clue": "A comparison used to explain an idea"
+      },
+      "hard": {
+        "word": "ALACRITY",
+        "category": "Character",
+        "clue": "Cheerful readiness or brisk eagerness"
+      }
+    },
+    "2026-08-07": {
+      "easy": {
+        "word": "CARAMEL",
+        "category": "Food",
+        "clue": "A sweet made by heating sugar"
+      },
+      "medium": {
+        "word": "ANATOMY",
+        "category": "Science",
+        "clue": "The study of the structure of living bodies"
+      },
+      "hard": {
+        "word": "ALLEGORY",
+        "category": "Literature",
+        "clue": "A story whose characters and events represent deeper ideas"
+      }
+    },
+    "2026-08-08": {
+      "easy": {
+        "word": "CARPENTER",
+        "category": "Occupation",
+        "clue": "A person who builds things from wood"
+      },
+      "medium": {
+        "word": "APERTURE",
+        "category": "Photography",
+        "clue": "An opening that lets light into a camera"
+      },
+      "hard": {
+        "word": "ANACHORETIC",
+        "category": "Religion",
+        "clue": "Relating to a person living in religious seclusion"
+      }
+    },
+    "2026-08-09": {
+      "easy": {
+        "word": "CATERPILLAR",
+        "category": "Animal",
+        "clue": "The larval stage of a butterfly or moth"
+      },
+      "medium": {
+        "word": "ARCHAIC",
+        "category": "Language",
+        "clue": "Belonging to a very old period"
+      },
+      "hard": {
+        "word": "ANASTOMOSIS",
+        "category": "Biology",
+        "clue": "A connection between branching vessels or structures"
+      }
+    },
+    "2026-08-10": {
+      "easy": {
+        "word": "CHOCOLATE",
+        "category": "Food",
+        "clue": "A sweet treat made from cocoa"
+      },
+      "medium": {
+        "word": "ARTISAN",
+        "category": "Occupation",
+        "clue": "A skilled maker of things by hand"
+      },
+      "hard": {
+        "word": "ANTHROPOGENIC",
+        "category": "Environment",
+        "clue": "Originating in human activity"
+      }
+    },
+    "2026-08-11": {
+      "easy": {
+        "word": "COMPASS",
+        "category": "Tool",
+        "clue": "An instrument that points towards magnetic north"
+      },
+      "medium": {
+        "word": "ASTRONOMY",
+        "category": "Science",
+        "clue": "The study of stars, planets and space"
+      },
+      "hard": {
+        "word": "APOTHEGMATIC",
+        "category": "Language",
+        "clue": "Expressed in concise, memorable sayings"
+      }
+    },
+    "2026-08-12": {
+      "easy": {
+        "word": "CUCUMBER",
+        "category": "Food",
+        "clue": "A long green vegetable often eaten in salads"
+      },
+      "medium": {
+        "word": "AUDACITY",
+        "category": "Character",
+        "clue": "Boldness that may seem shocking"
+      },
+      "hard": {
+        "word": "ARCHIPELAGIC",
+        "category": "Geography",
+        "clue": "Relating to a group or chain of islands"
+      }
+    },
+    "2026-08-13": {
+      "easy": {
+        "word": "DINOSAUR",
+        "category": "Animal",
+        "clue": "An extinct reptile that lived millions of years ago"
+      },
+      "medium": {
+        "word": "AVALANCHE",
+        "category": "Nature",
+        "clue": "A mass of snow rushing down a mountain"
+      },
+      "hard": {
+        "word": "ASPERITY",
+        "category": "Character",
+        "clue": "Harshness of tone or manner"
+      }
+    },
+    "2026-08-14": {
+      "easy": {
+        "word": "DUMPLING",
+        "category": "Food",
+        "clue": "A small parcel of dough often filled with food"
+      },
+      "medium": {
+        "word": "BARRISTER",
+        "category": "Occupation",
+        "clue": "A lawyer who can argue cases in higher courts"
+      },
+      "hard": {
+        "word": "ATRABILIOUS",
+        "category": "Temperament",
+        "clue": "Irritable or gloomy in disposition"
+      }
+    },
+    "2026-08-15": {
+      "easy": {
+        "word": "ELEPHANT",
+        "category": "Animal",
+        "clue": "The largest living land mammal"
+      },
+      "medium": {
+        "word": "BOTANIST",
+        "category": "Science",
+        "clue": "A scientist who studies plants"
+      },
+      "hard": {
+        "word": "BATHYMETRY",
+        "category": "Oceanography",
+        "clue": "The measurement of underwater depth"
+      }
+    },
+    "2026-08-16": {
+      "easy": {
+        "word": "ENVELOPE",
+        "category": "Stationery",
+        "clue": "A paper cover used to send a letter"
+      },
+      "medium": {
+        "word": "BRIGADIER",
+        "category": "Military",
+        "clue": "A senior army officer rank"
+      },
+      "hard": {
+        "word": "BIBLIOLOGY",
+        "category": "Books",
+        "clue": "The study of books and their history"
+      }
+    },
+    "2026-08-17": {
+      "easy": {
+        "word": "FIREWORKS",
+        "category": "Celebration",
+        "clue": "Bright explosive displays seen in the night sky"
+      },
+      "medium": {
+        "word": "CALAMITY",
+        "category": "Event",
+        "clue": "A serious disaster or misfortune"
+      },
+      "hard": {
+        "word": "BRACHYLOGY",
+        "category": "Rhetoric",
+        "clue": "The use of concise or abbreviated expression"
+      }
+    },
+    "2026-08-18": {
+      "easy": {
+        "word": "HAMMOCK",
+        "category": "Outdoor item",
+        "clue": "A hanging bed suspended between two supports"
+      },
+      "medium": {
+        "word": "CAMOUFLAGE",
+        "category": "Nature",
+        "clue": "A disguise that helps something blend into its surroundings"
+      },
+      "hard": {
+        "word": "CACOGRAPHY",
+        "category": "Writing",
+        "clue": "Bad or incorrect spelling or handwriting"
+      }
+    },
+    "2026-08-19": {
+      "easy": {
+        "word": "JELLYFISH",
+        "category": "Animal",
+        "clue": "A soft sea creature with trailing tentacles"
+      },
+      "medium": {
+        "word": "CAPSULE",
+        "category": "Object",
+        "clue": "A small container or compact enclosure"
+      },
+      "hard": {
+        "word": "CALIGINOSITY",
+        "category": "Atmosphere",
+        "clue": "The state of being misty or obscure"
+      }
+    },
+    "2026-08-20": {
+      "easy": {
+        "word": "KEYBOARD",
+        "category": "Technology",
+        "clue": "A set of keys used to type on a computer"
+      },
+      "medium": {
+        "word": "CATALYST",
+        "category": "Chemistry",
+        "clue": "A substance that speeds up a chemical reaction"
+      },
+      "hard": {
+        "word": "CALUMNIATE",
+        "category": "Language",
+        "clue": "To make false and damaging statements about someone"
+      }
+    },
+    "2026-08-21": {
+      "easy": {
+        "word": "LAVENDER",
+        "category": "Plant",
+        "clue": "A fragrant purple flowering herb"
+      },
+      "medium": {
+        "word": "CAVALRY",
+        "category": "Military",
+        "clue": "Soldiers who traditionally fought on horseback"
+      },
+      "hard": {
+        "word": "CATASTASIS",
+        "category": "Drama",
+        "clue": "The climax or turning point of a dramatic plot"
+      }
+    },
+    "2026-08-22": {
+      "easy": {
+        "word": "LIBRARY",
+        "category": "Place",
+        "clue": "A place where people borrow books"
+      },
+      "medium": {
+        "word": "CEREBRAL",
+        "category": "Body",
+        "clue": "Relating to the brain or intellect"
+      },
+      "hard": {
+        "word": "CHIROTONY",
+        "category": "History",
+        "clue": "The act of electing or appointing by raising hands"
+      }
+    },
+    "2026-08-23": {
+      "easy": {
+        "word": "MARSHMALLOW",
+        "category": "Food",
+        "clue": "A soft, fluffy confection often toasted"
+      },
+      "medium": {
+        "word": "CIRCUITOUS",
+        "category": "Route",
+        "clue": "Taking a longer route than necessary"
+      },
+      "hard": {
+        "word": "CHTHONOPHAGY",
+        "category": "Biology",
+        "clue": "The eating of earth or soil"
+      }
+    },
+    "2026-08-24": {
+      "easy": {
+        "word": "MICROSCOPE",
+        "category": "Science",
+        "clue": "An instrument used to view tiny objects"
+      },
+      "medium": {
+        "word": "COLLISION",
+        "category": "Physics",
+        "clue": "An impact between two moving objects"
+      },
+      "hard": {
+        "word": "CIRCUMAMBIENT",
+        "category": "Description",
+        "clue": "Surrounding or encompassing on all sides"
+      }
+    },
+    "2026-08-25": {
+      "easy": {
+        "word": "NOTEBOOK",
+        "category": "Stationery",
+        "clue": "A book of blank or lined pages for writing"
+      },
+      "medium": {
+        "word": "CONCISE",
+        "category": "Writing",
+        "clue": "Giving much information in few words"
+      },
+      "hard": {
+        "word": "CONCUPISCENCE",
+        "category": "Philosophy",
+        "clue": "Strong or excessive desire, especially sensual desire"
+      }
+    },
+    "2026-08-26": {
+      "easy": {
+        "word": "PINEAPPLE",
+        "category": "Food",
+        "clue": "A tropical fruit with a spiky rind"
+      },
+      "medium": {
+        "word": "CONDUIT",
+        "category": "Engineering",
+        "clue": "A channel or pipe that carries something"
+      },
+      "hard": {
+        "word": "CONTUMACIOUS",
+        "category": "Character",
+        "clue": "Stubbornly disobedient to authority"
+      }
+    },
+    "2026-08-27": {
+      "easy": {
+        "word": "RAINBOW",
+        "category": "Nature",
+        "clue": "A coloured arc that can appear after rain"
+      },
+      "medium": {
+        "word": "CREDENCE",
+        "category": "Belief",
+        "clue": "Acceptance that something is true"
+      },
+      "hard": {
+        "word": "DEMULCENT",
+        "category": "Medicine",
+        "clue": "A substance that soothes irritated tissue"
+      }
+    },
+    "2026-08-28": {
+      "easy": {
+        "word": "SCISSORS",
+        "category": "Tool",
+        "clue": "A hand tool with two blades for cutting"
+      },
+      "medium": {
+        "word": "CRESCENDO",
+        "category": "Music",
+        "clue": "A gradual increase in loudness"
+      },
+      "hard": {
+        "word": "DEOSCULATE",
+        "category": "Mathematics",
+        "clue": "To have an especially close contact between curves"
+      }
+    },
+    "2026-08-29": {
+      "easy": {
+        "word": "TELESCOPE",
+        "category": "Science",
+        "clue": "An instrument used to observe distant objects"
+      },
+      "medium": {
+        "word": "DEFERENCE",
+        "category": "Behaviour",
+        "clue": "Respectful submission to another person's judgement"
+      },
+      "hard": {
+        "word": "DIAPHANEITY",
+        "category": "Optics",
+        "clue": "The quality of allowing light to pass through"
+      }
+    },
+    "2026-08-30": {
+      "easy": {
+        "word": "UMBRELLA",
+        "category": "Everyday object",
+        "clue": "A folding canopy used for protection from rain"
+      },
+      "medium": {
+        "word": "DILIGENT",
+        "category": "Character",
+        "clue": "Showing careful and persistent effort"
+      },
+      "hard": {
+        "word": "DIDACTICISM",
+        "category": "Education",
+        "clue": "An overly instructional or moralising approach"
+      }
+    },
+    "2026-08-31": {
+      "easy": {
+        "word": "WATERFALL",
+        "category": "Nature",
+        "clue": "Water flowing over a steep drop"
+      },
+      "medium": {
+        "word": "ECLIPTIC",
+        "category": "Astronomy",
+        "clue": "The apparent path of the Sun across the sky"
+      },
+      "hard": {
+        "word": "DISQUISITION",
+        "category": "Writing",
+        "clue": "A long, detailed discussion of a subject"
+      }
     }
   }
 }
