@@ -2570,6 +2570,516 @@
         "clue": "Having the lustrous appearance of mother-of-pearl"
       }
     },
+    "2026-06-01": {
+      "easy": {
+        "word": "ACACIA",
+        "category": "Trees",
+        "clue": "A tree or shrub known for clusters of small flowers"
+      },
+      "medium": {
+        "word": "ADJUDICATE",
+        "category": "Law",
+        "clue": "To make a formal judgement or decision"
+      },
+      "hard": {
+        "word": "ADOXOGRAPHY",
+        "category": "Literature",
+        "clue": "Brilliant writing on a trivial or commonplace subject"
+      }
+    },
+    "2026-06-02": {
+      "easy": {
+        "word": "AGATE",
+        "category": "Minerals",
+        "clue": "A banded variety of quartz often used as a gemstone"
+      },
+      "medium": {
+        "word": "AEROLITH",
+        "category": "Astronomy",
+        "clue": "A meteorite consisting mainly of stone"
+      },
+      "hard": {
+        "word": "AGASTOPIA",
+        "category": "Psychology",
+        "clue": "Admiration or fascination with a particular part of the body"
+      }
+    },
+    "2026-06-03": {
+      "easy": {
+        "word": "ALMANAC",
+        "category": "Books",
+        "clue": "An annual publication containing calendars and useful facts"
+      },
+      "medium": {
+        "word": "ALABASTER",
+        "category": "Materials",
+        "clue": "A fine-grained pale stone used for carving"
+      },
+      "hard": {
+        "word": "AGOG",
+        "category": "Emotion",
+        "clue": "Eager or excited to see or hear something"
+      }
+    },
+    "2026-06-04": {
+      "easy": {
+        "word": "AMBER",
+        "category": "Fossils and gems",
+        "clue": "A golden fossil resin sometimes containing insects"
+      },
+      "medium": {
+        "word": "AMALGAM",
+        "category": "Chemistry",
+        "clue": "A mixture or blend, especially one containing mercury"
+      },
+      "hard": {
+        "word": "ANACRONYM",
+        "category": "Language",
+        "clue": "An acronym that has become a word in its own right"
+      }
+    },
+    "2026-06-05": {
+      "easy": {
+        "word": "ANVIL",
+        "category": "Tools",
+        "clue": "A heavy iron block on which metal is shaped"
+      },
+      "medium": {
+        "word": "ANEMOMETER",
+        "category": "Meteorology",
+        "clue": "An instrument used to measure wind speed"
+      },
+      "hard": {
+        "word": "APOPHASIS",
+        "category": "Rhetoric",
+        "clue": "Drawing attention to something by claiming not to mention it"
+      }
+    },
+    "2026-06-06": {
+      "easy": {
+        "word": "BADMINTON",
+        "category": "Sport",
+        "clue": "A racket game played with a shuttlecock"
+      },
+      "medium": {
+        "word": "ANTIPODE",
+        "category": "Geography",
+        "clue": "The place on Earth diametrically opposite another"
+      },
+      "hard": {
+        "word": "BUMFUZZLE",
+        "category": "Informal language",
+        "clue": "To confuse or perplex someone"
+      }
+    },
+    "2026-06-07": {
+      "easy": {
+        "word": "BARLEY",
+        "category": "Crops",
+        "clue": "A cereal grain used in food and brewing"
+      },
+      "medium": {
+        "word": "APOTHECARY",
+        "category": "History",
+        "clue": "A person who prepared and sold medicines"
+      },
+      "hard": {
+        "word": "CATTYWAMPUS",
+        "category": "Informal language",
+        "clue": "Askew, crooked, or positioned diagonally"
+      }
+    },
+    "2026-06-08": {
+      "easy": {
+        "word": "BAYONET",
+        "category": "Military history",
+        "clue": "A blade fitted to the end of a rifle"
+      },
+      "medium": {
+        "word": "ARBORETUM",
+        "category": "Botany",
+        "clue": "A garden devoted to the cultivation of trees"
+      },
+      "hard": {
+        "word": "COLLYWOBBLES",
+        "category": "Informal language",
+        "clue": "A feeling of stomach discomfort or nervous anxiety"
+      }
+    },
+    "2026-06-09": {
+      "easy": {
+        "word": "BEEHIVE",
+        "category": "Beekeeping",
+        "clue": "A structure where a colony of bees lives"
+      },
+      "medium": {
+        "word": "ARMISTICE",
+        "category": "History",
+        "clue": "An agreement to suspend fighting"
+      },
+      "hard": {
+        "word": "DELIQUESCENT",
+        "category": "Chemistry",
+        "clue": "Becoming liquid by absorbing moisture from the air"
+      }
+    },
+    "2026-06-10": {
+      "easy": {
+        "word": "BERET",
+        "category": "Clothing",
+        "clue": "A soft round flat-crowned cap"
+      },
+      "medium": {
+        "word": "AUREOLE",
+        "category": "Art",
+        "clue": "A radiant circle of light around a sacred figure"
+      },
+      "hard": {
+        "word": "DEMIURGIC",
+        "category": "Philosophy",
+        "clue": "Relating to a creator or powerful formative force"
+      }
+    },
+    "2026-06-11": {
+      "easy": {
+        "word": "BOLERO",
+        "category": "Music and clothing",
+        "clue": "A short jacket or a style of Spanish dance music"
+      },
+      "medium": {
+        "word": "BASILICA",
+        "category": "Architecture",
+        "clue": "A large church or a building modelled on a Roman public hall"
+      },
+      "hard": {
+        "word": "DISCOMBOBULATE",
+        "category": "Informal language",
+        "clue": "To confuse or disconcert someone"
+      }
+    },
+    "2026-06-12": {
+      "easy": {
+        "word": "CAMEL",
+        "category": "Animals",
+        "clue": "A desert mammal with one or two humps"
+      },
+      "medium": {
+        "word": "BIVOUAC",
+        "category": "Camping",
+        "clue": "A temporary camp without elaborate shelter"
+      },
+      "hard": {
+        "word": "EFFULGENT",
+        "category": "Literature",
+        "clue": "Shining brilliantly or radiantly"
+      }
+    },
+    "2026-06-13": {
+      "easy": {
+        "word": "CARAFE",
+        "category": "Kitchenware",
+        "clue": "A glass container used for serving water or wine"
+      },
+      "medium": {
+        "word": "CALDERA",
+        "category": "Geology",
+        "clue": "A large volcanic depression formed by collapse"
+      },
+      "hard": {
+        "word": "ELUCUBRATE",
+        "category": "Writing",
+        "clue": "To produce a work through laborious study"
+      }
+    },
+    "2026-06-14": {
+      "easy": {
+        "word": "CAVITY",
+        "category": "Anatomy",
+        "clue": "A hollow space within a solid object or body"
+      },
+      "medium": {
+        "word": "CALIPER",
+        "category": "Engineering",
+        "clue": "An instrument for measuring internal or external dimensions"
+      },
+      "hard": {
+        "word": "ENCOMIUM",
+        "category": "Rhetoric",
+        "clue": "A speech or piece of writing that praises someone"
+      }
+    },
+    "2026-06-15": {
+      "easy": {
+        "word": "CELERY",
+        "category": "Vegetables",
+        "clue": "A crisp green vegetable with long stalks"
+      },
+      "medium": {
+        "word": "CHAMOIS",
+        "category": "Animals",
+        "clue": "A goat-antelope native to European mountains"
+      },
+      "hard": {
+        "word": "FECUND",
+        "category": "Biology",
+        "clue": "Capable of producing many offspring or abundant growth"
+      }
+    },
+    "2026-06-16": {
+      "easy": {
+        "word": "CIRCLET",
+        "category": "Jewellery",
+        "clue": "A small circular band worn on the head"
+      },
+      "medium": {
+        "word": "CHAMBERLAIN",
+        "category": "History",
+        "clue": "An official responsible for managing a household"
+      },
+      "hard": {
+        "word": "FUNAMBULIST",
+        "category": "Performing arts",
+        "clue": "A person who performs on a tightrope"
+      }
+    },
+    "2026-06-17": {
+      "easy": {
+        "word": "COBALT",
+        "category": "Chemistry",
+        "clue": "A hard silvery-blue metallic element"
+      },
+      "medium": {
+        "word": "CHIMERA",
+        "category": "Mythology",
+        "clue": "A fire-breathing creature made from parts of different animals"
+      },
+      "hard": {
+        "word": "GOBBLEDYGOOK",
+        "category": "Language",
+        "clue": "Language that is meaningless or difficult to understand"
+      }
+    },
+    "2026-06-18": {
+      "easy": {
+        "word": "CORAL",
+        "category": "Marine life",
+        "clue": "A hard material formed by colonies of tiny sea animals"
+      },
+      "medium": {
+        "word": "CHRONICLE",
+        "category": "Literature",
+        "clue": "A factual account of events arranged in order of time"
+      },
+      "hard": {
+        "word": "HULLABALOO",
+        "category": "Sound",
+        "clue": "A noisy commotion or fuss"
+      }
+    },
+    "2026-06-19": {
+      "easy": {
+        "word": "CORK",
+        "category": "Materials",
+        "clue": "A light material harvested from the bark of a tree"
+      },
+      "medium": {
+        "word": "CIRRUS",
+        "category": "Meteorology",
+        "clue": "A high, wispy cloud made of ice crystals"
+      },
+      "hard": {
+        "word": "IMPIGNORATE",
+        "category": "Historical language",
+        "clue": "To pawn or mortgage something"
+      }
+    },
+    "2026-06-20": {
+      "easy": {
+        "word": "CRATER",
+        "category": "Geology",
+        "clue": "A bowl-shaped depression at the top of a volcano"
+      },
+      "medium": {
+        "word": "CORNICE",
+        "category": "Architecture",
+        "clue": "A projecting ornamental moulding near the top of a wall"
+      },
+      "hard": {
+        "word": "JIGGERYPOKERY",
+        "category": "Informal language",
+        "clue": "Deceitful or dishonest activity"
+      }
+    },
+    "2026-06-21": {
+      "easy": {
+        "word": "DAGGER",
+        "category": "Historical objects",
+        "clue": "A short pointed weapon with a sharp blade"
+      },
+      "medium": {
+        "word": "CROUPIER",
+        "category": "Occupations",
+        "clue": "A person who runs a gaming table in a casino"
+      },
+      "hard": {
+        "word": "KERFUFFLE",
+        "category": "Informal language",
+        "clue": "A commotion or fuss, especially over a trivial matter"
+      }
+    },
+    "2026-06-22": {
+      "easy": {
+        "word": "DANDELION",
+        "category": "Plants",
+        "clue": "A yellow-flowered plant whose seeds float like tiny parachutes"
+      },
+      "medium": {
+        "word": "DODECAHEDRON",
+        "category": "Geometry",
+        "clue": "A solid figure with twelve flat faces"
+      },
+      "hard": {
+        "word": "LIMERENCE",
+        "category": "Psychology",
+        "clue": "An intense state of romantic infatuation"
+      }
+    },
+    "2026-06-23": {
+      "easy": {
+        "word": "EASEL",
+        "category": "Art supplies",
+        "clue": "A stand used to support a painter's canvas"
+      },
+      "medium": {
+        "word": "EPHEMERA",
+        "category": "Collecting",
+        "clue": "Items designed to be useful or enjoyed for a short time"
+      },
+      "hard": {
+        "word": "MUMPSIMUS",
+        "category": "Language",
+        "clue": "A person who stubbornly clings to an error"
+      }
+    },
+    "2026-06-24": {
+      "easy": {
+        "word": "FALCON",
+        "category": "Birds",
+        "clue": "A swift bird of prey with pointed wings"
+      },
+      "medium": {
+        "word": "EQUINOX",
+        "category": "Astronomy",
+        "clue": "One of two days when day and night are nearly equal"
+      },
+      "hard": {
+        "word": "PERSIFLAGE",
+        "category": "Language",
+        "clue": "Light, playful, often teasing conversation"
+      }
+    },
+    "2026-06-25": {
+      "easy": {
+        "word": "GARGOYLE",
+        "category": "Architecture",
+        "clue": "A carved figure projecting from a building, often as a waterspout"
+      },
+      "medium": {
+        "word": "FALCHION",
+        "category": "Weapons in history",
+        "clue": "A broad single-edged sword with a curved blade"
+      },
+      "hard": {
+        "word": "QUINCUNX",
+        "category": "Geometry",
+        "clue": "An arrangement of five objects, four at the corners and one in the centre"
+      }
+    },
+    "2026-06-26": {
+      "easy": {
+        "word": "GASKET",
+        "category": "Engineering",
+        "clue": "A seal placed between surfaces to prevent leakage"
+      },
+      "medium": {
+        "word": "FANDANGO",
+        "category": "Dance",
+        "clue": "A lively Spanish or Latin American dance"
+      },
+      "hard": {
+        "word": "SIBILANT",
+        "category": "Phonetics",
+        "clue": "Making a hissing sound like s or sh"
+      }
+    },
+    "2026-06-27": {
+      "easy": {
+        "word": "GEEZER",
+        "category": "Informal language",
+        "clue": "An old man, especially one regarded as eccentric"
+      },
+      "medium": {
+        "word": "GIBBET",
+        "category": "History",
+        "clue": "A structure formerly used for displaying executed bodies"
+      },
+      "hard": {
+        "word": "SUSURRUS",
+        "category": "Sound",
+        "clue": "A soft whispering, murmuring, or rustling sound"
+      }
+    },
+    "2026-06-28": {
+      "easy": {
+        "word": "GIMLET",
+        "category": "Tools",
+        "clue": "A small hand tool for boring holes"
+      },
+      "medium": {
+        "word": "GROTESQUE",
+        "category": "Art",
+        "clue": "A style featuring bizarre or distorted figures"
+      },
+      "hard": {
+        "word": "TATTERDEMALION",
+        "category": "Literature",
+        "clue": "A person dressed in ragged or shabby clothes"
+      }
+    },
+    "2026-06-29": {
+      "easy": {
+        "word": "GROVE",
+        "category": "Nature",
+        "clue": "A small group of trees"
+      },
+      "medium": {
+        "word": "HACIENDA",
+        "category": "Architecture",
+        "clue": "A large estate or plantation, especially in Spanish-speaking regions"
+      },
+      "hard": {
+        "word": "TITTYNOPE",
+        "category": "Informal language",
+        "clue": "A small quantity of something left over"
+      }
+    },
+    "2026-06-30": {
+      "easy": {
+        "word": "HAGGIS",
+        "category": "Food",
+        "clue": "A traditional Scottish dish made with sheep's offal"
+      },
+      "medium": {
+        "word": "HARMATTAN",
+        "category": "Meteorology",
+        "clue": "A dry dusty trade wind in West Africa"
+      },
+      "hard": {
+        "word": "ULOTRICHOUS",
+        "category": "Biology",
+        "clue": "Having woolly or tightly curled hair"
+      }
+    },
     "2026-11-17": {
       "easy": {
         "word": "TULIP",
