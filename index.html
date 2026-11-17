@@ -976,6 +976,24 @@ body.hard-mode-active .key.wide{background:#795064}
 body.hard-mode-active #message{color:#f4d9e4}
 body.hard-mode-active .icon-btn,body.hard-mode-active .archive-nav{color:#f0dce5;border-color:#624b59;background:#29222b}
 
+
+/* Hard mode must recolour the entire viewport, including the fixed keyboard and page canvas */
+html:has(body.hard-mode-active),
+html:has(body.hard-mode-active) body{
+ background:#111016!important;
+ background-image:radial-gradient(ellipse at 50% 0%,#432333 0%,#211821 48%,#111016 100%)!important;
+ color:#f1e8eb!important;
+}
+body.hard-mode-active main{background:transparent!important;color:#f1e8eb!important}
+body.hard-mode-active #keyboard{
+ background:linear-gradient(180deg,rgba(25,20,29,.97),#17131b 25%)!important;
+ background-image:linear-gradient(180deg,rgba(25,20,29,.97),#17131b 25%)!important;
+ border-top:1px solid #493342!important;
+ box-shadow:0 -10px 30px rgba(0,0,0,.18)!important;
+}
+body.hard-mode-active .key{background:#51404d!important;color:#fff!important}
+body.hard-mode-active .key.wide{background:#795064!important}
+
 </style>
 </head>
 <body>
