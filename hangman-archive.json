@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "start_date": "2026-11-17",
+  "start_date": "2026-01-01",
   "end_date": "2027-01-17",
   "puzzles": {
     "2026-11-18": {
@@ -1055,6 +1055,533 @@
         "word": "PUSILLANIMOUS",
         "category": "PERSONALITY",
         "clue": "Showing a lack of courage or determination."
+      }
+    },
+    "2026-01-01": {
+      "easy": {
+        "word": "BRICK",
+        "category": "BUILDING",
+        "clue": "A small block used to build walls."
+      },
+      "medium": {
+        "word": "ABACUS",
+        "category": "MATHEMATICS",
+        "clue": "A frame with sliding beads used for counting."
+      },
+      "hard": {
+        "word": "ABNEGATION",
+        "category": "PHILOSOPHY",
+        "clue": "The act of renouncing or rejecting something, especially oneself."
+      }
+    },
+    "2026-01-02": {
+      "easy": {
+        "word": "EAGLE",
+        "category": "BIRDS",
+        "clue": "A powerful bird of prey with keen eyesight."
+      },
+      "medium": {
+        "word": "BALCONY",
+        "category": "BUILDING",
+        "clue": "A platform projecting from an upper floor."
+      },
+      "hard": {
+        "word": "BIBLIOPHILE",
+        "category": "PERSONALITY",
+        "clue": "A person who loves collecting and reading books."
+      }
+    },
+    "2026-01-03": {
+      "easy": {
+        "word": "HONEY",
+        "category": "FOOD",
+        "clue": "A sweet substance made by bees."
+      },
+      "medium": {
+        "word": "CAMELIA",
+        "category": "PLANTS",
+        "clue": "An ornamental flowering shrub with glossy leaves."
+      },
+      "hard": {
+        "word": "DISSEMBLANCE",
+        "category": "BEHAVIOUR",
+        "clue": "The act of concealing one's true motives or feelings."
+      }
+    },
+    "2026-01-04": {
+      "easy": {
+        "word": "IGLOO",
+        "category": "SHELTER",
+        "clue": "A snow house traditionally built in the Arctic."
+      },
+      "medium": {
+        "word": "HARMONY",
+        "category": "MUSIC",
+        "clue": "A pleasing combination of musical notes."
+      },
+      "hard": {
+        "word": "FECUNDITY",
+        "category": "BIOLOGY",
+        "clue": "The ability to produce abundant offspring or growth."
+      }
+    },
+    "2026-01-05": {
+      "easy": {
+        "word": "JUICE",
+        "category": "DRINK",
+        "clue": "Liquid extracted from fruit."
+      },
+      "medium": {
+        "word": "INKWELL",
+        "category": "WRITING",
+        "clue": "A small container that holds ink for dipping pens."
+      },
+      "hard": {
+        "word": "HETEROGENEOUS",
+        "category": "SCIENCE",
+        "clue": "Made up of parts that are varied or dissimilar."
+      }
+    },
+    "2026-01-06": {
+      "easy": {
+        "word": "KNEES",
+        "category": "BODY",
+        "clue": "The joints between the thighs and lower legs."
+      },
+      "medium": {
+        "word": "LANTERN",
+        "category": "LIGHTING",
+        "clue": "A portable lamp protected by a surrounding case."
+      },
+      "hard": {
+        "word": "INTRANSIGENT",
+        "category": "PERSONALITY",
+        "clue": "Unwilling to change one's views or compromise."
+      }
+    },
+    "2026-01-07": {
+      "easy": {
+        "word": "OCEAN",
+        "category": "NATURE",
+        "clue": "A vast body of salt water."
+      },
+      "medium": {
+        "word": "ORCHARD",
+        "category": "AGRICULTURE",
+        "clue": "A piece of land planted with fruit trees."
+      },
+      "hard": {
+        "word": "JUXTAPOSITION",
+        "category": "ART",
+        "clue": "The act of placing contrasting things side by side."
+      }
+    },
+    "2026-01-08": {
+      "easy": {
+        "word": "PEARL",
+        "category": "GEMSTONE",
+        "clue": "A smooth gem formed inside an oyster."
+      },
+      "medium": {
+        "word": "UPROAR",
+        "category": "SOUND",
+        "clue": "A loud disturbance caused by many people."
+      },
+      "hard": {
+        "word": "KINESIOLOGY",
+        "category": "SCIENCE",
+        "clue": "The scientific study of human body movement."
+      }
+    },
+    "2026-01-09": {
+      "easy": {
+        "word": "QUEEN",
+        "category": "ROYALTY",
+        "clue": "A woman who rules a kingdom."
+      },
+      "medium": {
+        "word": "VINTAGE",
+        "category": "STYLE",
+        "clue": "Something valued for its age and enduring quality."
+      },
+      "hard": {
+        "word": "LABYRINTHINE",
+        "category": "DESCRIPTION",
+        "clue": "Complicated and confusing, like a maze."
+      }
+    },
+    "2026-01-10": {
+      "easy": {
+        "word": "VAPOR",
+        "category": "SCIENCE",
+        "clue": "A substance in its gaseous state."
+      },
+      "medium": {
+        "word": "AQUATIC",
+        "category": "NATURE",
+        "clue": "Relating to water or living in it."
+      },
+      "hard": {
+        "word": "NEFARIOUS",
+        "category": "PERSONALITY",
+        "clue": "Wicked or criminal in nature."
+      }
+    },
+    "2026-01-11": {
+      "easy": {
+        "word": "WHALE",
+        "category": "ANIMALS",
+        "clue": "A huge marine mammal that breathes air."
+      },
+      "medium": {
+        "word": "BRAVADO",
+        "category": "PERSONALITY",
+        "clue": "A show of boldness intended to impress."
+      },
+      "hard": {
+        "word": "OBFUSCATION",
+        "category": "LANGUAGE",
+        "clue": "The act of making something deliberately unclear."
+      }
+    },
+    "2026-01-12": {
+      "easy": {
+        "word": "YACHT",
+        "category": "TRANSPORT",
+        "clue": "A recreational boat used for sailing."
+      },
+      "medium": {
+        "word": "CITADEL",
+        "category": "ARCHITECTURE",
+        "clue": "A fortress protecting a town or strategic place."
+      },
+      "hard": {
+        "word": "PERSNICKETY",
+        "category": "PERSONALITY",
+        "clue": "Fussy about small details or hard to please."
+      }
+    },
+    "2026-01-13": {
+      "easy": {
+        "word": "FENCE",
+        "category": "GARDEN",
+        "clue": "A barrier built around a yard or field."
+      },
+      "medium": {
+        "word": "EQUATOR",
+        "category": "GEOGRAPHY",
+        "clue": "The imaginary line dividing Earth into hemispheres."
+      },
+      "hard": {
+        "word": "VICISSITUDE",
+        "category": "LIFE",
+        "clue": "A change of circumstances, often an unwelcome one."
+      }
+    },
+    "2026-01-14": {
+      "easy": {
+        "word": "GLOBE",
+        "category": "GEOGRAPHY",
+        "clue": "A spherical model of the Earth."
+      },
+      "medium": {
+        "word": "FABLES",
+        "category": "LITERATURE",
+        "clue": "Short traditional stories that teach a lesson."
+      },
+      "hard": {
+        "word": "WUNDERKIND",
+        "category": "PEOPLE",
+        "clue": "A young person who achieves remarkable success."
+      }
+    },
+    "2026-01-15": {
+      "easy": {
+        "word": "HELMET",
+        "category": "SAFETY",
+        "clue": "Protective headgear worn by cyclists and riders."
+      },
+      "medium": {
+        "word": "GALLEON",
+        "category": "HISTORY",
+        "clue": "A large sailing ship used in the age of exploration."
+      },
+      "hard": {
+        "word": "XENOPHOBIA",
+        "category": "SOCIETY",
+        "clue": "Fear or dislike of people from other countries."
+      }
+    },
+    "2026-01-16": {
+      "easy": {
+        "word": "ISLAND",
+        "category": "GEOGRAPHY",
+        "clue": "Land completely surrounded by water."
+      },
+      "medium": {
+        "word": "HABITAT",
+        "category": "ECOLOGY",
+        "clue": "The natural home of a plant or animal."
+      },
+      "hard": {
+        "word": "ZEITGEIST",
+        "category": "CULTURE",
+        "clue": "The defining spirit or mood of a particular era."
+      }
+    },
+    "2026-01-17": {
+      "easy": {
+        "word": "PUPIL",
+        "category": "SCHOOL",
+        "clue": "A student in a school, especially a young one."
+      },
+      "medium": {
+        "word": "INSIGHT",
+        "category": "THOUGHT",
+        "clue": "The ability to understand the true nature of something."
+      },
+      "hard": {
+        "word": "BELLIGERENT",
+        "category": "PERSONALITY",
+        "clue": "Hostile and eager to fight."
+      }
+    },
+    "2026-01-18": {
+      "easy": {
+        "word": "SHELL",
+        "category": "NATURE",
+        "clue": "A hard outer covering of some sea creatures."
+      },
+      "medium": {
+        "word": "JUBILEE",
+        "category": "CELEBRATION",
+        "clue": "A special anniversary or period of rejoicing."
+      },
+      "hard": {
+        "word": "CONFLAGRATION",
+        "category": "DISASTER",
+        "clue": "A large and destructive fire."
+      }
+    },
+    "2026-01-19": {
+      "easy": {
+        "word": "TRAIL",
+        "category": "OUTDOORS",
+        "clue": "A path through the countryside."
+      },
+      "medium": {
+        "word": "KNUCKLE",
+        "category": "BODY",
+        "clue": "A joint in a finger."
+      },
+      "hard": {
+        "word": "EUPHONIOUS",
+        "category": "SOUND",
+        "clue": "Pleasing to hear because of its smooth sound."
+      }
+    },
+    "2026-01-20": {
+      "easy": {
+        "word": "WAGON",
+        "category": "TRANSPORT",
+        "clue": "A horse-drawn vehicle used for carrying goods."
+      },
+      "medium": {
+        "word": "MEADOW",
+        "category": "LANDSCAPE",
+        "clue": "A field of grass and wildflowers."
+      },
+      "hard": {
+        "word": "FLUMMOXED",
+        "category": "EMOTION",
+        "clue": "Completely confused or bewildered."
+      }
+    },
+    "2026-01-21": {
+      "easy": {
+        "word": "BASIL",
+        "category": "HERBS",
+        "clue": "A fragrant herb often used in pesto."
+      },
+      "medium": {
+        "word": "NOMADIC",
+        "category": "CULTURE",
+        "clue": "Moving from place to place without a permanent home."
+      },
+      "hard": {
+        "word": "GREGARIOUS",
+        "category": "PERSONALITY",
+        "clue": "Sociable and fond of company."
+      }
+    },
+    "2026-01-22": {
+      "easy": {
+        "word": "CLOVE",
+        "category": "SPICE",
+        "clue": "A dried flower bud used as a spice."
+      },
+      "medium": {
+        "word": "OUTPOST",
+        "category": "MILITARY",
+        "clue": "A small military or trading station far from the centre."
+      },
+      "hard": {
+        "word": "HYPERBOLE",
+        "category": "LANGUAGE",
+        "clue": "An exaggerated statement not meant literally."
+      }
+    },
+    "2026-01-23": {
+      "easy": {
+        "word": "FLUTE",
+        "category": "MUSIC",
+        "clue": "A wind instrument with a clear, high sound."
+      },
+      "medium": {
+        "word": "PARCHMENT",
+        "category": "WRITING",
+        "clue": "A material made from animal skin for writing."
+      },
+      "hard": {
+        "word": "ICONOCLAST",
+        "category": "CULTURE",
+        "clue": "A person who challenges established beliefs or institutions."
+      }
+    },
+    "2026-01-24": {
+      "easy": {
+        "word": "GRILL",
+        "category": "COOKING",
+        "clue": "A metal surface used for cooking over direct heat."
+      },
+      "medium": {
+        "word": "QUADRANT",
+        "category": "GEOMETRY",
+        "clue": "An instrument or section representing one quarter of a circle."
+      },
+      "hard": {
+        "word": "JOCULARITY",
+        "category": "PERSONALITY",
+        "clue": "A playful or humorous quality."
+      }
+    },
+    "2026-01-25": {
+      "easy": {
+        "word": "IVORY",
+        "category": "MATERIAL",
+        "clue": "A pale material historically used for carved ornaments."
+      },
+      "medium": {
+        "word": "RAVENNA",
+        "category": "GEOGRAPHY",
+        "clue": "An Italian city known for its mosaics."
+      },
+      "hard": {
+        "word": "KNAVISH",
+        "category": "PERSONALITY",
+        "clue": "Dishonest or untrustworthy in a mischievous way."
+      }
+    },
+    "2026-01-26": {
+      "easy": {
+        "word": "MOOSE",
+        "category": "ANIMALS",
+        "clue": "A large deer-like mammal of northern forests."
+      },
+      "medium": {
+        "word": "SCULPTOR",
+        "category": "ART",
+        "clue": "An artist who creates three-dimensional forms."
+      },
+      "hard": {
+        "word": "LOQUACIOUS",
+        "category": "PERSONALITY",
+        "clue": "Tending to talk a great deal."
+      }
+    },
+    "2026-01-27": {
+      "easy": {
+        "word": "ROBIN",
+        "category": "BIRDS",
+        "clue": "A small songbird with a reddish breast."
+      },
+      "medium": {
+        "word": "TUNDRA",
+        "category": "GEOGRAPHY",
+        "clue": "A vast, treeless region with permanently frozen subsoil."
+      },
+      "hard": {
+        "word": "MENDACIOUS",
+        "category": "PERSONALITY",
+        "clue": "Not truthful; lying."
+      }
+    },
+    "2026-01-28": {
+      "easy": {
+        "word": "SHARK",
+        "category": "ANIMALS",
+        "clue": "A large predatory fish with sharp teeth."
+      },
+      "medium": {
+        "word": "UTOPIAN",
+        "category": "PHILOSOPHY",
+        "clue": "Idealistic, imagining a perfect society."
+      },
+      "hard": {
+        "word": "NOCTAMBULIST",
+        "category": "BEHAVIOUR",
+        "clue": "A person who walks about while asleep."
+      }
+    },
+    "2026-01-29": {
+      "easy": {
+        "word": "TROUT",
+        "category": "FISH",
+        "clue": "A freshwater fish often caught by anglers."
+      },
+      "medium": {
+        "word": "VERANDA",
+        "category": "ARCHITECTURE",
+        "clue": "A roofed, open-sided gallery attached to a house."
+      },
+      "hard": {
+        "word": "OSTENTATIOUS",
+        "category": "PERSONALITY",
+        "clue": "Designed to attract attention through showiness."
+      }
+    },
+    "2026-01-30": {
+      "easy": {
+        "word": "VAULT",
+        "category": "ARCHITECTURE",
+        "clue": "A secure room or chamber for valuables."
+      },
+      "medium": {
+        "word": "WILDFIRE",
+        "category": "DISASTER",
+        "clue": "A large, uncontrolled fire in a natural area."
+      },
+      "hard": {
+        "word": "PERNICIOUS",
+        "category": "DESCRIPTION",
+        "clue": "Causing gradual harm or damage."
+      }
+    },
+    "2026-01-31": {
+      "easy": {
+        "word": "WHEAT",
+        "category": "AGRICULTURE",
+        "clue": "A cereal crop used to make flour."
+      },
+      "medium": {
+        "word": "YONDER",
+        "category": "DIRECTION",
+        "clue": "At some distance but within sight."
+      },
+      "hard": {
+        "word": "QUERULOUS",
+        "category": "PERSONALITY",
+        "clue": "Habitually complaining or expressing dissatisfaction."
       }
     }
   }
