@@ -2059,6 +2059,533 @@
         "category": "PALEONTOLOGY",
         "clue": "A huge long-necked plant-eating dinosaur."
       }
+    },
+    "2026-03-01": {
+      "easy": {
+        "word": "APRON",
+        "category": "CLOTHING",
+        "clue": "A garment worn over clothes to protect them while cooking."
+      },
+      "medium": {
+        "word": "ALCOVE",
+        "category": "ARCHITECTURE",
+        "clue": "A small recessed section of a room."
+      },
+      "hard": {
+        "word": "ABJURATION",
+        "category": "LAW",
+        "clue": "A formal renunciation of a belief or claim."
+      }
+    },
+    "2026-03-02": {
+      "easy": {
+        "word": "BISON",
+        "category": "ANIMALS",
+        "clue": "A large shaggy mammal native to the American plains."
+      },
+      "medium": {
+        "word": "BEACON",
+        "category": "LIGHTING",
+        "clue": "A signal light used as a guide."
+      },
+      "hard": {
+        "word": "BATHOS",
+        "category": "LITERATURE",
+        "clue": "A sudden shift from the elevated to the trivial or ridiculous."
+      }
+    },
+    "2026-03-03": {
+      "easy": {
+        "word": "CANOE",
+        "category": "TRANSPORT",
+        "clue": "A narrow boat moved with a paddle."
+      },
+      "medium": {
+        "word": "CENSUS",
+        "category": "GOVERNMENT",
+        "clue": "An official count of a population."
+      },
+      "hard": {
+        "word": "CHTHONIC",
+        "category": "MYTHOLOGY",
+        "clue": "Relating to the underworld or deities beneath the Earth."
+      }
+    },
+    "2026-03-04": {
+      "easy": {
+        "word": "DRAIN",
+        "category": "HOUSEHOLD",
+        "clue": "A channel that carries away unwanted water."
+      },
+      "medium": {
+        "word": "DECODE",
+        "category": "LANGUAGE",
+        "clue": "To turn a coded message into understandable text."
+      },
+      "hard": {
+        "word": "DETRITUS",
+        "category": "ECOLOGY",
+        "clue": "Waste or debris left after something breaks down."
+      }
+    },
+    "2026-03-05": {
+      "easy": {
+        "word": "ELDER",
+        "category": "PLANTS",
+        "clue": "A shrub with flowers and berries used in food and drink."
+      },
+      "medium": {
+        "word": "ENCLAVE",
+        "category": "GEOGRAPHY",
+        "clue": "A distinct area surrounded by another territory."
+      },
+      "hard": {
+        "word": "EXECRABLE",
+        "category": "DESCRIPTION",
+        "clue": "Extremely bad or unpleasant."
+      }
+    },
+    "2026-03-06": {
+      "easy": {
+        "word": "FABLE",
+        "category": "LITERATURE",
+        "clue": "A short story that often teaches a moral."
+      },
+      "medium": {
+        "word": "FATHOM",
+        "category": "MEASUREMENT",
+        "clue": "A unit of water depth equal to six feet."
+      },
+      "hard": {
+        "word": "FARRAGO",
+        "category": "LANGUAGE",
+        "clue": "A confused mixture of different things."
+      }
+    },
+    "2026-03-07": {
+      "easy": {
+        "word": "GRAIN",
+        "category": "FOOD",
+        "clue": "A small hard seed such as wheat or rice."
+      },
+      "medium": {
+        "word": "GARNET",
+        "category": "GEMSTONE",
+        "clue": "A gemstone that is often deep red."
+      },
+      "hard": {
+        "word": "GARRISON",
+        "category": "MILITARY",
+        "clue": "Troops stationed in a particular place."
+      }
+    },
+    "2026-03-08": {
+      "easy": {
+        "word": "HINGE",
+        "category": "HARDWARE",
+        "clue": "A joint that lets a door swing open."
+      },
+      "medium": {
+        "word": "HACKNEY",
+        "category": "LANGUAGE",
+        "clue": "A phrase so overused that it has lost freshness."
+      },
+      "hard": {
+        "word": "HAPAX",
+        "category": "LINGUISTICS",
+        "clue": "A word recorded only once in a particular text."
+      }
+    },
+    "2026-03-09": {
+      "easy": {
+        "word": "IRATE",
+        "category": "EMOTION",
+        "clue": "Very angry."
+      },
+      "medium": {
+        "word": "INERTIA",
+        "category": "PHYSICS",
+        "clue": "The tendency to resist a change in motion."
+      },
+      "hard": {
+        "word": "INVEIGLE",
+        "category": "LANGUAGE",
+        "clue": "To persuade by flattery or clever talk."
+      }
+    },
+    "2026-03-10": {
+      "easy": {
+        "word": "JELLY",
+        "category": "FOOD",
+        "clue": "A soft sweet spread made from fruit juice."
+      },
+      "medium": {
+        "word": "JOSTLE",
+        "category": "ACTION",
+        "clue": "To push or bump roughly in a crowd."
+      },
+      "hard": {
+        "word": "JACQUARD",
+        "category": "TEXTILES",
+        "clue": "A fabric woven with an intricate pattern."
+      }
+    },
+    "2026-03-11": {
+      "easy": {
+        "word": "KAYAK",
+        "category": "SPORTS",
+        "clue": "A narrow boat moved with a double-bladed paddle."
+      },
+      "medium": {
+        "word": "KUDOS",
+        "category": "PRAISE",
+        "clue": "Praise or recognition for an achievement."
+      },
+      "hard": {
+        "word": "KAKISTOCRACY",
+        "category": "POLITICS",
+        "clue": "Government by the least suitable people."
+      }
+    },
+    "2026-03-12": {
+      "easy": {
+        "word": "LATCH",
+        "category": "HARDWARE",
+        "clue": "A fastening that keeps a door or gate closed."
+      },
+      "medium": {
+        "word": "LUCENT",
+        "category": "LIGHT",
+        "clue": "Giving off light or glowing."
+      },
+      "hard": {
+        "word": "LACHESIS",
+        "category": "MYTHOLOGY",
+        "clue": "One of the Fates who measured the thread of human life."
+      }
+    },
+    "2026-03-13": {
+      "easy": {
+        "word": "MIRTH",
+        "category": "EMOTION",
+        "clue": "Amusement expressed through laughter."
+      },
+      "medium": {
+        "word": "MALLET",
+        "category": "TOOLS",
+        "clue": "A hammer with a large wooden or rubber head."
+      },
+      "hard": {
+        "word": "MALAPROPISM",
+        "category": "LANGUAGE",
+        "clue": "The mistaken use of a similar-sounding word."
+      }
+    },
+    "2026-03-14": {
+      "easy": {
+        "word": "NAVEL",
+        "category": "BODY",
+        "clue": "The small scar left where the umbilical cord was attached."
+      },
+      "medium": {
+        "word": "NOVICE",
+        "category": "PEOPLE",
+        "clue": "A person who is new to an activity."
+      },
+      "hard": {
+        "word": "NASCENCY",
+        "category": "DESCRIPTION",
+        "clue": "The state of beginning to exist or develop."
+      }
+    },
+    "2026-03-15": {
+      "easy": {
+        "word": "OASIS",
+        "category": "GEOGRAPHY",
+        "clue": "A fertile spot with water in a desert."
+      },
+      "medium": {
+        "word": "OPULENT",
+        "category": "WEALTH",
+        "clue": "Rich, luxurious, and elaborate."
+      },
+      "hard": {
+        "word": "ONEROUS",
+        "category": "DESCRIPTION",
+        "clue": "Involving a heavy burden or great effort."
+      }
+    },
+    "2026-03-16": {
+      "easy": {
+        "word": "PLUME",
+        "category": "NATURE",
+        "clue": "A large soft feather."
+      },
+      "medium": {
+        "word": "PIVOTAL",
+        "category": "IMPORTANCE",
+        "clue": "Of crucial importance to something's development."
+      },
+      "hard": {
+        "word": "PALIMPSEST",
+        "category": "WRITING",
+        "clue": "A manuscript page reused after earlier writing was erased."
+      }
+    },
+    "2026-03-17": {
+      "easy": {
+        "word": "QUILT",
+        "category": "HOUSEHOLD",
+        "clue": "A warm bed covering made by stitching layers together."
+      },
+      "medium": {
+        "word": "QUENCH",
+        "category": "ACTION",
+        "clue": "To satisfy thirst or extinguish a fire."
+      },
+      "hard": {
+        "word": "QUADRIVIUM",
+        "category": "EDUCATION",
+        "clue": "The medieval group of arithmetic, geometry, music, and astronomy."
+      }
+    },
+    "2026-03-18": {
+      "easy": {
+        "word": "RELIC",
+        "category": "HISTORY",
+        "clue": "An object surviving from an earlier time."
+      },
+      "medium": {
+        "word": "RIVULET",
+        "category": "GEOGRAPHY",
+        "clue": "A very small stream."
+      },
+      "hard": {
+        "word": "RECRUDESCENCE",
+        "category": "MEDICINE",
+        "clue": "The return of something unpleasant after improvement."
+      }
+    },
+    "2026-03-19": {
+      "easy": {
+        "word": "TULLE",
+        "category": "FABRIC",
+        "clue": "Fine net-like material used in veils and dresses."
+      },
+      "medium": {
+        "word": "SERRATE",
+        "category": "BOTANY",
+        "clue": "Having a saw-like edge with small teeth."
+      },
+      "hard": {
+        "word": "SIBILANCE",
+        "category": "SOUND",
+        "clue": "A hissing sound, especially one made by s or sh."
+      }
+    },
+    "2026-03-20": {
+      "easy": {
+        "word": "VIXEN",
+        "category": "ANIMALS",
+        "clue": "A female fox."
+      },
+      "medium": {
+        "word": "TALISMAN",
+        "category": "OBJECTS",
+        "clue": "An object believed to bring good luck or protection."
+      },
+      "hard": {
+        "word": "TERGIVERSATE",
+        "category": "BEHAVIOUR",
+        "clue": "To evade a clear position or repeatedly change sides."
+      }
+    },
+    "2026-03-21": {
+      "easy": {
+        "word": "YEAST",
+        "category": "FOOD",
+        "clue": "A microorganism used to make bread rise."
+      },
+      "medium": {
+        "word": "UPHEAVAL",
+        "category": "SOCIETY",
+        "clue": "A sudden and major change or disruption."
+      },
+      "hard": {
+        "word": "ULTRACREPIDARIAN",
+        "category": "PERSONALITY",
+        "clue": "Someone who gives opinions beyond their expertise."
+      }
+    },
+    "2026-03-22": {
+      "easy": {
+        "word": "ZONAL",
+        "category": "GEOGRAPHY",
+        "clue": "Relating to or arranged in zones."
+      },
+      "medium": {
+        "word": "VAGRANT",
+        "category": "PEOPLE",
+        "clue": "A person without a settled home."
+      },
+      "hard": {
+        "word": "VITRIOLIC",
+        "category": "LANGUAGE",
+        "clue": "Filled with bitter and harsh criticism."
+      }
+    },
+    "2026-03-23": {
+      "easy": {
+        "word": "BLADE",
+        "category": "TOOLS",
+        "clue": "The flat cutting edge of a knife."
+      },
+      "medium": {
+        "word": "AMULET",
+        "category": "OBJECTS",
+        "clue": "A small object worn for protection or good luck."
+      },
+      "hard": {
+        "word": "WELTSCHMERZ",
+        "category": "PHILOSOPHY",
+        "clue": "Sadness about the world's imperfect state."
+      }
+    },
+    "2026-03-24": {
+      "easy": {
+        "word": "CUBIC",
+        "category": "MATHEMATICS",
+        "clue": "Having the shape of a cube."
+      },
+      "medium": {
+        "word": "BASALT",
+        "category": "GEOLOGY",
+        "clue": "A dark volcanic rock."
+      },
+      "hard": {
+        "word": "XEROPHYTE",
+        "category": "BOTANY",
+        "clue": "A plant adapted to survive with very little water."
+      }
+    },
+    "2026-03-25": {
+      "easy": {
+        "word": "FLINT",
+        "category": "GEOLOGY",
+        "clue": "A hard stone that can produce sparks when struck."
+      },
+      "medium": {
+        "word": "CAVITY",
+        "category": "ANATOMY",
+        "clue": "A hollow space within a solid body."
+      },
+      "hard": {
+        "word": "YPSILIFORM",
+        "category": "DESCRIPTION",
+        "clue": "Having a shape resembling the letter Y."
+      }
+    },
+    "2026-03-26": {
+      "easy": {
+        "word": "GUSTO",
+        "category": "PERSONALITY",
+        "clue": "Enthusiastic enjoyment or energy."
+      },
+      "medium": {
+        "word": "DAPPLE",
+        "category": "DESCRIPTION",
+        "clue": "To mark with small patches of colour or light."
+      },
+      "hard": {
+        "word": "ZOONOSIS",
+        "category": "MEDICINE",
+        "clue": "A disease that can pass from animals to humans."
+      }
+    },
+    "2026-03-27": {
+      "easy": {
+        "word": "HUMUS",
+        "category": "FOOD",
+        "clue": "A savoury spread made mainly from chickpeas."
+      },
+      "medium": {
+        "word": "ELOPE",
+        "category": "RELATIONSHIPS",
+        "clue": "To run away secretly to get married."
+      },
+      "hard": {
+        "word": "APOTHEGM",
+        "category": "LANGUAGE",
+        "clue": "A short, memorable saying expressing a general truth."
+      }
+    },
+    "2026-03-28": {
+      "easy": {
+        "word": "JOUST",
+        "category": "SPORTS",
+        "clue": "A medieval contest where riders charged with lances."
+      },
+      "medium": {
+        "word": "FJORD",
+        "category": "GEOGRAPHY",
+        "clue": "A long sea inlet between steep cliffs."
+      },
+      "hard": {
+        "word": "BIFURCATION",
+        "category": "GEOMETRY",
+        "clue": "The division of something into two branches."
+      }
+    },
+    "2026-03-29": {
+      "easy": {
+        "word": "KIOSK",
+        "category": "BUILDINGS",
+        "clue": "A small stand or booth selling goods or information."
+      },
+      "medium": {
+        "word": "GASKET",
+        "category": "ENGINEERING",
+        "clue": "A seal placed between surfaces to prevent leaks."
+      },
+      "hard": {
+        "word": "CORYBANTIC",
+        "category": "HISTORY",
+        "clue": "Wildly frenzied, like ecstatic ancient dancers."
+      }
+    },
+    "2026-03-30": {
+      "easy": {
+        "word": "NYLON",
+        "category": "MATERIALS",
+        "clue": "A strong synthetic fibre used in clothing and ropes."
+      },
+      "medium": {
+        "word": "HARBOR",
+        "category": "GEOGRAPHY",
+        "clue": "A sheltered place where ships can anchor."
+      },
+      "hard": {
+        "word": "DENDROCHRONOLOGY",
+        "category": "SCIENCE",
+        "clue": "Dating past events by studying tree rings."
+      }
+    },
+    "2026-03-31": {
+      "easy": {
+        "word": "PRAWN",
+        "category": "SEAFOOD",
+        "clue": "A small swimming crustacean often served as food."
+      },
+      "medium": {
+        "word": "INSIGNIA",
+        "category": "SYMBOLS",
+        "clue": "A badge or emblem showing rank or membership."
+      },
+      "hard": {
+        "word": "EPIZEUXIS",
+        "category": "LITERATURE",
+        "clue": "The immediate repetition of a word for emphasis."
+      }
     }
   }
 }
