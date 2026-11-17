@@ -6224,6 +6224,278 @@
         "category": "Biology",
         "clue": "The classification of organisms by shared ancestry"
       }
+    },
+    "2026-11-01": {
+      "easy": {
+        "word": "ANCHOR",
+        "category": "Nautical",
+        "clue": "A heavy device dropped from a vessel to keep it in place"
+      },
+      "medium": {
+        "word": "ABUNDANT",
+        "category": "Vocabulary",
+        "clue": "Available in large quantities"
+      },
+      "hard": {
+        "word": "ACRASIA",
+        "category": "Philosophy",
+        "clue": "Acting against one's better judgment despite knowing what is right"
+      }
+    },
+    "2026-11-02": {
+      "easy": {
+        "word": "CANDLE",
+        "category": "Household objects",
+        "clue": "A wax cylinder with a wick that gives light"
+      },
+      "medium": {
+        "word": "FRACTION",
+        "category": "Mathematics",
+        "clue": "A numerical quantity that is not a whole number"
+      },
+      "hard": {
+        "word": "ANACOENOSIS",
+        "category": "Rhetoric",
+        "clue": "A figure of speech in which a speaker consults the audience"
+      }
+    },
+    "2026-11-03": {
+      "easy": {
+        "word": "EMBER",
+        "category": "Fire",
+        "clue": "A small glowing piece left after a fire"
+      },
+      "medium": {
+        "word": "HIERARCHY",
+        "category": "Organisation",
+        "clue": "A system in which people or things are ranked"
+      },
+      "hard": {
+        "word": "APOPHTHEGM",
+        "category": "Literature",
+        "clue": "A concise, pointed saying expressing a general truth"
+      }
+    },
+    "2026-11-04": {
+      "easy": {
+        "word": "GARDEN",
+        "category": "Places",
+        "clue": "A cultivated outdoor space for growing plants"
+      },
+      "medium": {
+        "word": "IMPARTIAL",
+        "category": "Character",
+        "clue": "Treating all sides fairly without favouritism"
+      },
+      "hard": {
+        "word": "BOUSTROPHEDON",
+        "category": "Writing systems",
+        "clue": "A style of writing in which alternate lines run in opposite directions"
+      }
+    },
+    "2026-11-05": {
+      "easy": {
+        "word": "HAMMER",
+        "category": "Tools",
+        "clue": "A hand tool used to drive nails"
+      },
+      "medium": {
+        "word": "JUBILANT",
+        "category": "Emotion",
+        "clue": "Feeling or expressing great happiness"
+      },
+      "hard": {
+        "word": "CORYBANT",
+        "category": "Mythology",
+        "clue": "A frenzied attendant of the ancient Phrygian goddess Cybele"
+      }
+    },
+    "2026-11-06": {
+      "easy": {
+        "word": "KETTLE",
+        "category": "Kitchen",
+        "clue": "A vessel used to heat water"
+      },
+      "medium": {
+        "word": "NOTORIOUS",
+        "category": "Reputation",
+        "clue": "Famous for a bad quality or deed"
+      },
+      "hard": {
+        "word": "DEASIL",
+        "category": "Folklore",
+        "clue": "In a clockwise direction, traditionally considered auspicious"
+      }
+    },
+    "2026-11-07": {
+      "easy": {
+        "word": "NEEDLE",
+        "category": "Tools",
+        "clue": "A slender pointed instrument used for sewing"
+      },
+      "medium": {
+        "word": "OBSOLETE",
+        "category": "Technology",
+        "clue": "No longer used because something newer exists"
+      },
+      "hard": {
+        "word": "ENNUI",
+        "category": "Psychology",
+        "clue": "A feeling of listlessness arising from dissatisfaction or lack of interest"
+      }
+    },
+    "2026-11-08": {
+      "easy": {
+        "word": "ORCHID",
+        "category": "Plants",
+        "clue": "A flowering plant family with distinctive blooms"
+      },
+      "medium": {
+        "word": "PERIPHERAL",
+        "category": "Anatomy",
+        "clue": "Situated at or near the outer edge"
+      },
+      "hard": {
+        "word": "FUGACITY",
+        "category": "Philosophy",
+        "clue": "The quality of being fleeting or short-lived"
+      }
+    },
+    "2026-11-09": {
+      "easy": {
+        "word": "SADDLE",
+        "category": "Equestrian",
+        "clue": "A seat placed on the back of a horse"
+      },
+      "medium": {
+        "word": "VENERABLE",
+        "category": "Character",
+        "clue": "Commanding respect because of age, wisdom, or character"
+      },
+      "hard": {
+        "word": "GADZOOKS",
+        "category": "Language",
+        "clue": "An old-fashioned exclamation of surprise or annoyance"
+      }
+    },
+    "2026-11-10": {
+      "easy": {
+        "word": "TUNNEL",
+        "category": "Structures",
+        "clue": "An underground passage through or under an obstacle"
+      },
+      "medium": {
+        "word": "ABSTINENCE",
+        "category": "Health",
+        "clue": "The practice of deliberately avoiding an activity or substance"
+      },
+      "hard": {
+        "word": "HAPTIC",
+        "category": "Psychology",
+        "clue": "Relating to the sense of touch"
+      }
+    },
+    "2026-11-11": {
+      "easy": {
+        "word": "VIOLET",
+        "category": "Plants",
+        "clue": "A small flowering plant, often purple"
+      },
+      "medium": {
+        "word": "CONJECTURE",
+        "category": "Reasoning",
+        "clue": "An opinion formed without sufficient proof"
+      },
+      "hard": {
+        "word": "IATROGENIC",
+        "category": "Medicine",
+        "clue": "Induced unintentionally by medical treatment or examination"
+      }
+    },
+    "2026-11-12": {
+      "easy": {
+        "word": "WALRUS",
+        "category": "Marine life",
+        "clue": "A large Arctic mammal with long tusks"
+      },
+      "medium": {
+        "word": "EXEMPLARY",
+        "category": "Character",
+        "clue": "Serving as a desirable model"
+      },
+      "hard": {
+        "word": "JOCOSITY",
+        "category": "Vocabulary",
+        "clue": "The quality of being playful or humorous"
+      }
+    },
+    "2026-11-13": {
+      "easy": {
+        "word": "YOGURT",
+        "category": "Food",
+        "clue": "A cultured dairy product made by bacterial fermentation"
+      },
+      "medium": {
+        "word": "FORMIDABLE",
+        "category": "Description",
+        "clue": "Inspiring fear or respect through size or difficulty"
+      },
+      "hard": {
+        "word": "KINESIS",
+        "category": "Biology",
+        "clue": "Movement or activity of a cell or organism in response to a stimulus"
+      }
+    },
+    "2026-11-14": {
+      "easy": {
+        "word": "ZIPPER",
+        "category": "Clothing",
+        "clue": "A fastening device with interlocking teeth"
+      },
+      "medium": {
+        "word": "IMMINENT",
+        "category": "Time",
+        "clue": "About to happen very soon"
+      },
+      "hard": {
+        "word": "LETHOLOGY",
+        "category": "Psychology",
+        "clue": "The inability to remember a particular word or name"
+      }
+    },
+    "2026-11-15": {
+      "easy": {
+        "word": "BREEZE",
+        "category": "Weather",
+        "clue": "A gentle movement of air"
+      },
+      "medium": {
+        "word": "TENACIOUS",
+        "category": "Character",
+        "clue": "Holding firmly to a purpose despite difficulty"
+      },
+      "hard": {
+        "word": "MYRMIDON",
+        "category": "Literature",
+        "clue": "A loyal follower who carries out orders unquestioningly"
+      }
+    },
+    "2026-11-16": {
+      "easy": {
+        "word": "MIRROR",
+        "category": "Household objects",
+        "clue": "A surface that reflects an image"
+      },
+      "medium": {
+        "word": "TRENCHANT",
+        "category": "Communication",
+        "clue": "Expressing ideas sharply and effectively"
+      },
+      "hard": {
+        "word": "NUGATORY",
+        "category": "Vocabulary",
+        "clue": "Of no value or importance; futile"
+      }
     }
   }
 }
