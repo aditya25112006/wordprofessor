@@ -3080,6 +3080,533 @@
         "clue": "Having woolly or tightly curled hair"
       }
     },
+    "2026-07-01": {
+      "easy": {
+        "word": "ANORAK",
+        "category": "Clothing",
+        "clue": "A warm hooded jacket often worn outdoors"
+      },
+      "medium": {
+        "word": "ACANTHUS",
+        "category": "Architecture",
+        "clue": "A Mediterranean plant with deeply cut leaves used in classical decoration"
+      },
+      "hard": {
+        "word": "ACEPHALOUS",
+        "category": "Biology",
+        "clue": "Lacking a distinct head"
+      }
+    },
+    "2026-07-02": {
+      "easy": {
+        "word": "BADGER",
+        "category": "Wildlife",
+        "clue": "A burrowing mammal with a striped face"
+      },
+      "medium": {
+        "word": "ALEMBIC",
+        "category": "Alchemy",
+        "clue": "An apparatus formerly used for distillation"
+      },
+      "hard": {
+        "word": "ACRONYCHAL",
+        "category": "Astronomy",
+        "clue": "Occurring at sunset or just after it"
+      }
+    },
+    "2026-07-03": {
+      "easy": {
+        "word": "BARRACUDA",
+        "category": "Fish",
+        "clue": "A large predatory fish with sharp teeth"
+      },
+      "medium": {
+        "word": "ANASTOMOSIS",
+        "category": "Medicine",
+        "clue": "A connection between two branching tubes or vessels"
+      },
+      "hard": {
+        "word": "ACEDIA",
+        "category": "Religion",
+        "clue": "Spiritual apathy or lack of motivation"
+      }
+    },
+    "2026-07-04": {
+      "easy": {
+        "word": "BATTEN",
+        "category": "Building materials",
+        "clue": "A narrow strip of wood used to cover a joint"
+      },
+      "medium": {
+        "word": "ANATHEMA",
+        "category": "Religion",
+        "clue": "A formal curse or something intensely disliked"
+      },
+      "hard": {
+        "word": "ACROSTIC",
+        "category": "Poetry",
+        "clue": "A composition in which initial letters form a word or message"
+      }
+    },
+    "2026-07-05": {
+      "easy": {
+        "word": "BEAGLE",
+        "category": "Dogs",
+        "clue": "A small hound breed with a strong sense of smell"
+      },
+      "medium": {
+        "word": "APOGEE",
+        "category": "Astronomy",
+        "clue": "The point in an orbit farthest from Earth"
+      },
+      "hard": {
+        "word": "AGRODOLCE",
+        "category": "Food",
+        "clue": "A flavour combining sweet and sour"
+      }
+    },
+    "2026-07-06": {
+      "easy": {
+        "word": "BOLLARD",
+        "category": "Street furniture",
+        "clue": "A short sturdy post used to control vehicle access"
+      },
+      "medium": {
+        "word": "ARPEGGIO",
+        "category": "Music",
+        "clue": "The notes of a chord played one after another"
+      },
+      "hard": {
+        "word": "ALKIN",
+        "category": "Archaic language",
+        "clue": "Of all kinds or various sorts"
+      }
+    },
+    "2026-07-07": {
+      "easy": {
+        "word": "BOUQUET",
+        "category": "Flowers",
+        "clue": "An arranged bunch of cut flowers"
+      },
+      "medium": {
+        "word": "ATRIUM",
+        "category": "Architecture",
+        "clue": "A central open space in an ancient Roman house"
+      },
+      "hard": {
+        "word": "ATHWART",
+        "category": "Archaic language",
+        "clue": "Across or in opposition to something"
+      }
+    },
+    "2026-07-08": {
+      "easy": {
+        "word": "BRACKET",
+        "category": "Hardware",
+        "clue": "A support fixed to a wall or surface"
+      },
+      "medium": {
+        "word": "BANDOLIER",
+        "category": "Military history",
+        "clue": "A shoulder belt used for carrying ammunition"
+      },
+      "hard": {
+        "word": "BILLETDOUX",
+        "category": "Literature",
+        "clue": "A love letter"
+      }
+    },
+    "2026-07-09": {
+      "easy": {
+        "word": "BRAMBLE",
+        "category": "Plants",
+        "clue": "A prickly shrub that produces blackberries"
+      },
+      "medium": {
+        "word": "BATTLEMENT",
+        "category": "Architecture",
+        "clue": "A notched defensive wall at the top of a castle"
+      },
+      "hard": {
+        "word": "BONHOMIE",
+        "category": "Personality",
+        "clue": "Cheerful friendliness and easy good humour"
+      }
+    },
+    "2026-07-10": {
+      "easy": {
+        "word": "BROCADE",
+        "category": "Textiles",
+        "clue": "A rich fabric woven with raised patterns"
+      },
+      "medium": {
+        "word": "BRACHIATE",
+        "category": "Zoology",
+        "clue": "To move by swinging from branch to branch"
+      },
+      "hard": {
+        "word": "BROUHAHA",
+        "category": "Sound",
+        "clue": "A noisy and overexcited reaction"
+      }
+    },
+    "2026-07-11": {
+      "easy": {
+        "word": "BUCKLE",
+        "category": "Clothing",
+        "clue": "A clasp used to fasten a belt or strap"
+      },
+      "medium": {
+        "word": "CANTILEVER",
+        "category": "Engineering",
+        "clue": "A beam fixed at one end and projecting freely"
+      },
+      "hard": {
+        "word": "CANTRIP",
+        "category": "Folklore",
+        "clue": "A magic spell or trick"
+      }
+    },
+    "2026-07-12": {
+      "easy": {
+        "word": "BUNGALOW",
+        "category": "Housing",
+        "clue": "A low house, usually with one storey"
+      },
+      "medium": {
+        "word": "CARYATID",
+        "category": "Architecture",
+        "clue": "A sculpted female figure serving as a supporting column"
+      },
+      "hard": {
+        "word": "CHIASMUS",
+        "category": "Rhetoric",
+        "clue": "A reversal of grammatical structure in successive phrases"
+      }
+    },
+    "2026-07-13": {
+      "easy": {
+        "word": "BUTANE",
+        "category": "Chemistry",
+        "clue": "A flammable gas used in portable stoves"
+      },
+      "medium": {
+        "word": "CATAFALQUE",
+        "category": "Funerals",
+        "clue": "A raised platform supporting a coffin"
+      },
+      "hard": {
+        "word": "CHTHONIAN",
+        "category": "Mythology",
+        "clue": "Relating to the underworld or deities beneath the earth"
+      }
+    },
+    "2026-07-14": {
+      "easy": {
+        "word": "CALICO",
+        "category": "Textiles",
+        "clue": "A plain cotton fabric, often printed"
+      },
+      "medium": {
+        "word": "CHALCEDONY",
+        "category": "Minerals",
+        "clue": "A form of microcrystalline quartz"
+      },
+      "hard": {
+        "word": "CORONACH",
+        "category": "Tradition",
+        "clue": "A lament or funeral song"
+      }
+    },
+    "2026-07-15": {
+      "easy": {
+        "word": "CAMELLIA",
+        "category": "Flowers",
+        "clue": "An evergreen shrub with showy flowers"
+      },
+      "medium": {
+        "word": "CISTERN",
+        "category": "Engineering",
+        "clue": "A tank for storing water"
+      },
+      "hard": {
+        "word": "CREPUSCULAR",
+        "category": "Nature",
+        "clue": "Relating to twilight or active at dawn and dusk"
+      }
+    },
+    "2026-07-16": {
+      "easy": {
+        "word": "CARIBOU",
+        "category": "Wildlife",
+        "clue": "A northern deer also known as reindeer"
+      },
+      "medium": {
+        "word": "CITHARA",
+        "category": "Music",
+        "clue": "An ancient Greek stringed instrument"
+      },
+      "hard": {
+        "word": "DESEUETUDE",
+        "category": "Language",
+        "clue": "A state of disuse or inactivity"
+      }
+    },
+    "2026-07-17": {
+      "easy": {
+        "word": "CARNATION",
+        "category": "Flowers",
+        "clue": "A fragrant flower with ruffled petals"
+      },
+      "medium": {
+        "word": "CLAVICHORD",
+        "category": "Music",
+        "clue": "An early keyboard instrument with strings struck by metal tangents"
+      },
+      "hard": {
+        "word": "EIGENGRAU",
+        "category": "Optics",
+        "clue": "The dark grey seen by the eye in the absence of light"
+      }
+    },
+    "2026-07-18": {
+      "easy": {
+        "word": "CHISEL",
+        "category": "Tools",
+        "clue": "A sharp-edged tool used for cutting wood or stone"
+      },
+      "medium": {
+        "word": "DIASTEMA",
+        "category": "Dentistry",
+        "clue": "A gap between two teeth"
+      },
+      "hard": {
+        "word": "ENCHIRIDION",
+        "category": "Books",
+        "clue": "A handbook or concise manual"
+      }
+    },
+    "2026-07-19": {
+      "easy": {
+        "word": "COYOTE",
+        "category": "Wildlife",
+        "clue": "A wild canine native to North America"
+      },
+      "medium": {
+        "word": "DOLMEN",
+        "category": "Archaeology",
+        "clue": "A prehistoric stone tomb made of upright stones and a capstone"
+      },
+      "hard": {
+        "word": "ENTHELECHY",
+        "category": "Philosophy",
+        "clue": "The realisation of potential or the force that makes it actual"
+      }
+    },
+    "2026-07-20": {
+      "easy": {
+        "word": "CROISSANT",
+        "category": "Food",
+        "clue": "A flaky crescent-shaped pastry"
+      },
+      "medium": {
+        "word": "DORYPHORE",
+        "category": "Art",
+        "clue": "A classical statue type depicting a spear-bearer"
+      },
+      "hard": {
+        "word": "FYLFOT",
+        "category": "Heraldry",
+        "clue": "A traditional ornament resembling a hooked cross"
+      }
+    },
+    "2026-07-21": {
+      "easy": {
+        "word": "DORMOUSE",
+        "category": "Wildlife",
+        "clue": "A small rodent known for long periods of sleep"
+      },
+      "medium": {
+        "word": "FENESTRATION",
+        "category": "Architecture",
+        "clue": "The arrangement of windows and openings in a building"
+      },
+      "hard": {
+        "word": "LAGNIAPPE",
+        "category": "Regional language",
+        "clue": "A small extra gift given by a shopkeeper"
+      }
+    },
+    "2026-07-22": {
+      "easy": {
+        "word": "EIDER",
+        "category": "Birds",
+        "clue": "A sea duck known for its soft insulating down"
+      },
+      "medium": {
+        "word": "FERRULE",
+        "category": "Tools",
+        "clue": "A metal ring or cap strengthening the end of a handle"
+      },
+      "hard": {
+        "word": "MALINGER",
+        "category": "Behaviour",
+        "clue": "To pretend illness to avoid work or duty"
+      }
+    },
+    "2026-07-23": {
+      "easy": {
+        "word": "EUCALYPTUS",
+        "category": "Trees",
+        "clue": "A fragrant-leaved tree native to Australia"
+      },
+      "medium": {
+        "word": "GROMMET",
+        "category": "Hardware",
+        "clue": "A ring inserted into a hole to protect or reinforce it"
+      },
+      "hard": {
+        "word": "MAMMOTHREPT",
+        "category": "Archaic language",
+        "clue": "A spoiled or overindulged child"
+      }
+    },
+    "2026-07-24": {
+      "easy": {
+        "word": "FERRET",
+        "category": "Animals",
+        "clue": "A domesticated member of the weasel family"
+      },
+      "medium": {
+        "word": "ISOBAR",
+        "category": "Meteorology",
+        "clue": "A line joining places of equal atmospheric pressure"
+      },
+      "hard": {
+        "word": "METANOIA",
+        "category": "Religion",
+        "clue": "A transformative change of heart or spiritual conversion"
+      }
+    },
+    "2026-07-25": {
+      "easy": {
+        "word": "GALLEON",
+        "category": "Ships",
+        "clue": "A large sailing ship used in the early modern period"
+      },
+      "medium": {
+        "word": "KARYOTYPE",
+        "category": "Genetics",
+        "clue": "The number and appearance of chromosomes in a cell"
+      },
+      "hard": {
+        "word": "MORDICANT",
+        "category": "Language",
+        "clue": "Biting or caustic in speech"
+      }
+    },
+    "2026-07-26": {
+      "easy": {
+        "word": "GAMBIT",
+        "category": "Chess",
+        "clue": "An opening move that sacrifices material for advantage"
+      },
+      "medium": {
+        "word": "LACUSTRINE",
+        "category": "Geography",
+        "clue": "Relating to or formed in lakes"
+      },
+      "hard": {
+        "word": "MOUNTEBANK",
+        "category": "Occupations",
+        "clue": "A person who deceives others with false claims"
+      }
+    },
+    "2026-07-27": {
+      "easy": {
+        "word": "GIRAFFE",
+        "category": "Wildlife",
+        "clue": "A very tall African mammal with a long neck"
+      },
+      "medium": {
+        "word": "MOLLUSC",
+        "category": "Zoology",
+        "clue": "An invertebrate such as a snail, clam, or octopus"
+      },
+      "hard": {
+        "word": "NYCHTHEMERON",
+        "category": "Time",
+        "clue": "A full period of twenty-four hours"
+      }
+    },
+    "2026-07-28": {
+      "easy": {
+        "word": "GOSSAMER",
+        "category": "Nature",
+        "clue": "A fine filmy substance, like a spider's web"
+      },
+      "medium": {
+        "word": "NACELLE",
+        "category": "Engineering",
+        "clue": "A streamlined housing for an aircraft engine or wind turbine"
+      },
+      "hard": {
+        "word": "OBAMBULATE",
+        "category": "Archaic language",
+        "clue": "To walk about or wander"
+      }
+    },
+    "2026-07-29": {
+      "easy": {
+        "word": "HEDGEHOG",
+        "category": "Wildlife",
+        "clue": "A small mammal covered with protective spines"
+      },
+      "medium": {
+        "word": "ORRERY",
+        "category": "Astronomy",
+        "clue": "A mechanical model of the Solar System"
+      },
+      "hard": {
+        "word": "PAREIDOLIA",
+        "category": "Psychology",
+        "clue": "Seeing meaningful patterns in random stimuli"
+      }
+    },
+    "2026-07-30": {
+      "easy": {
+        "word": "HIBISCUS",
+        "category": "Flowers",
+        "clue": "A tropical flowering plant with large colourful blooms"
+      },
+      "medium": {
+        "word": "PARAPET",
+        "category": "Architecture",
+        "clue": "A low protective wall along a roof or bridge"
+      },
+      "hard": {
+        "word": "PSITHURISM",
+        "category": "Sound",
+        "clue": "The rustling sound of leaves in the wind"
+      }
+    },
+    "2026-07-31": {
+      "easy": {
+        "word": "HONEYDEW",
+        "category": "Fruit",
+        "clue": "A sweet melon with pale green flesh"
+      },
+      "medium": {
+        "word": "QUADRILLE",
+        "category": "Dance",
+        "clue": "A square dance for four couples"
+      },
+      "hard": {
+        "word": "QUOCKERWODGER",
+        "category": "History",
+        "clue": "A wooden puppet on strings; figuratively, a person controlled by others"
+      }
+    },
     "2026-11-17": {
       "easy": {
         "word": "TULIP",
