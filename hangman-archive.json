@@ -3,1060 +3,6 @@
   "start_date": "2026-01-01",
   "end_date": "2027-01-17",
   "puzzles": {
-    "2026-11-18": {
-      "easy": {
-        "word": "APPLE",
-        "category": "FOOD",
-        "clue": "A crisp fruit that can be red, green or yellow."
-      },
-      "medium": {
-        "word": "ANCHOR",
-        "category": "SAILING",
-        "clue": "A heavy device that keeps a ship in place."
-      },
-      "hard": {
-        "word": "ABYSSAL",
-        "category": "OCEANOGRAPHY",
-        "clue": "Relating to the deepest parts of the ocean."
-      }
-    },
-    "2026-11-19": {
-      "easy": {
-        "word": "TIGER",
-        "category": "ANIMALS",
-        "clue": "A striped big cat."
-      },
-      "medium": {
-        "word": "BRONZE",
-        "category": "MATERIALS",
-        "clue": "A metal alloy made mainly from copper and tin."
-      },
-      "hard": {
-        "word": "ABSCOND",
-        "category": "LAW",
-        "clue": "To leave secretly to avoid detection."
-      }
-    },
-    "2026-11-20": {
-      "easy": {
-        "word": "CHAIR",
-        "category": "OBJECTS",
-        "clue": "A seat with a back and usually four legs."
-      },
-      "medium": {
-        "word": "CANYON",
-        "category": "GEOGRAPHY",
-        "clue": "A deep valley with steep sides."
-      },
-      "hard": {
-        "word": "ACQUIESCE",
-        "category": "LANGUAGE",
-        "clue": "To accept something reluctantly but without protest."
-      }
-    },
-    "2026-11-21": {
-      "easy": {
-        "word": "BREAD",
-        "category": "FOOD",
-        "clue": "A baked staple made from flour."
-      },
-      "medium": {
-        "word": "DEBATE",
-        "category": "COMMUNICATION",
-        "clue": "A formal discussion with opposing arguments."
-      },
-      "hard": {
-        "word": "ALCHEMY",
-        "category": "HISTORY",
-        "clue": "An ancient practice seeking to transform base metals."
-      }
-    },
-    "2026-11-22": {
-      "easy": {
-        "word": "CLOUD",
-        "category": "WEATHER",
-        "clue": "A visible mass of tiny water droplets in the sky."
-      },
-      "medium": {
-        "word": "EMBLEM",
-        "category": "SYMBOLS",
-        "clue": "An object or design that represents an organisation."
-      },
-      "hard": {
-        "word": "ANACHRONISM",
-        "category": "HISTORY",
-        "clue": "Something placed in a period where it does not belong."
-      }
-    },
-    "2026-11-23": {
-      "easy": {
-        "word": "BEACH",
-        "category": "PLACES",
-        "clue": "A sandy or pebbly shore beside the sea."
-      },
-      "medium": {
-        "word": "FOSSIL",
-        "category": "SCIENCE",
-        "clue": "Preserved remains or traces of ancient life."
-      },
-      "hard": {
-        "word": "ANTHOLOGY",
-        "category": "LITERATURE",
-        "clue": "A published collection of selected writings."
-      }
-    },
-    "2026-11-24": {
-      "easy": {
-        "word": "TRAIN",
-        "category": "TRANSPORT",
-        "clue": "A vehicle that runs on railway tracks."
-      },
-      "medium": {
-        "word": "GALAXY",
-        "category": "SPACE",
-        "clue": "A huge system of stars, gas and dust."
-      },
-      "hard": {
-        "word": "APOCRYPHAL",
-        "category": "LITERATURE",
-        "clue": "Of doubtful authenticity, though widely circulated."
-      }
-    },
-    "2026-11-25": {
-      "easy": {
-        "word": "SMILE",
-        "category": "PEOPLE",
-        "clue": "A happy expression made with your mouth."
-      },
-      "medium": {
-        "word": "HAMLET",
-        "category": "PLACES",
-        "clue": "A very small settlement, smaller than a village."
-      },
-      "hard": {
-        "word": "ASTROLABE",
-        "category": "INSTRUMENTS",
-        "clue": "An ancient device used to model the heavens."
-      }
-    },
-    "2026-11-26": {
-      "easy": {
-        "word": "RIVER",
-        "category": "NATURE",
-        "clue": "A large natural stream of flowing water."
-      },
-      "medium": {
-        "word": "INSECT",
-        "category": "ANIMALS",
-        "clue": "A six-legged arthropod."
-      },
-      "hard": {
-        "word": "BELLWETHER",
-        "category": "SOCIETY",
-        "clue": "An indicator or predictor of future trends."
-      }
-    },
-    "2026-11-27": {
-      "easy": {
-        "word": "SPOON",
-        "category": "OBJECTS",
-        "clue": "A utensil used for eating soup."
-      },
-      "medium": {
-        "word": "JACKET",
-        "category": "CLOTHING",
-        "clue": "A short coat worn on the upper body."
-      },
-      "hard": {
-        "word": "CACOPHONY",
-        "category": "SOUNDS",
-        "clue": "A harsh mixture of unpleasant sounds."
-      }
-    },
-    "2026-11-28": {
-      "easy": {
-        "word": "HORSE",
-        "category": "ANIMALS",
-        "clue": "A large animal often used for riding."
-      },
-      "medium": {
-        "word": "KETTLE",
-        "category": "OBJECTS",
-        "clue": "A vessel used to boil water."
-      },
-      "hard": {
-        "word": "CALAMITOUS",
-        "category": "LANGUAGE",
-        "clue": "Involving great damage or disaster."
-      }
-    },
-    "2026-11-29": {
-      "easy": {
-        "word": "MUSIC",
-        "category": "ARTS",
-        "clue": "Organised sound, often with rhythm and melody."
-      },
-      "medium": {
-        "word": "LAGOON",
-        "category": "GEOGRAPHY",
-        "clue": "A shallow body of water separated from the sea."
-      },
-      "hard": {
-        "word": "CAPRICIOUS",
-        "category": "PERSONALITY",
-        "clue": "Given to sudden and unpredictable changes."
-      }
-    },
-    "2026-11-30": {
-      "easy": {
-        "word": "PLANT",
-        "category": "NATURE",
-        "clue": "A living thing that grows in soil."
-      },
-      "medium": {
-        "word": "MARBLE",
-        "category": "MATERIALS",
-        "clue": "A hard stone often used in sculpture."
-      },
-      "hard": {
-        "word": "CHIMERICAL",
-        "category": "LANGUAGE",
-        "clue": "Imaginary or wildly fanciful."
-      }
-    },
-    "2026-12-01": {
-      "easy": {
-        "word": "HOUSE",
-        "category": "PLACES",
-        "clue": "A building where people live."
-      },
-      "medium": {
-        "word": "NECTAR",
-        "category": "NATURE",
-        "clue": "A sweet liquid produced by flowers."
-      },
-      "hard": {
-        "word": "CHRONICLE",
-        "category": "HISTORY",
-        "clue": "A factual written account of events in order."
-      }
-    },
-    "2026-12-02": {
-      "easy": {
-        "word": "GRAPE",
-        "category": "FOOD",
-        "clue": "A small round fruit that grows in bunches."
-      },
-      "medium": {
-        "word": "OYSTER",
-        "category": "ANIMALS",
-        "clue": "A shellfish that can produce pearls."
-      },
-      "hard": {
-        "word": "CIRCUMLOCUTION",
-        "category": "LANGUAGE",
-        "clue": "Using many words where fewer would do."
-      }
-    },
-    "2026-12-03": {
-      "easy": {
-        "word": "SHEEP",
-        "category": "ANIMALS",
-        "clue": "A woolly farm animal."
-      },
-      "medium": {
-        "word": "PARROT",
-        "category": "ANIMALS",
-        "clue": "A colourful bird able to mimic sounds."
-      },
-      "hard": {
-        "word": "CONUNDRUM",
-        "category": "PUZZLES",
-        "clue": "A confusing or difficult problem."
-      }
-    },
-    "2026-12-04": {
-      "easy": {
-        "word": "CLOCK",
-        "category": "OBJECTS",
-        "clue": "A device that tells the time."
-      },
-      "medium": {
-        "word": "QUARTZ",
-        "category": "GEOLOGY",
-        "clue": "A common mineral made of silicon dioxide."
-      },
-      "hard": {
-        "word": "DELETERIOUS",
-        "category": "SCIENCE",
-        "clue": "Causing harm or damage."
-      }
-    },
-    "2026-12-05": {
-      "easy": {
-        "word": "LIGHT",
-        "category": "SCIENCE",
-        "clue": "The energy that lets us see."
-      },
-      "medium": {
-        "word": "RIDDLE",
-        "category": "GAMES",
-        "clue": "A question or statement requiring clever thought."
-      },
-      "hard": {
-        "word": "DEMOGRAPHIC",
-        "category": "ECONOMICS",
-        "clue": "Relating to the statistical study of populations."
-      }
-    },
-    "2026-12-06": {
-      "easy": {
-        "word": "PIZZA",
-        "category": "FOOD",
-        "clue": "A baked dish often topped with cheese."
-      },
-      "medium": {
-        "word": "STATUE",
-        "category": "ARTS",
-        "clue": "A three-dimensional representation of a figure."
-      },
-      "hard": {
-        "word": "DIAPHANOUS",
-        "category": "LANGUAGE",
-        "clue": "Light, delicate and almost transparent."
-      }
-    },
-    "2026-12-07": {
-      "easy": {
-        "word": "SNAKE",
-        "category": "ANIMALS",
-        "clue": "A long reptile with no legs."
-      },
-      "medium": {
-        "word": "TEMPLE",
-        "category": "PLACES",
-        "clue": "A building used for religious worship."
-      },
-      "hard": {
-        "word": "DICHOTOMY",
-        "category": "PHILOSOPHY",
-        "clue": "A division into two sharply contrasting groups."
-      }
-    },
-    "2026-12-08": {
-      "easy": {
-        "word": "GREEN",
-        "category": "COLOURS",
-        "clue": "The colour of fresh grass."
-      },
-      "medium": {
-        "word": "UNISON",
-        "category": "MUSIC",
-        "clue": "The performance of the same notes together."
-      },
-      "hard": {
-        "word": "DILATORY",
-        "category": "LANGUAGE",
-        "clue": "Slow to act, especially to delay something."
-      }
-    },
-    "2026-12-09": {
-      "easy": {
-        "word": "PILOT",
-        "category": "JOBS",
-        "clue": "A person who flies an aircraft."
-      },
-      "medium": {
-        "word": "VIOLET",
-        "category": "PLANTS",
-        "clue": "A small flowering plant, also a colour."
-      },
-      "hard": {
-        "word": "EBULLIENT",
-        "category": "PERSONALITY",
-        "clue": "Cheerful and full of energy."
-      }
-    },
-    "2026-12-10": {
-      "easy": {
-        "word": "PAPER",
-        "category": "OBJECTS",
-        "clue": "A thin material used for writing and printing."
-      },
-      "medium": {
-        "word": "WALNUT",
-        "category": "FOOD",
-        "clue": "An edible nut with a wrinkled shell."
-      },
-      "hard": {
-        "word": "EFFERVESCENT",
-        "category": "CHEMISTRY",
-        "clue": "Giving off bubbles of gas."
-      }
-    },
-    "2026-12-11": {
-      "easy": {
-        "word": "MOUSE",
-        "category": "ANIMALS",
-        "clue": "A small rodent with a long tail."
-      },
-      "medium": {
-        "word": "XYLOPHONE",
-        "category": "MUSIC",
-        "clue": "A percussion instrument with tuned wooden bars."
-      },
-      "hard": {
-        "word": "ELOQUENT",
-        "category": "COMMUNICATION",
-        "clue": "Fluent or persuasive in speaking or writing."
-      }
-    },
-    "2026-12-12": {
-      "easy": {
-        "word": "STONE",
-        "category": "NATURE",
-        "clue": "A small piece of rock."
-      },
-      "medium": {
-        "word": "YACHTS",
-        "category": "SAILING",
-        "clue": "Recreational boats used for cruising or racing."
-      },
-      "hard": {
-        "word": "EPHEMERAL",
-        "category": "PHILOSOPHY",
-        "clue": "Lasting for a very short time."
-      }
-    },
-    "2026-12-13": {
-      "easy": {
-        "word": "WATER",
-        "category": "NATURE",
-        "clue": "A clear liquid essential for life."
-      },
-      "medium": {
-        "word": "ZENITH",
-        "category": "ASTRONOMY",
-        "clue": "The point in the sky directly overhead."
-      },
-      "hard": {
-        "word": "EQUIVOCAL",
-        "category": "LANGUAGE",
-        "clue": "Open to more than one interpretation."
-      }
-    },
-    "2026-12-14": {
-      "easy": {
-        "word": "BERRY",
-        "category": "FOOD",
-        "clue": "A small juicy fruit."
-      },
-      "medium": {
-        "word": "ACROBAT",
-        "category": "PERFORMING ARTS",
-        "clue": "A performer skilled in agility and balance."
-      },
-      "hard": {
-        "word": "ESOTERIC",
-        "category": "KNOWLEDGE",
-        "clue": "Intended for or understood by a small group."
-      }
-    },
-    "2026-12-15": {
-      "easy": {
-        "word": "CROWN",
-        "category": "OBJECTS",
-        "clue": "A headpiece worn by a monarch."
-      },
-      "medium": {
-        "word": "BICYCLE",
-        "category": "TRANSPORT",
-        "clue": "A two-wheeled vehicle powered by pedals."
-      },
-      "hard": {
-        "word": "EXACERBATE",
-        "category": "LANGUAGE",
-        "clue": "To make a problem or bad situation worse."
-      }
-    },
-    "2026-12-16": {
-      "easy": {
-        "word": "SUGAR",
-        "category": "FOOD",
-        "clue": "A sweet substance used in desserts."
-      },
-      "medium": {
-        "word": "CIRCUIT",
-        "category": "ELECTRONICS",
-        "clue": "A complete path through which electric current flows."
-      },
-      "hard": {
-        "word": "FASTIDIOUS",
-        "category": "PERSONALITY",
-        "clue": "Very attentive to detail and cleanliness."
-      }
-    },
-    "2026-12-17": {
-      "easy": {
-        "word": "FIELD",
-        "category": "PLACES",
-        "clue": "An open area of land, often used for crops."
-      },
-      "medium": {
-        "word": "DOLPHIN",
-        "category": "ANIMALS",
-        "clue": "An intelligent marine mammal."
-      },
-      "hard": {
-        "word": "FELICITY",
-        "category": "LANGUAGE",
-        "clue": "Intense happiness or apt expression."
-      }
-    },
-    "2026-12-18": {
-      "easy": {
-        "word": "TOWER",
-        "category": "STRUCTURES",
-        "clue": "A tall narrow building or structure."
-      },
-      "medium": {
-        "word": "ECLIPSE",
-        "category": "ASTRONOMY",
-        "clue": "An event in which one celestial body obscures another."
-      },
-      "hard": {
-        "word": "GARRULOUS",
-        "category": "PERSONALITY",
-        "clue": "Excessively talkative, especially about trivial matters."
-      }
-    },
-    "2026-12-19": {
-      "easy": {
-        "word": "HEART",
-        "category": "BODY",
-        "clue": "The organ that pumps blood."
-      },
-      "medium": {
-        "word": "FURNACE",
-        "category": "MACHINERY",
-        "clue": "An enclosed unit used for high-temperature heating."
-      },
-      "hard": {
-        "word": "GRANDILOQUENT",
-        "category": "LANGUAGE",
-        "clue": "Using pompous or extravagant language."
-      }
-    },
-    "2026-12-20": {
-      "easy": {
-        "word": "LEMON",
-        "category": "FOOD",
-        "clue": "A sour yellow citrus fruit."
-      },
-      "medium": {
-        "word": "GLACIER",
-        "category": "GEOGRAPHY",
-        "clue": "A slow-moving mass of ice."
-      },
-      "hard": {
-        "word": "IDIOSYNCRASY",
-        "category": "PSYCHOLOGY",
-        "clue": "A distinctive or peculiar personal habit."
-      }
-    },
-    "2026-12-21": {
-      "easy": {
-        "word": "SPARK",
-        "category": "SCIENCE",
-        "clue": "A tiny flash of fire or electricity."
-      },
-      "medium": {
-        "word": "HORIZON",
-        "category": "GEOGRAPHY",
-        "clue": "The apparent line where earth and sky meet."
-      },
-      "hard": {
-        "word": "IMPECUNIOUS",
-        "category": "LANGUAGE",
-        "clue": "Having little or no money."
-      }
-    },
-    "2026-12-22": {
-      "easy": {
-        "word": "DRUMS",
-        "category": "MUSIC",
-        "clue": "Percussion instruments played by striking."
-      },
-      "medium": {
-        "word": "IVORY",
-        "category": "MATERIALS",
-        "clue": "A hard pale material from animal tusks."
-      },
-      "hard": {
-        "word": "INCHOATE",
-        "category": "LANGUAGE",
-        "clue": "Just begun and not fully formed."
-      }
-    },
-    "2026-12-23": {
-      "easy": {
-        "word": "BROOM",
-        "category": "OBJECTS",
-        "clue": "A tool used to sweep floors."
-      },
-      "medium": {
-        "word": "JASMINE",
-        "category": "PLANTS",
-        "clue": "A fragrant flowering shrub."
-      },
-      "hard": {
-        "word": "INEFFABLE",
-        "category": "PHILOSOPHY",
-        "clue": "Too great or extreme to be expressed in words."
-      }
-    },
-    "2026-12-24": {
-      "easy": {
-        "word": "PLANE",
-        "category": "TRANSPORT",
-        "clue": "An aircraft with wings."
-      },
-      "medium": {
-        "word": "KARAOKE",
-        "category": "ENTERTAINMENT",
-        "clue": "Singing along to recorded music."
-      },
-      "hard": {
-        "word": "INSCRUTABLE",
-        "category": "PERSONALITY",
-        "clue": "Impossible to understand or interpret."
-      }
-    },
-    "2026-12-25": {
-      "easy": {
-        "word": "TOWEL",
-        "category": "OBJECTS",
-        "clue": "A cloth used to dry yourself."
-      },
-      "medium": {
-        "word": "LEOPARD",
-        "category": "ANIMALS",
-        "clue": "A large spotted wild cat."
-      },
-      "hard": {
-        "word": "LACHRYMOSE",
-        "category": "LANGUAGE",
-        "clue": "Tearful or given to weeping."
-      }
-    },
-    "2026-12-26": {
-      "easy": {
-        "word": "ZEBRA",
-        "category": "ANIMALS",
-        "clue": "An African animal with black-and-white stripes."
-      },
-      "medium": {
-        "word": "MOSAIC",
-        "category": "ARTS",
-        "clue": "An image made from small pieces of coloured material."
-      },
-      "hard": {
-        "word": "LUGUBRIOUS",
-        "category": "LANGUAGE",
-        "clue": "Looking or sounding mournful and gloomy."
-      }
-    },
-    "2026-12-27": {
-      "easy": {
-        "word": "NURSE",
-        "category": "JOBS",
-        "clue": "A healthcare professional who cares for patients."
-      },
-      "medium": {
-        "word": "NEBULA",
-        "category": "SPACE",
-        "clue": "A cloud of gas and dust in space."
-      },
-      "hard": {
-        "word": "MAGNANIMOUS",
-        "category": "PERSONALITY",
-        "clue": "Generous and forgiving, especially toward a rival."
-      }
-    },
-    "2026-12-28": {
-      "easy": {
-        "word": "GRASS",
-        "category": "NATURE",
-        "clue": "A green plant that covers many lawns."
-      },
-      "medium": {
-        "word": "OCTOPUS",
-        "category": "ANIMALS",
-        "clue": "A sea creature with eight arms."
-      },
-      "hard": {
-        "word": "MELLIFLUOUS",
-        "category": "SOUNDS",
-        "clue": "Sweet or musical to hear."
-      }
-    },
-    "2026-12-29": {
-      "easy": {
-        "word": "FRUIT",
-        "category": "FOOD",
-        "clue": "The sweet or fleshy product of a plant."
-      },
-      "medium": {
-        "word": "PENGUIN",
-        "category": "ANIMALS",
-        "clue": "A flightless seabird that swims."
-      },
-      "hard": {
-        "word": "METICULOUS",
-        "category": "PERSONALITY",
-        "clue": "Showing great attention to detail."
-      }
-    },
-    "2026-12-30": {
-      "easy": {
-        "word": "SWEET",
-        "category": "FOOD",
-        "clue": "A sugary treat or confection."
-      },
-      "medium": {
-        "word": "QUARREL",
-        "category": "PEOPLE",
-        "clue": "An angry argument or disagreement."
-      },
-      "hard": {
-        "word": "OBFUSCATE",
-        "category": "LANGUAGE",
-        "clue": "To make something deliberately unclear."
-      }
-    },
-    "2026-12-31": {
-      "easy": {
-        "word": "RADIO",
-        "category": "TECHNOLOGY",
-        "clue": "A device that receives audio broadcasts."
-      },
-      "medium": {
-        "word": "RADIANT",
-        "category": "SCIENCE",
-        "clue": "Emitting or reflecting light or heat."
-      },
-      "hard": {
-        "word": "OBSEQUIOUS",
-        "category": "PERSONALITY",
-        "clue": "Excessively eager to please or obey."
-      }
-    },
-    "2027-01-01": {
-      "easy": {
-        "word": "BRUSH",
-        "category": "OBJECTS",
-        "clue": "A tool with bristles for cleaning or grooming."
-      },
-      "medium": {
-        "word": "SAPPHIRE",
-        "category": "GEMS",
-        "clue": "A precious gemstone, usually blue."
-      },
-      "hard": {
-        "word": "OSTRACIZE",
-        "category": "SOCIETY",
-        "clue": "To exclude someone from a group."
-      }
-    },
-    "2027-01-02": {
-      "easy": {
-        "word": "SOUTH",
-        "category": "DIRECTIONS",
-        "clue": "The compass direction opposite north."
-      },
-      "medium": {
-        "word": "TAPESTRY",
-        "category": "ARTS",
-        "clue": "A decorative woven wall hanging."
-      },
-      "hard": {
-        "word": "PRODIGAL",
-        "category": "LANGUAGE",
-        "clue": "Spending money or resources freely and wastefully."
-      }
-    },
-    "2027-01-03": {
-      "easy": {
-        "word": "NORTH",
-        "category": "DIRECTIONS",
-        "clue": "The compass direction toward the top of most maps."
-      },
-      "medium": {
-        "word": "UMBRELLA",
-        "category": "OBJECTS",
-        "clue": "A folding canopy used for protection from rain."
-      },
-      "hard": {
-        "word": "PERSPICACIOUS",
-        "category": "PERSONALITY",
-        "clue": "Having a ready insight into things."
-      }
-    },
-    "2027-01-04": {
-      "easy": {
-        "word": "ROBOT",
-        "category": "TECHNOLOGY",
-        "clue": "A machine that can perform tasks automatically."
-      },
-      "medium": {
-        "word": "VAMPIRE",
-        "category": "FICTION",
-        "clue": "A mythical being said to drink blood."
-      },
-      "hard": {
-        "word": "PARSIMONY",
-        "category": "PERSONALITY",
-        "clue": "Extreme unwillingness to spend money or use resources."
-      }
-    },
-    "2027-01-05": {
-      "easy": {
-        "word": "SKATE",
-        "category": "SPORTS",
-        "clue": "To glide on wheels or blades."
-      },
-      "medium": {
-        "word": "WHISPER",
-        "category": "SOUNDS",
-        "clue": "To speak very softly."
-      },
-      "hard": {
-        "word": "PROCLIVITY",
-        "category": "PSYCHOLOGY",
-        "clue": "A natural tendency to behave in a particular way."
-      }
-    },
-    "2027-01-06": {
-      "easy": {
-        "word": "SWORD",
-        "category": "OBJECTS",
-        "clue": "A long bladed weapon used historically."
-      },
-      "medium": {
-        "word": "YOGURT",
-        "category": "FOOD",
-        "clue": "A tangy food made by fermenting milk."
-      },
-      "hard": {
-        "word": "QUINTESSENCE",
-        "category": "PHILOSOPHY",
-        "clue": "The most perfect example of a quality."
-      }
-    },
-    "2027-01-07": {
-      "easy": {
-        "word": "SCALE",
-        "category": "TOOLS",
-        "clue": "An instrument used to measure weight."
-      },
-      "medium": {
-        "word": "ZODIAC",
-        "category": "ASTROLOGY",
-        "clue": "A belt of twelve constellations."
-      },
-      "hard": {
-        "word": "RECALCITRANT",
-        "category": "PERSONALITY",
-        "clue": "Stubbornly resistant to authority or control."
-      }
-    },
-    "2027-01-08": {
-      "easy": {
-        "word": "MANGO",
-        "category": "FOOD",
-        "clue": "A sweet tropical stone fruit."
-      },
-      "medium": {
-        "word": "ARCHIVE",
-        "category": "INFORMATION",
-        "clue": "A collection of historical records."
-      },
-      "hard": {
-        "word": "RECONDITE",
-        "category": "KNOWLEDGE",
-        "clue": "Little known or difficult to understand."
-      }
-    },
-    "2027-01-09": {
-      "easy": {
-        "word": "PANDA",
-        "category": "ANIMALS",
-        "clue": "A black-and-white bear that eats bamboo."
-      },
-      "medium": {
-        "word": "BLOSSOM",
-        "category": "PLANTS",
-        "clue": "A flower, especially on a fruit tree."
-      },
-      "hard": {
-        "word": "SAGACIOUS",
-        "category": "PERSONALITY",
-        "clue": "Having good judgement and wisdom."
-      }
-    },
-    "2027-01-10": {
-      "easy": {
-        "word": "SLOTH",
-        "category": "ANIMALS",
-        "clue": "A slow-moving mammal that lives in trees."
-      },
-      "medium": {
-        "word": "COMPASS",
-        "category": "TOOLS",
-        "clue": "An instrument used to determine direction."
-      },
-      "hard": {
-        "word": "SOPORIFIC",
-        "category": "SCIENCE",
-        "clue": "Tending to induce sleep."
-      }
-    },
-    "2027-01-11": {
-      "easy": {
-        "word": "FROST",
-        "category": "WEATHER",
-        "clue": "A thin layer of ice crystals."
-      },
-      "medium": {
-        "word": "DYNAMIC",
-        "category": "PHYSICS",
-        "clue": "Relating to forces or motion."
-      },
-      "hard": {
-        "word": "SUPERCILIOUS",
-        "category": "PERSONALITY",
-        "clue": "Behaving as though one is superior to others."
-      }
-    },
-    "2027-01-12": {
-      "easy": {
-        "word": "STORM",
-        "category": "WEATHER",
-        "clue": "A period of violent weather."
-      },
-      "medium": {
-        "word": "ENIGMA",
-        "category": "IDEAS",
-        "clue": "Something mysterious or difficult to understand."
-      },
-      "hard": {
-        "word": "SYNECDOCHE",
-        "category": "LITERATURE",
-        "clue": "A figure of speech using a part to represent a whole."
-      }
-    },
-    "2027-01-13": {
-      "easy": {
-        "word": "SPACE",
-        "category": "SCIENCE",
-        "clue": "The vast region beyond Earth's atmosphere."
-      },
-      "medium": {
-        "word": "FALCON",
-        "category": "ANIMALS",
-        "clue": "A fast-flying bird of prey."
-      },
-      "hard": {
-        "word": "TACITURN",
-        "category": "PERSONALITY",
-        "clue": "Reserved or saying very little."
-      }
-    },
-    "2027-01-14": {
-      "easy": {
-        "word": "EARTH",
-        "category": "SPACE",
-        "clue": "The planet on which we live."
-      },
-      "medium": {
-        "word": "GRANITE",
-        "category": "GEOLOGY",
-        "clue": "A coarse-grained igneous rock."
-      },
-      "hard": {
-        "word": "TANTAMOUNT",
-        "category": "LANGUAGE",
-        "clue": "Equivalent in seriousness or effect."
-      }
-    },
-    "2027-01-15": {
-      "easy": {
-        "word": "SOUND",
-        "category": "SCIENCE",
-        "clue": "Vibrations that can be heard."
-      },
-      "medium": {
-        "word": "HARVEST",
-        "category": "AGRICULTURE",
-        "clue": "The gathering of a crop."
-      },
-      "hard": {
-        "word": "UBIQUITOUS",
-        "category": "LANGUAGE",
-        "clue": "Present, appearing or found everywhere."
-      }
-    },
-    "2027-01-16": {
-      "easy": {
-        "word": "FLAME",
-        "category": "NATURE",
-        "clue": "The visible, hot part of a fire."
-      },
-      "medium": {
-        "word": "IMPULSE",
-        "category": "PSYCHOLOGY",
-        "clue": "A sudden strong urge to act."
-      },
-      "hard": {
-        "word": "VERISIMILITUDE",
-        "category": "LITERATURE",
-        "clue": "The appearance of being true or real."
-      }
-    },
-    "2027-01-17": {
-      "easy": {
-        "word": "CANDY",
-        "category": "FOOD",
-        "clue": "A sweet sugary confection."
-      },
-      "medium": {
-        "word": "JOURNAL",
-        "category": "WRITING",
-        "clue": "A record of daily events or observations."
-      },
-      "hard": {
-        "word": "VITUPERATE",
-        "category": "LANGUAGE",
-        "clue": "To criticise or insult in bitter language."
-      }
-    },
-    "2026-11-17": {
-      "easy": {
-        "word": "TULIP",
-        "category": "PLANTS",
-        "clue": "A spring flower shaped like a cup."
-      },
-      "medium": {
-        "word": "KINETIC",
-        "category": "PHYSICS",
-        "clue": "Relating to motion."
-      },
-      "hard": {
-        "word": "PUSILLANIMOUS",
-        "category": "PERSONALITY",
-        "clue": "Showing a lack of courage or determination."
-      }
-    },
     "2026-01-01": {
       "easy": {
         "word": "BRICK",
@@ -3095,6 +2041,1587 @@
         "word": "HWYL",
         "category": "Emotion",
         "clue": "An intense feeling of emotional fervour or inspired enthusiasm."
+      }
+    },
+    "2026-05-01": {
+      "easy": {
+        "word": "ATTIC",
+        "category": "Parts of a house",
+        "clue": "A room or space directly below a roof"
+      },
+      "medium": {
+        "word": "AQUEDUCT",
+        "category": "Engineering",
+        "clue": "A structure built to carry water over a distance"
+      },
+      "hard": {
+        "word": "ABECEDARIAN",
+        "category": "Language",
+        "clue": "Arranged according to the order of the alphabet"
+      }
+    },
+    "2026-05-02": {
+      "easy": {
+        "word": "BALLET",
+        "category": "Performing arts",
+        "clue": "A formal style of dance with precise movements"
+      },
+      "medium": {
+        "word": "BARRICADE",
+        "category": "Structures",
+        "clue": "A barrier erected to block a passage"
+      },
+      "hard": {
+        "word": "ABSQUATULATE",
+        "category": "Slang and usage",
+        "clue": "To leave abruptly or make off"
+      }
+    },
+    "2026-05-03": {
+      "easy": {
+        "word": "BASKET",
+        "category": "Household objects",
+        "clue": "A container woven from strips of material"
+      },
+      "medium": {
+        "word": "BROOCH",
+        "category": "Jewellery",
+        "clue": "A decorative pin fastened to clothing"
+      },
+      "hard": {
+        "word": "ADUMBRATE",
+        "category": "Literature",
+        "clue": "To foreshadow or give a faint outline of something"
+      }
+    },
+    "2026-05-04": {
+      "easy": {
+        "word": "BRIDGE",
+        "category": "Structures",
+        "clue": "A structure built to cross a river or road"
+      },
+      "medium": {
+        "word": "CANOPY",
+        "category": "Nature",
+        "clue": "An overhead covering formed by tree branches"
+      },
+      "hard": {
+        "word": "AGELAST",
+        "category": "Human behaviour",
+        "clue": "A person who never laughs"
+      }
+    },
+    "2026-05-05": {
+      "easy": {
+        "word": "BUTTON",
+        "category": "Clothing",
+        "clue": "A small fastener sewn onto a garment"
+      },
+      "medium": {
+        "word": "CAVALCADE",
+        "category": "Events",
+        "clue": "A procession of riders or vehicles"
+      },
+      "hard": {
+        "word": "APRICITY",
+        "category": "Weather",
+        "clue": "The warmth of the sun on a cold winter day"
+      }
+    },
+    "2026-05-06": {
+      "easy": {
+        "word": "CASTLE",
+        "category": "Architecture",
+        "clue": "A fortified building often associated with kings"
+      },
+      "medium": {
+        "word": "CLOISTER",
+        "category": "Architecture",
+        "clue": "A covered walkway around a monastery courtyard"
+      },
+      "hard": {
+        "word": "BATRACHIAN",
+        "category": "Zoology",
+        "clue": "Relating to frogs and other amphibians"
+      }
+    },
+    "2026-05-07": {
+      "easy": {
+        "word": "CHERRY",
+        "category": "Fruit",
+        "clue": "A small round red fruit with a stone"
+      },
+      "medium": {
+        "word": "CORMORANT",
+        "category": "Birds",
+        "clue": "A fish-eating water bird that often spreads its wings to dry"
+      },
+      "hard": {
+        "word": "CACHINNATION",
+        "category": "Human behaviour",
+        "clue": "Loud or immoderate laughter"
+      }
+    },
+    "2026-05-08": {
+      "easy": {
+        "word": "CIRCUS",
+        "category": "Entertainment",
+        "clue": "A travelling show with performers and animals"
+      },
+      "medium": {
+        "word": "CRESCENT",
+        "category": "Shapes",
+        "clue": "A curved shape with pointed ends"
+      },
+      "hard": {
+        "word": "CALLIPYGOUS",
+        "category": "Art and anatomy",
+        "clue": "Having well-shaped buttocks"
+      }
+    },
+    "2026-05-09": {
+      "easy": {
+        "word": "CLOVER",
+        "category": "Plants",
+        "clue": "A small plant with usually three rounded leaflets"
+      },
+      "medium": {
+        "word": "DERRICK",
+        "category": "Engineering",
+        "clue": "A tall framework used for lifting heavy objects"
+      },
+      "hard": {
+        "word": "CENOTAPH",
+        "category": "Memorials",
+        "clue": "A monument honouring someone whose remains lie elsewhere"
+      }
+    },
+    "2026-05-10": {
+      "easy": {
+        "word": "COCOON",
+        "category": "Insects",
+        "clue": "A silky case spun by some insect larvae"
+      },
+      "medium": {
+        "word": "DIADEM",
+        "category": "Royalty",
+        "clue": "A jewelled crown or headband"
+      },
+      "hard": {
+        "word": "CHRESTOMATHY",
+        "category": "Education",
+        "clue": "A collection of passages used for language learning"
+      }
+    },
+    "2026-05-11": {
+      "easy": {
+        "word": "CRAYON",
+        "category": "Art supplies",
+        "clue": "A coloured stick of wax used for drawing"
+      },
+      "medium": {
+        "word": "FALCONER",
+        "category": "Occupations",
+        "clue": "A person who trains and hunts with birds of prey"
+      },
+      "hard": {
+        "word": "DYSANIA",
+        "category": "Sleep",
+        "clue": "Difficulty getting out of bed in the morning"
+      }
+    },
+    "2026-05-12": {
+      "easy": {
+        "word": "DRAGON",
+        "category": "Mythical creatures",
+        "clue": "A large legendary creature that breathes fire"
+      },
+      "medium": {
+        "word": "GARGOYLE",
+        "category": "Architecture",
+        "clue": "A carved figure that projects from a building as a waterspout"
+      },
+      "hard": {
+        "word": "ELEUTHEROMANIA",
+        "category": "Psychology",
+        "clue": "An intense desire for freedom"
+      }
+    },
+    "2026-05-13": {
+      "easy": {
+        "word": "FIDDLE",
+        "category": "Musical instruments",
+        "clue": "A violin, especially when used for folk music"
+      },
+      "medium": {
+        "word": "GONDOLA",
+        "category": "Transport",
+        "clue": "A long narrow boat associated with Venice"
+      },
+      "hard": {
+        "word": "EMBOUPOINT",
+        "category": "Language",
+        "clue": "The act of making a point or becoming pointed"
+      }
+    },
+    "2026-05-14": {
+      "easy": {
+        "word": "FLAMINGO",
+        "category": "Birds",
+        "clue": "A tall pink wading bird with a bent beak"
+      },
+      "medium": {
+        "word": "HABERDASHER",
+        "category": "Occupations",
+        "clue": "A shopkeeper who sells sewing notions and small clothing items"
+      },
+      "hard": {
+        "word": "FLIBBERTIGIBBET",
+        "category": "Human behaviour",
+        "clue": "A frivolous or excessively talkative person"
+      }
+    },
+    "2026-05-15": {
+      "easy": {
+        "word": "GOBLET",
+        "category": "Drinkware",
+        "clue": "A drinking cup with a stem and a base"
+      },
+      "medium": {
+        "word": "HINTERLAND",
+        "category": "Geography",
+        "clue": "The inland region behind a coast or a major city"
+      },
+      "hard": {
+        "word": "GALLIMAUFRY",
+        "category": "Food and language",
+        "clue": "A confused mixture or jumble"
+      }
+    },
+    "2026-05-16": {
+      "easy": {
+        "word": "JUNGLE",
+        "category": "Habitats",
+        "clue": "A dense tropical forest"
+      },
+      "medium": {
+        "word": "KILN",
+        "category": "Crafts",
+        "clue": "A heated chamber used to fire pottery"
+      },
+      "hard": {
+        "word": "IMBROGLIO",
+        "category": "Drama",
+        "clue": "A complicated and confusing situation"
+      }
+    },
+    "2026-05-17": {
+      "easy": {
+        "word": "LADDER",
+        "category": "Tools",
+        "clue": "A structure with rungs used for climbing"
+      },
+      "medium": {
+        "word": "LACQUER",
+        "category": "Materials",
+        "clue": "A hard glossy coating applied to wood or other surfaces"
+      },
+      "hard": {
+        "word": "LOGORRHEA",
+        "category": "Language",
+        "clue": "Excessive and often incoherent talkativeness"
+      }
+    },
+    "2026-05-18": {
+      "easy": {
+        "word": "LOCKET",
+        "category": "Jewellery",
+        "clue": "A small pendant that opens to hold a picture"
+      },
+      "medium": {
+        "word": "MARINER",
+        "category": "Occupations",
+        "clue": "A person who navigates or works at sea"
+      },
+      "hard": {
+        "word": "MALAPERT",
+        "category": "Human behaviour",
+        "clue": "Boldly disrespectful or impudent"
+      }
+    },
+    "2026-05-19": {
+      "easy": {
+        "word": "MAGNET",
+        "category": "Science",
+        "clue": "An object that attracts iron"
+      },
+      "medium": {
+        "word": "MENAGERIE",
+        "category": "Animals",
+        "clue": "A collection of wild animals kept for display"
+      },
+      "hard": {
+        "word": "NUDIUSTERTIAN",
+        "category": "Time",
+        "clue": "Relating to the day before yesterday"
+      }
+    },
+    "2026-05-20": {
+      "easy": {
+        "word": "NAPKIN",
+        "category": "Dining",
+        "clue": "A piece of cloth or paper used to wipe the mouth"
+      },
+      "medium": {
+        "word": "OBELISK",
+        "category": "Monuments",
+        "clue": "A tall four-sided stone pillar that tapers to a pyramid top"
+      },
+      "hard": {
+        "word": "PANDICULATION",
+        "category": "Human biology",
+        "clue": "The act of stretching and yawning"
+      }
+    },
+    "2026-05-21": {
+      "easy": {
+        "word": "PILLOW",
+        "category": "Household objects",
+        "clue": "A soft cushion used to support the head in bed"
+      },
+      "medium": {
+        "word": "PALISADE",
+        "category": "Defence",
+        "clue": "A fence made from strong wooden stakes"
+      },
+      "hard": {
+        "word": "QUERIMONIOUS",
+        "category": "Personality",
+        "clue": "Habitually given to complaining"
+      }
+    },
+    "2026-05-22": {
+      "easy": {
+        "word": "PLANET",
+        "category": "Astronomy",
+        "clue": "A large body that orbits a star"
+      },
+      "medium": {
+        "word": "RAPIER",
+        "category": "Weapons in history",
+        "clue": "A slender pointed sword used for thrusting"
+      },
+      "hard": {
+        "word": "VATICINATION",
+        "category": "Literature",
+        "clue": "The act of predicting or prophesying"
+      }
+    },
+    "2026-05-23": {
+      "easy": {
+        "word": "RIBBON",
+        "category": "Crafts",
+        "clue": "A narrow strip of fabric used for decoration"
+      },
+      "medium": {
+        "word": "SARCOPHAGUS",
+        "category": "Archaeology",
+        "clue": "A stone coffin, often decorated"
+      },
+      "hard": {
+        "word": "WIDDERSHINS",
+        "category": "Direction",
+        "clue": "In a counterclockwise direction"
+      }
+    },
+    "2026-05-24": {
+      "easy": {
+        "word": "ROCKET",
+        "category": "Space travel",
+        "clue": "A vehicle propelled by engines that expel gas"
+      },
+      "medium": {
+        "word": "UPHOLSTER",
+        "category": "Crafts",
+        "clue": "To cover furniture with padding and fabric"
+      },
+      "hard": {
+        "word": "YONDERLY",
+        "category": "Archaic usage",
+        "clue": "Situated over there or at a distance"
+      }
+    },
+    "2026-05-25": {
+      "easy": {
+        "word": "SHOVEL",
+        "category": "Tools",
+        "clue": "A tool with a broad blade for digging"
+      },
+      "medium": {
+        "word": "WAYFARER",
+        "category": "Travel",
+        "clue": "A person who travels on foot"
+      },
+      "hard": {
+        "word": "ZOILISM",
+        "category": "Literature",
+        "clue": "A habit of harsh or carping criticism"
+      }
+    },
+    "2026-05-26": {
+      "easy": {
+        "word": "SPIDER",
+        "category": "Animals",
+        "clue": "An eight-legged creature that often spins webs"
+      },
+      "medium": {
+        "word": "YACHTSMAN",
+        "category": "Occupations",
+        "clue": "A person who sails or operates a pleasure boat"
+      },
+      "hard": {
+        "word": "FURBELOW",
+        "category": "Clothing",
+        "clue": "A pleated or gathered trimming on a garment"
+      }
+    },
+    "2026-05-27": {
+      "easy": {
+        "word": "THIMBLE",
+        "category": "Sewing",
+        "clue": "A small cap worn on a finger while stitching"
+      },
+      "medium": {
+        "word": "ARCHIPELAGO",
+        "category": "Geography",
+        "clue": "A group or chain of islands"
+      },
+      "hard": {
+        "word": "HIRCINE",
+        "category": "Animals",
+        "clue": "Resembling or characteristic of a goat"
+      }
+    },
+    "2026-05-28": {
+      "easy": {
+        "word": "TROPHY",
+        "category": "Awards",
+        "clue": "A prize cup or object given for achievement"
+      },
+      "medium": {
+        "word": "CARTOGRAPHY",
+        "category": "Geography",
+        "clue": "The science and practice of making maps"
+      },
+      "hard": {
+        "word": "KERAUNOSCOPY",
+        "category": "Weather",
+        "clue": "The study or observation of thunder and lightning"
+      }
+    },
+    "2026-05-29": {
+      "easy": {
+        "word": "WINDOW",
+        "category": "Parts of a house",
+        "clue": "An opening in a wall fitted with glass"
+      },
+      "medium": {
+        "word": "DUNGEON",
+        "category": "Architecture",
+        "clue": "A dark underground prison or cell"
+      },
+      "hard": {
+        "word": "LALOCHEZIA",
+        "category": "Psychology",
+        "clue": "The use of profane language to relieve pain or stress"
+      }
+    },
+    "2026-05-30": {
+      "easy": {
+        "word": "BAMBOO",
+        "category": "Plants",
+        "clue": "A tall woody grass with hollow stems"
+      },
+      "medium": {
+        "word": "ESTUARY",
+        "category": "Geography",
+        "clue": "The tidal mouth of a river where fresh and salt water mix"
+      },
+      "hard": {
+        "word": "MOROSOPH",
+        "category": "Human behaviour",
+        "clue": "A learned fool"
+      }
+    },
+    "2026-05-31": {
+      "easy": {
+        "word": "DIMPLE",
+        "category": "Parts of the body",
+        "clue": "A small hollow in the skin, often on a cheek"
+      },
+      "medium": {
+        "word": "FRESCO",
+        "category": "Art",
+        "clue": "A painting made on freshly laid plaster"
+      },
+      "hard": {
+        "word": "NACREOUS",
+        "category": "Natural materials",
+        "clue": "Having the lustrous appearance of mother-of-pearl"
+      }
+    },
+    "2026-11-17": {
+      "easy": {
+        "word": "TULIP",
+        "category": "PLANTS",
+        "clue": "A spring flower shaped like a cup."
+      },
+      "medium": {
+        "word": "KINETIC",
+        "category": "PHYSICS",
+        "clue": "Relating to motion."
+      },
+      "hard": {
+        "word": "PUSILLANIMOUS",
+        "category": "PERSONALITY",
+        "clue": "Showing a lack of courage or determination."
+      }
+    },
+    "2026-11-18": {
+      "easy": {
+        "word": "APPLE",
+        "category": "FOOD",
+        "clue": "A crisp fruit that can be red, green or yellow."
+      },
+      "medium": {
+        "word": "ANCHOR",
+        "category": "SAILING",
+        "clue": "A heavy device that keeps a ship in place."
+      },
+      "hard": {
+        "word": "ABYSSAL",
+        "category": "OCEANOGRAPHY",
+        "clue": "Relating to the deepest parts of the ocean."
+      }
+    },
+    "2026-11-19": {
+      "easy": {
+        "word": "TIGER",
+        "category": "ANIMALS",
+        "clue": "A striped big cat."
+      },
+      "medium": {
+        "word": "BRONZE",
+        "category": "MATERIALS",
+        "clue": "A metal alloy made mainly from copper and tin."
+      },
+      "hard": {
+        "word": "ABSCOND",
+        "category": "LAW",
+        "clue": "To leave secretly to avoid detection."
+      }
+    },
+    "2026-11-20": {
+      "easy": {
+        "word": "CHAIR",
+        "category": "OBJECTS",
+        "clue": "A seat with a back and usually four legs."
+      },
+      "medium": {
+        "word": "CANYON",
+        "category": "GEOGRAPHY",
+        "clue": "A deep valley with steep sides."
+      },
+      "hard": {
+        "word": "ACQUIESCE",
+        "category": "LANGUAGE",
+        "clue": "To accept something reluctantly but without protest."
+      }
+    },
+    "2026-11-21": {
+      "easy": {
+        "word": "BREAD",
+        "category": "FOOD",
+        "clue": "A baked staple made from flour."
+      },
+      "medium": {
+        "word": "DEBATE",
+        "category": "COMMUNICATION",
+        "clue": "A formal discussion with opposing arguments."
+      },
+      "hard": {
+        "word": "ALCHEMY",
+        "category": "HISTORY",
+        "clue": "An ancient practice seeking to transform base metals."
+      }
+    },
+    "2026-11-22": {
+      "easy": {
+        "word": "CLOUD",
+        "category": "WEATHER",
+        "clue": "A visible mass of tiny water droplets in the sky."
+      },
+      "medium": {
+        "word": "EMBLEM",
+        "category": "SYMBOLS",
+        "clue": "An object or design that represents an organisation."
+      },
+      "hard": {
+        "word": "ANACHRONISM",
+        "category": "HISTORY",
+        "clue": "Something placed in a period where it does not belong."
+      }
+    },
+    "2026-11-23": {
+      "easy": {
+        "word": "BEACH",
+        "category": "PLACES",
+        "clue": "A sandy or pebbly shore beside the sea."
+      },
+      "medium": {
+        "word": "FOSSIL",
+        "category": "SCIENCE",
+        "clue": "Preserved remains or traces of ancient life."
+      },
+      "hard": {
+        "word": "ANTHOLOGY",
+        "category": "LITERATURE",
+        "clue": "A published collection of selected writings."
+      }
+    },
+    "2026-11-24": {
+      "easy": {
+        "word": "TRAIN",
+        "category": "TRANSPORT",
+        "clue": "A vehicle that runs on railway tracks."
+      },
+      "medium": {
+        "word": "GALAXY",
+        "category": "SPACE",
+        "clue": "A huge system of stars, gas and dust."
+      },
+      "hard": {
+        "word": "APOCRYPHAL",
+        "category": "LITERATURE",
+        "clue": "Of doubtful authenticity, though widely circulated."
+      }
+    },
+    "2026-11-25": {
+      "easy": {
+        "word": "SMILE",
+        "category": "PEOPLE",
+        "clue": "A happy expression made with your mouth."
+      },
+      "medium": {
+        "word": "HAMLET",
+        "category": "PLACES",
+        "clue": "A very small settlement, smaller than a village."
+      },
+      "hard": {
+        "word": "ASTROLABE",
+        "category": "INSTRUMENTS",
+        "clue": "An ancient device used to model the heavens."
+      }
+    },
+    "2026-11-26": {
+      "easy": {
+        "word": "RIVER",
+        "category": "NATURE",
+        "clue": "A large natural stream of flowing water."
+      },
+      "medium": {
+        "word": "INSECT",
+        "category": "ANIMALS",
+        "clue": "A six-legged arthropod."
+      },
+      "hard": {
+        "word": "BELLWETHER",
+        "category": "SOCIETY",
+        "clue": "An indicator or predictor of future trends."
+      }
+    },
+    "2026-11-27": {
+      "easy": {
+        "word": "SPOON",
+        "category": "OBJECTS",
+        "clue": "A utensil used for eating soup."
+      },
+      "medium": {
+        "word": "JACKET",
+        "category": "CLOTHING",
+        "clue": "A short coat worn on the upper body."
+      },
+      "hard": {
+        "word": "CACOPHONY",
+        "category": "SOUNDS",
+        "clue": "A harsh mixture of unpleasant sounds."
+      }
+    },
+    "2026-11-28": {
+      "easy": {
+        "word": "HORSE",
+        "category": "ANIMALS",
+        "clue": "A large animal often used for riding."
+      },
+      "medium": {
+        "word": "KETTLE",
+        "category": "OBJECTS",
+        "clue": "A vessel used to boil water."
+      },
+      "hard": {
+        "word": "CALAMITOUS",
+        "category": "LANGUAGE",
+        "clue": "Involving great damage or disaster."
+      }
+    },
+    "2026-11-29": {
+      "easy": {
+        "word": "MUSIC",
+        "category": "ARTS",
+        "clue": "Organised sound, often with rhythm and melody."
+      },
+      "medium": {
+        "word": "LAGOON",
+        "category": "GEOGRAPHY",
+        "clue": "A shallow body of water separated from the sea."
+      },
+      "hard": {
+        "word": "CAPRICIOUS",
+        "category": "PERSONALITY",
+        "clue": "Given to sudden and unpredictable changes."
+      }
+    },
+    "2026-11-30": {
+      "easy": {
+        "word": "PLANT",
+        "category": "NATURE",
+        "clue": "A living thing that grows in soil."
+      },
+      "medium": {
+        "word": "MARBLE",
+        "category": "MATERIALS",
+        "clue": "A hard stone often used in sculpture."
+      },
+      "hard": {
+        "word": "CHIMERICAL",
+        "category": "LANGUAGE",
+        "clue": "Imaginary or wildly fanciful."
+      }
+    },
+    "2026-12-01": {
+      "easy": {
+        "word": "HOUSE",
+        "category": "PLACES",
+        "clue": "A building where people live."
+      },
+      "medium": {
+        "word": "NECTAR",
+        "category": "NATURE",
+        "clue": "A sweet liquid produced by flowers."
+      },
+      "hard": {
+        "word": "CHRONICLE",
+        "category": "HISTORY",
+        "clue": "A factual written account of events in order."
+      }
+    },
+    "2026-12-02": {
+      "easy": {
+        "word": "GRAPE",
+        "category": "FOOD",
+        "clue": "A small round fruit that grows in bunches."
+      },
+      "medium": {
+        "word": "OYSTER",
+        "category": "ANIMALS",
+        "clue": "A shellfish that can produce pearls."
+      },
+      "hard": {
+        "word": "CIRCUMLOCUTION",
+        "category": "LANGUAGE",
+        "clue": "Using many words where fewer would do."
+      }
+    },
+    "2026-12-03": {
+      "easy": {
+        "word": "SHEEP",
+        "category": "ANIMALS",
+        "clue": "A woolly farm animal."
+      },
+      "medium": {
+        "word": "PARROT",
+        "category": "ANIMALS",
+        "clue": "A colourful bird able to mimic sounds."
+      },
+      "hard": {
+        "word": "CONUNDRUM",
+        "category": "PUZZLES",
+        "clue": "A confusing or difficult problem."
+      }
+    },
+    "2026-12-04": {
+      "easy": {
+        "word": "CLOCK",
+        "category": "OBJECTS",
+        "clue": "A device that tells the time."
+      },
+      "medium": {
+        "word": "QUARTZ",
+        "category": "GEOLOGY",
+        "clue": "A common mineral made of silicon dioxide."
+      },
+      "hard": {
+        "word": "DELETERIOUS",
+        "category": "SCIENCE",
+        "clue": "Causing harm or damage."
+      }
+    },
+    "2026-12-05": {
+      "easy": {
+        "word": "LIGHT",
+        "category": "SCIENCE",
+        "clue": "The energy that lets us see."
+      },
+      "medium": {
+        "word": "RIDDLE",
+        "category": "GAMES",
+        "clue": "A question or statement requiring clever thought."
+      },
+      "hard": {
+        "word": "DEMOGRAPHIC",
+        "category": "ECONOMICS",
+        "clue": "Relating to the statistical study of populations."
+      }
+    },
+    "2026-12-06": {
+      "easy": {
+        "word": "PIZZA",
+        "category": "FOOD",
+        "clue": "A baked dish often topped with cheese."
+      },
+      "medium": {
+        "word": "STATUE",
+        "category": "ARTS",
+        "clue": "A three-dimensional representation of a figure."
+      },
+      "hard": {
+        "word": "DIAPHANOUS",
+        "category": "LANGUAGE",
+        "clue": "Light, delicate and almost transparent."
+      }
+    },
+    "2026-12-07": {
+      "easy": {
+        "word": "SNAKE",
+        "category": "ANIMALS",
+        "clue": "A long reptile with no legs."
+      },
+      "medium": {
+        "word": "TEMPLE",
+        "category": "PLACES",
+        "clue": "A building used for religious worship."
+      },
+      "hard": {
+        "word": "DICHOTOMY",
+        "category": "PHILOSOPHY",
+        "clue": "A division into two sharply contrasting groups."
+      }
+    },
+    "2026-12-08": {
+      "easy": {
+        "word": "GREEN",
+        "category": "COLOURS",
+        "clue": "The colour of fresh grass."
+      },
+      "medium": {
+        "word": "UNISON",
+        "category": "MUSIC",
+        "clue": "The performance of the same notes together."
+      },
+      "hard": {
+        "word": "DILATORY",
+        "category": "LANGUAGE",
+        "clue": "Slow to act, especially to delay something."
+      }
+    },
+    "2026-12-09": {
+      "easy": {
+        "word": "PILOT",
+        "category": "JOBS",
+        "clue": "A person who flies an aircraft."
+      },
+      "medium": {
+        "word": "VIOLET",
+        "category": "PLANTS",
+        "clue": "A small flowering plant, also a colour."
+      },
+      "hard": {
+        "word": "EBULLIENT",
+        "category": "PERSONALITY",
+        "clue": "Cheerful and full of energy."
+      }
+    },
+    "2026-12-10": {
+      "easy": {
+        "word": "PAPER",
+        "category": "OBJECTS",
+        "clue": "A thin material used for writing and printing."
+      },
+      "medium": {
+        "word": "WALNUT",
+        "category": "FOOD",
+        "clue": "An edible nut with a wrinkled shell."
+      },
+      "hard": {
+        "word": "EFFERVESCENT",
+        "category": "CHEMISTRY",
+        "clue": "Giving off bubbles of gas."
+      }
+    },
+    "2026-12-11": {
+      "easy": {
+        "word": "MOUSE",
+        "category": "ANIMALS",
+        "clue": "A small rodent with a long tail."
+      },
+      "medium": {
+        "word": "XYLOPHONE",
+        "category": "MUSIC",
+        "clue": "A percussion instrument with tuned wooden bars."
+      },
+      "hard": {
+        "word": "ELOQUENT",
+        "category": "COMMUNICATION",
+        "clue": "Fluent or persuasive in speaking or writing."
+      }
+    },
+    "2026-12-12": {
+      "easy": {
+        "word": "STONE",
+        "category": "NATURE",
+        "clue": "A small piece of rock."
+      },
+      "medium": {
+        "word": "YACHTS",
+        "category": "SAILING",
+        "clue": "Recreational boats used for cruising or racing."
+      },
+      "hard": {
+        "word": "EPHEMERAL",
+        "category": "PHILOSOPHY",
+        "clue": "Lasting for a very short time."
+      }
+    },
+    "2026-12-13": {
+      "easy": {
+        "word": "WATER",
+        "category": "NATURE",
+        "clue": "A clear liquid essential for life."
+      },
+      "medium": {
+        "word": "ZENITH",
+        "category": "ASTRONOMY",
+        "clue": "The point in the sky directly overhead."
+      },
+      "hard": {
+        "word": "EQUIVOCAL",
+        "category": "LANGUAGE",
+        "clue": "Open to more than one interpretation."
+      }
+    },
+    "2026-12-14": {
+      "easy": {
+        "word": "BERRY",
+        "category": "FOOD",
+        "clue": "A small juicy fruit."
+      },
+      "medium": {
+        "word": "ACROBAT",
+        "category": "PERFORMING ARTS",
+        "clue": "A performer skilled in agility and balance."
+      },
+      "hard": {
+        "word": "ESOTERIC",
+        "category": "KNOWLEDGE",
+        "clue": "Intended for or understood by a small group."
+      }
+    },
+    "2026-12-15": {
+      "easy": {
+        "word": "CROWN",
+        "category": "OBJECTS",
+        "clue": "A headpiece worn by a monarch."
+      },
+      "medium": {
+        "word": "BICYCLE",
+        "category": "TRANSPORT",
+        "clue": "A two-wheeled vehicle powered by pedals."
+      },
+      "hard": {
+        "word": "EXACERBATE",
+        "category": "LANGUAGE",
+        "clue": "To make a problem or bad situation worse."
+      }
+    },
+    "2026-12-16": {
+      "easy": {
+        "word": "SUGAR",
+        "category": "FOOD",
+        "clue": "A sweet substance used in desserts."
+      },
+      "medium": {
+        "word": "CIRCUIT",
+        "category": "ELECTRONICS",
+        "clue": "A complete path through which electric current flows."
+      },
+      "hard": {
+        "word": "FASTIDIOUS",
+        "category": "PERSONALITY",
+        "clue": "Very attentive to detail and cleanliness."
+      }
+    },
+    "2026-12-17": {
+      "easy": {
+        "word": "FIELD",
+        "category": "PLACES",
+        "clue": "An open area of land, often used for crops."
+      },
+      "medium": {
+        "word": "DOLPHIN",
+        "category": "ANIMALS",
+        "clue": "An intelligent marine mammal."
+      },
+      "hard": {
+        "word": "FELICITY",
+        "category": "LANGUAGE",
+        "clue": "Intense happiness or apt expression."
+      }
+    },
+    "2026-12-18": {
+      "easy": {
+        "word": "TOWER",
+        "category": "STRUCTURES",
+        "clue": "A tall narrow building or structure."
+      },
+      "medium": {
+        "word": "ECLIPSE",
+        "category": "ASTRONOMY",
+        "clue": "An event in which one celestial body obscures another."
+      },
+      "hard": {
+        "word": "GARRULOUS",
+        "category": "PERSONALITY",
+        "clue": "Excessively talkative, especially about trivial matters."
+      }
+    },
+    "2026-12-19": {
+      "easy": {
+        "word": "HEART",
+        "category": "BODY",
+        "clue": "The organ that pumps blood."
+      },
+      "medium": {
+        "word": "FURNACE",
+        "category": "MACHINERY",
+        "clue": "An enclosed unit used for high-temperature heating."
+      },
+      "hard": {
+        "word": "GRANDILOQUENT",
+        "category": "LANGUAGE",
+        "clue": "Using pompous or extravagant language."
+      }
+    },
+    "2026-12-20": {
+      "easy": {
+        "word": "LEMON",
+        "category": "FOOD",
+        "clue": "A sour yellow citrus fruit."
+      },
+      "medium": {
+        "word": "GLACIER",
+        "category": "GEOGRAPHY",
+        "clue": "A slow-moving mass of ice."
+      },
+      "hard": {
+        "word": "IDIOSYNCRASY",
+        "category": "PSYCHOLOGY",
+        "clue": "A distinctive or peculiar personal habit."
+      }
+    },
+    "2026-12-21": {
+      "easy": {
+        "word": "SPARK",
+        "category": "SCIENCE",
+        "clue": "A tiny flash of fire or electricity."
+      },
+      "medium": {
+        "word": "HORIZON",
+        "category": "GEOGRAPHY",
+        "clue": "The apparent line where earth and sky meet."
+      },
+      "hard": {
+        "word": "IMPECUNIOUS",
+        "category": "LANGUAGE",
+        "clue": "Having little or no money."
+      }
+    },
+    "2026-12-22": {
+      "easy": {
+        "word": "DRUMS",
+        "category": "MUSIC",
+        "clue": "Percussion instruments played by striking."
+      },
+      "medium": {
+        "word": "IVORY",
+        "category": "MATERIALS",
+        "clue": "A hard pale material from animal tusks."
+      },
+      "hard": {
+        "word": "INCHOATE",
+        "category": "LANGUAGE",
+        "clue": "Just begun and not fully formed."
+      }
+    },
+    "2026-12-23": {
+      "easy": {
+        "word": "BROOM",
+        "category": "OBJECTS",
+        "clue": "A tool used to sweep floors."
+      },
+      "medium": {
+        "word": "JASMINE",
+        "category": "PLANTS",
+        "clue": "A fragrant flowering shrub."
+      },
+      "hard": {
+        "word": "INEFFABLE",
+        "category": "PHILOSOPHY",
+        "clue": "Too great or extreme to be expressed in words."
+      }
+    },
+    "2026-12-24": {
+      "easy": {
+        "word": "PLANE",
+        "category": "TRANSPORT",
+        "clue": "An aircraft with wings."
+      },
+      "medium": {
+        "word": "KARAOKE",
+        "category": "ENTERTAINMENT",
+        "clue": "Singing along to recorded music."
+      },
+      "hard": {
+        "word": "INSCRUTABLE",
+        "category": "PERSONALITY",
+        "clue": "Impossible to understand or interpret."
+      }
+    },
+    "2026-12-25": {
+      "easy": {
+        "word": "TOWEL",
+        "category": "OBJECTS",
+        "clue": "A cloth used to dry yourself."
+      },
+      "medium": {
+        "word": "LEOPARD",
+        "category": "ANIMALS",
+        "clue": "A large spotted wild cat."
+      },
+      "hard": {
+        "word": "LACHRYMOSE",
+        "category": "LANGUAGE",
+        "clue": "Tearful or given to weeping."
+      }
+    },
+    "2026-12-26": {
+      "easy": {
+        "word": "ZEBRA",
+        "category": "ANIMALS",
+        "clue": "An African animal with black-and-white stripes."
+      },
+      "medium": {
+        "word": "MOSAIC",
+        "category": "ARTS",
+        "clue": "An image made from small pieces of coloured material."
+      },
+      "hard": {
+        "word": "LUGUBRIOUS",
+        "category": "LANGUAGE",
+        "clue": "Looking or sounding mournful and gloomy."
+      }
+    },
+    "2026-12-27": {
+      "easy": {
+        "word": "NURSE",
+        "category": "JOBS",
+        "clue": "A healthcare professional who cares for patients."
+      },
+      "medium": {
+        "word": "NEBULA",
+        "category": "SPACE",
+        "clue": "A cloud of gas and dust in space."
+      },
+      "hard": {
+        "word": "MAGNANIMOUS",
+        "category": "PERSONALITY",
+        "clue": "Generous and forgiving, especially toward a rival."
+      }
+    },
+    "2026-12-28": {
+      "easy": {
+        "word": "GRASS",
+        "category": "NATURE",
+        "clue": "A green plant that covers many lawns."
+      },
+      "medium": {
+        "word": "OCTOPUS",
+        "category": "ANIMALS",
+        "clue": "A sea creature with eight arms."
+      },
+      "hard": {
+        "word": "MELLIFLUOUS",
+        "category": "SOUNDS",
+        "clue": "Sweet or musical to hear."
+      }
+    },
+    "2026-12-29": {
+      "easy": {
+        "word": "FRUIT",
+        "category": "FOOD",
+        "clue": "The sweet or fleshy product of a plant."
+      },
+      "medium": {
+        "word": "PENGUIN",
+        "category": "ANIMALS",
+        "clue": "A flightless seabird that swims."
+      },
+      "hard": {
+        "word": "METICULOUS",
+        "category": "PERSONALITY",
+        "clue": "Showing great attention to detail."
+      }
+    },
+    "2026-12-30": {
+      "easy": {
+        "word": "SWEET",
+        "category": "FOOD",
+        "clue": "A sugary treat or confection."
+      },
+      "medium": {
+        "word": "QUARREL",
+        "category": "PEOPLE",
+        "clue": "An angry argument or disagreement."
+      },
+      "hard": {
+        "word": "OBFUSCATE",
+        "category": "LANGUAGE",
+        "clue": "To make something deliberately unclear."
+      }
+    },
+    "2026-12-31": {
+      "easy": {
+        "word": "RADIO",
+        "category": "TECHNOLOGY",
+        "clue": "A device that receives audio broadcasts."
+      },
+      "medium": {
+        "word": "RADIANT",
+        "category": "SCIENCE",
+        "clue": "Emitting or reflecting light or heat."
+      },
+      "hard": {
+        "word": "OBSEQUIOUS",
+        "category": "PERSONALITY",
+        "clue": "Excessively eager to please or obey."
+      }
+    },
+    "2027-01-01": {
+      "easy": {
+        "word": "BRUSH",
+        "category": "OBJECTS",
+        "clue": "A tool with bristles for cleaning or grooming."
+      },
+      "medium": {
+        "word": "SAPPHIRE",
+        "category": "GEMS",
+        "clue": "A precious gemstone, usually blue."
+      },
+      "hard": {
+        "word": "OSTRACIZE",
+        "category": "SOCIETY",
+        "clue": "To exclude someone from a group."
+      }
+    },
+    "2027-01-02": {
+      "easy": {
+        "word": "SOUTH",
+        "category": "DIRECTIONS",
+        "clue": "The compass direction opposite north."
+      },
+      "medium": {
+        "word": "TAPESTRY",
+        "category": "ARTS",
+        "clue": "A decorative woven wall hanging."
+      },
+      "hard": {
+        "word": "PRODIGAL",
+        "category": "LANGUAGE",
+        "clue": "Spending money or resources freely and wastefully."
+      }
+    },
+    "2027-01-03": {
+      "easy": {
+        "word": "NORTH",
+        "category": "DIRECTIONS",
+        "clue": "The compass direction toward the top of most maps."
+      },
+      "medium": {
+        "word": "UMBRELLA",
+        "category": "OBJECTS",
+        "clue": "A folding canopy used for protection from rain."
+      },
+      "hard": {
+        "word": "PERSPICACIOUS",
+        "category": "PERSONALITY",
+        "clue": "Having a ready insight into things."
+      }
+    },
+    "2027-01-04": {
+      "easy": {
+        "word": "ROBOT",
+        "category": "TECHNOLOGY",
+        "clue": "A machine that can perform tasks automatically."
+      },
+      "medium": {
+        "word": "VAMPIRE",
+        "category": "FICTION",
+        "clue": "A mythical being said to drink blood."
+      },
+      "hard": {
+        "word": "PARSIMONY",
+        "category": "PERSONALITY",
+        "clue": "Extreme unwillingness to spend money or use resources."
+      }
+    },
+    "2027-01-05": {
+      "easy": {
+        "word": "SKATE",
+        "category": "SPORTS",
+        "clue": "To glide on wheels or blades."
+      },
+      "medium": {
+        "word": "WHISPER",
+        "category": "SOUNDS",
+        "clue": "To speak very softly."
+      },
+      "hard": {
+        "word": "PROCLIVITY",
+        "category": "PSYCHOLOGY",
+        "clue": "A natural tendency to behave in a particular way."
+      }
+    },
+    "2027-01-06": {
+      "easy": {
+        "word": "SWORD",
+        "category": "OBJECTS",
+        "clue": "A long bladed weapon used historically."
+      },
+      "medium": {
+        "word": "YOGURT",
+        "category": "FOOD",
+        "clue": "A tangy food made by fermenting milk."
+      },
+      "hard": {
+        "word": "QUINTESSENCE",
+        "category": "PHILOSOPHY",
+        "clue": "The most perfect example of a quality."
+      }
+    },
+    "2027-01-07": {
+      "easy": {
+        "word": "SCALE",
+        "category": "TOOLS",
+        "clue": "An instrument used to measure weight."
+      },
+      "medium": {
+        "word": "ZODIAC",
+        "category": "ASTROLOGY",
+        "clue": "A belt of twelve constellations."
+      },
+      "hard": {
+        "word": "RECALCITRANT",
+        "category": "PERSONALITY",
+        "clue": "Stubbornly resistant to authority or control."
+      }
+    },
+    "2027-01-08": {
+      "easy": {
+        "word": "MANGO",
+        "category": "FOOD",
+        "clue": "A sweet tropical stone fruit."
+      },
+      "medium": {
+        "word": "ARCHIVE",
+        "category": "INFORMATION",
+        "clue": "A collection of historical records."
+      },
+      "hard": {
+        "word": "RECONDITE",
+        "category": "KNOWLEDGE",
+        "clue": "Little known or difficult to understand."
+      }
+    },
+    "2027-01-09": {
+      "easy": {
+        "word": "PANDA",
+        "category": "ANIMALS",
+        "clue": "A black-and-white bear that eats bamboo."
+      },
+      "medium": {
+        "word": "BLOSSOM",
+        "category": "PLANTS",
+        "clue": "A flower, especially on a fruit tree."
+      },
+      "hard": {
+        "word": "SAGACIOUS",
+        "category": "PERSONALITY",
+        "clue": "Having good judgement and wisdom."
+      }
+    },
+    "2027-01-10": {
+      "easy": {
+        "word": "SLOTH",
+        "category": "ANIMALS",
+        "clue": "A slow-moving mammal that lives in trees."
+      },
+      "medium": {
+        "word": "COMPASS",
+        "category": "TOOLS",
+        "clue": "An instrument used to determine direction."
+      },
+      "hard": {
+        "word": "SOPORIFIC",
+        "category": "SCIENCE",
+        "clue": "Tending to induce sleep."
+      }
+    },
+    "2027-01-11": {
+      "easy": {
+        "word": "FROST",
+        "category": "WEATHER",
+        "clue": "A thin layer of ice crystals."
+      },
+      "medium": {
+        "word": "DYNAMIC",
+        "category": "PHYSICS",
+        "clue": "Relating to forces or motion."
+      },
+      "hard": {
+        "word": "SUPERCILIOUS",
+        "category": "PERSONALITY",
+        "clue": "Behaving as though one is superior to others."
+      }
+    },
+    "2027-01-12": {
+      "easy": {
+        "word": "STORM",
+        "category": "WEATHER",
+        "clue": "A period of violent weather."
+      },
+      "medium": {
+        "word": "ENIGMA",
+        "category": "IDEAS",
+        "clue": "Something mysterious or difficult to understand."
+      },
+      "hard": {
+        "word": "SYNECDOCHE",
+        "category": "LITERATURE",
+        "clue": "A figure of speech using a part to represent a whole."
+      }
+    },
+    "2027-01-13": {
+      "easy": {
+        "word": "SPACE",
+        "category": "SCIENCE",
+        "clue": "The vast region beyond Earth's atmosphere."
+      },
+      "medium": {
+        "word": "FALCON",
+        "category": "ANIMALS",
+        "clue": "A fast-flying bird of prey."
+      },
+      "hard": {
+        "word": "TACITURN",
+        "category": "PERSONALITY",
+        "clue": "Reserved or saying very little."
+      }
+    },
+    "2027-01-14": {
+      "easy": {
+        "word": "EARTH",
+        "category": "SPACE",
+        "clue": "The planet on which we live."
+      },
+      "medium": {
+        "word": "GRANITE",
+        "category": "GEOLOGY",
+        "clue": "A coarse-grained igneous rock."
+      },
+      "hard": {
+        "word": "TANTAMOUNT",
+        "category": "LANGUAGE",
+        "clue": "Equivalent in seriousness or effect."
+      }
+    },
+    "2027-01-15": {
+      "easy": {
+        "word": "SOUND",
+        "category": "SCIENCE",
+        "clue": "Vibrations that can be heard."
+      },
+      "medium": {
+        "word": "HARVEST",
+        "category": "AGRICULTURE",
+        "clue": "The gathering of a crop."
+      },
+      "hard": {
+        "word": "UBIQUITOUS",
+        "category": "LANGUAGE",
+        "clue": "Present, appearing or found everywhere."
+      }
+    },
+    "2027-01-16": {
+      "easy": {
+        "word": "FLAME",
+        "category": "NATURE",
+        "clue": "The visible, hot part of a fire."
+      },
+      "medium": {
+        "word": "IMPULSE",
+        "category": "PSYCHOLOGY",
+        "clue": "A sudden strong urge to act."
+      },
+      "hard": {
+        "word": "VERISIMILITUDE",
+        "category": "LITERATURE",
+        "clue": "The appearance of being true or real."
+      }
+    },
+    "2027-01-17": {
+      "easy": {
+        "word": "CANDY",
+        "category": "FOOD",
+        "clue": "A sweet sugary confection."
+      },
+      "medium": {
+        "word": "JOURNAL",
+        "category": "WRITING",
+        "clue": "A record of daily events or observations."
+      },
+      "hard": {
+        "word": "VITUPERATE",
+        "category": "LANGUAGE",
+        "clue": "To criticise or insult in bitter language."
       }
     }
   }
