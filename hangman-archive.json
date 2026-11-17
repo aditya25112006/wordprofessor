@@ -1583,6 +1583,482 @@
         "category": "PERSONALITY",
         "clue": "Habitually complaining or expressing dissatisfaction."
       }
+    },
+    "2026-02-01": {
+      "easy": {
+        "word": "ACORN",
+        "category": "PLANTS",
+        "clue": "The seed of an oak tree."
+      },
+      "medium": {
+        "word": "ARDUOUS",
+        "category": "CHALLENGE",
+        "clue": "Demanding great effort or endurance."
+      },
+      "hard": {
+        "word": "ABERRATION",
+        "category": "PSYCHOLOGY",
+        "clue": "A departure from what is normal, usual, or expected."
+      }
+    },
+    "2026-02-02": {
+      "easy": {
+        "word": "BADGE",
+        "category": "OBJECTS",
+        "clue": "A small sign worn to show membership or rank."
+      },
+      "medium": {
+        "word": "BANYAN",
+        "category": "PLANTS",
+        "clue": "A fig tree whose branches send roots down to the ground."
+      },
+      "hard": {
+        "word": "BATHYSPHERE",
+        "category": "OCEANOGRAPHY",
+        "clue": "A deep-sea diving vessel shaped like a sphere."
+      }
+    },
+    "2026-02-03": {
+      "easy": {
+        "word": "CIDER",
+        "category": "DRINK",
+        "clue": "A drink made from pressed apples."
+      },
+      "medium": {
+        "word": "CHISEL",
+        "category": "TOOLS",
+        "clue": "A sharp-edged tool used to carve wood or stone."
+      },
+      "hard": {
+        "word": "CHRONOLOGY",
+        "category": "HISTORY",
+        "clue": "The arrangement of events in the order they occurred."
+      }
+    },
+    "2026-02-04": {
+      "easy": {
+        "word": "DAISY",
+        "category": "PLANTS",
+        "clue": "A flower with a yellow centre and white petals."
+      },
+      "medium": {
+        "word": "DORMANT",
+        "category": "BIOLOGY",
+        "clue": "Temporarily inactive, as a seed in winter."
+      },
+      "hard": {
+        "word": "DISSIDENT",
+        "category": "POLITICS",
+        "clue": "A person who publicly disagrees with an established authority."
+      }
+    },
+    "2026-02-05": {
+      "easy": {
+        "word": "ELBOW",
+        "category": "BODY",
+        "clue": "The joint in the middle of your arm."
+      },
+      "medium": {
+        "word": "EMERALD",
+        "category": "GEMSTONE",
+        "clue": "A precious green variety of beryl."
+      },
+      "hard": {
+        "word": "EXCORIATE",
+        "category": "LANGUAGE",
+        "clue": "To criticise someone or something very severely."
+      }
+    },
+    "2026-02-06": {
+      "easy": {
+        "word": "FAIRY",
+        "category": "FOLKLORE",
+        "clue": "A tiny magical being from traditional stories."
+      },
+      "medium": {
+        "word": "FALLOUT",
+        "category": "SCIENCE",
+        "clue": "Radioactive particles left after a nuclear explosion."
+      },
+      "hard": {
+        "word": "FORBEARANCE",
+        "category": "VIRTUE",
+        "clue": "Patient self-control, especially when provoked."
+      }
+    },
+    "2026-02-07": {
+      "easy": {
+        "word": "GIANT",
+        "category": "FOLKLORE",
+        "clue": "A person or creature of enormous size."
+      },
+      "medium": {
+        "word": "GRANARY",
+        "category": "AGRICULTURE",
+        "clue": "A building used to store harvested grain."
+      },
+      "hard": {
+        "word": "GLEANINGS",
+        "category": "AGRICULTURE",
+        "clue": "Small pieces of information or produce gathered bit by bit."
+      }
+    },
+    "2026-02-08": {
+      "easy": {
+        "word": "HATCH",
+        "category": "ANIMALS",
+        "clue": "The act of a young bird emerging from an egg."
+      },
+      "medium": {
+        "word": "HOLLOW",
+        "category": "GEOGRAPHY",
+        "clue": "A small valley or depression in the land."
+      },
+      "hard": {
+        "word": "HAGIOGRAPHY",
+        "category": "LITERATURE",
+        "clue": "A biography that presents its subject as idealised or saintly."
+      }
+    },
+    "2026-02-09": {
+      "easy": {
+        "word": "JAUNT",
+        "category": "TRAVEL",
+        "clue": "A short journey taken for pleasure."
+      },
+      "medium": {
+        "word": "IMPASSE",
+        "category": "SITUATION",
+        "clue": "A deadlock where no progress can be made."
+      },
+      "hard": {
+        "word": "INELUCTABLE",
+        "category": "PHILOSOPHY",
+        "clue": "Impossible to avoid or escape."
+      }
+    },
+    "2026-02-10": {
+      "easy": {
+        "word": "KOALA",
+        "category": "ANIMALS",
+        "clue": "An Australian tree-dwelling marsupial that eats eucalyptus leaves."
+      },
+      "medium": {
+        "word": "JAVELIN",
+        "category": "SPORTS",
+        "clue": "A spear thrown as an athletic event."
+      },
+      "hard": {
+        "word": "JUDICATURE",
+        "category": "LAW",
+        "clue": "The administration of justice or the judicial system."
+      }
+    },
+    "2026-02-11": {
+      "easy": {
+        "word": "LILAC",
+        "category": "PLANTS",
+        "clue": "A shrub with clusters of fragrant flowers."
+      },
+      "medium": {
+        "word": "KESTREL",
+        "category": "BIRDS",
+        "clue": "A small falcon that often hovers while hunting."
+      },
+      "hard": {
+        "word": "KLEPTOMANIA",
+        "category": "PSYCHOLOGY",
+        "clue": "A compulsion to steal things, often without need."
+      }
+    },
+    "2026-02-12": {
+      "easy": {
+        "word": "MAPLE",
+        "category": "PLANTS",
+        "clue": "A tree known for its distinctive leaves and sweet sap."
+      },
+      "medium": {
+        "word": "LETHARGY",
+        "category": "HEALTH",
+        "clue": "A state of sluggishness and low energy."
+      },
+      "hard": {
+        "word": "LIMNOLOGY",
+        "category": "SCIENCE",
+        "clue": "The study of inland bodies of water."
+      }
+    },
+    "2026-02-13": {
+      "easy": {
+        "word": "NICHE",
+        "category": "ECOLOGY",
+        "clue": "The role a species plays in its environment."
+      },
+      "medium": {
+        "word": "MANTLE",
+        "category": "GEOLOGY",
+        "clue": "The thick layer between Earth's crust and core."
+      },
+      "hard": {
+        "word": "MUNIFICENT",
+        "category": "PERSONALITY",
+        "clue": "More generous than is usual or expected."
+      }
+    },
+    "2026-02-14": {
+      "easy": {
+        "word": "OLIVE",
+        "category": "FOOD",
+        "clue": "A small fruit often pressed to make oil."
+      },
+      "medium": {
+        "word": "NOSTRIL",
+        "category": "BODY",
+        "clue": "One of the two openings of the nose."
+      },
+      "hard": {
+        "word": "NONCHALANT",
+        "category": "PERSONALITY",
+        "clue": "Calm and unconcerned, even in a difficult situation."
+      }
+    },
+    "2026-02-15": {
+      "easy": {
+        "word": "PATCH",
+        "category": "CLOTHING",
+        "clue": "A piece of material used to cover a hole."
+      },
+      "medium": {
+        "word": "OCTAGON",
+        "category": "GEOMETRY",
+        "clue": "A polygon with eight sides."
+      },
+      "hard": {
+        "word": "OBSTREPEROUS",
+        "category": "BEHAVIOUR",
+        "clue": "Noisy, aggressive, and difficult to control."
+      }
+    },
+    "2026-02-16": {
+      "easy": {
+        "word": "QUAIL",
+        "category": "BIRDS",
+        "clue": "A small ground-dwelling game bird."
+      },
+      "medium": {
+        "word": "PENDULUM",
+        "category": "PHYSICS",
+        "clue": "A weight that swings from a fixed point."
+      },
+      "hard": {
+        "word": "PALLIATIVE",
+        "category": "MEDICINE",
+        "clue": "Relieving symptoms without addressing the underlying cause."
+      }
+    },
+    "2026-02-17": {
+      "easy": {
+        "word": "RANCH",
+        "category": "AGRICULTURE",
+        "clue": "A large farm where cattle or horses are raised."
+      },
+      "medium": {
+        "word": "QUORUM",
+        "category": "GOVERNMENT",
+        "clue": "The minimum number of members needed for a meeting to proceed."
+      },
+      "hard": {
+        "word": "QUADRUMVIR",
+        "category": "HISTORY",
+        "clue": "One of four men sharing political or administrative power."
+      }
+    },
+    "2026-02-18": {
+      "easy": {
+        "word": "SALAD",
+        "category": "FOOD",
+        "clue": "A dish usually made from mixed raw vegetables."
+      },
+      "medium": {
+        "word": "RUSTIC",
+        "category": "STYLE",
+        "clue": "Having a simple, countryside character."
+      },
+      "hard": {
+        "word": "RAPPROCHEMENT",
+        "category": "DIPLOMACY",
+        "clue": "The re-establishment of friendly relations between groups or countries."
+      }
+    },
+    "2026-02-19": {
+      "easy": {
+        "word": "TALON",
+        "category": "ANIMALS",
+        "clue": "A sharp hooked claw of a bird of prey."
+      },
+      "medium": {
+        "word": "SENTINEL",
+        "category": "SECURITY",
+        "clue": "A guard who keeps watch."
+      },
+      "hard": {
+        "word": "SINECURE",
+        "category": "EMPLOYMENT",
+        "clue": "A position requiring little work but providing a salary."
+      }
+    },
+    "2026-02-20": {
+      "easy": {
+        "word": "USHER",
+        "category": "JOBS",
+        "clue": "A person who guides people to their seats."
+      },
+      "medium": {
+        "word": "TERRACE",
+        "category": "ARCHITECTURE",
+        "clue": "A level paved area or a row of houses."
+      },
+      "hard": {
+        "word": "TURPITUDE",
+        "category": "ETHICS",
+        "clue": "Depraved or shamefully immoral behaviour."
+      }
+    },
+    "2026-02-21": {
+      "easy": {
+        "word": "VENOM",
+        "category": "ANIMALS",
+        "clue": "Poison injected by some animals through a bite or sting."
+      },
+      "medium": {
+        "word": "UNRULY",
+        "category": "BEHAVIOUR",
+        "clue": "Difficult to control or discipline."
+      },
+      "hard": {
+        "word": "UNCTUOUS",
+        "category": "PERSONALITY",
+        "clue": "Excessively flattering or insincerely earnest."
+      }
+    },
+    "2026-02-22": {
+      "easy": {
+        "word": "WALTZ",
+        "category": "DANCE",
+        "clue": "A ballroom dance in triple time."
+      },
+      "medium": {
+        "word": "VARNISH",
+        "category": "MATERIALS",
+        "clue": "A clear coating used to protect and shine wood."
+      },
+      "hard": {
+        "word": "VITUPEROUS",
+        "category": "LANGUAGE",
+        "clue": "Bitterly abusive or full of harsh criticism."
+      }
+    },
+    "2026-02-23": {
+      "easy": {
+        "word": "YEARN",
+        "category": "EMOTION",
+        "clue": "To long strongly for something."
+      },
+      "medium": {
+        "word": "WARRANT",
+        "category": "LAW",
+        "clue": "A document authorising an action, such as an arrest."
+      },
+      "hard": {
+        "word": "WRAITHLIKE",
+        "category": "FOLKLORE",
+        "clue": "Resembling a ghost or spirit."
+      }
+    },
+    "2026-02-24": {
+      "easy": {
+        "word": "ZESTY",
+        "category": "TASTE",
+        "clue": "Having a lively, strong flavour."
+      },
+      "medium": {
+        "word": "YEOMAN",
+        "category": "HISTORY",
+        "clue": "A person who owned and cultivated a small farm."
+      },
+      "hard": {
+        "word": "XANTHIC",
+        "category": "SCIENCE",
+        "clue": "Having a yellowish colour."
+      }
+    },
+    "2026-02-25": {
+      "easy": {
+        "word": "ADOBE",
+        "category": "BUILDING",
+        "clue": "A sun-dried brick made from clay and straw."
+      },
+      "medium": {
+        "word": "ZEALOT",
+        "category": "PERSONALITY",
+        "clue": "A person devoted fanatically to a cause."
+      },
+      "hard": {
+        "word": "YEARNINGLY",
+        "category": "EMOTION",
+        "clue": "In a manner showing deep longing or desire."
+      }
+    },
+    "2026-02-26": {
+      "easy": {
+        "word": "BLINK",
+        "category": "BODY",
+        "clue": "To quickly close and open your eyes."
+      },
+      "medium": {
+        "word": "BOLSTER",
+        "category": "ACTION",
+        "clue": "To support or strengthen something."
+      },
+      "hard": {
+        "word": "ZOOPHILOUS",
+        "category": "BIOLOGY",
+        "clue": "Having an affinity for or being pollinated by animals."
+      }
+    },
+    "2026-02-27": {
+      "easy": {
+        "word": "CRANE",
+        "category": "BIRDS",
+        "clue": "A tall long-legged bird, or a machine for lifting loads."
+      },
+      "medium": {
+        "word": "CAVERN",
+        "category": "GEOLOGY",
+        "clue": "A large underground chamber or cave."
+      },
+      "hard": {
+        "word": "APOTHEOSIS",
+        "category": "PHILOSOPHY",
+        "clue": "The highest point of development or perfection."
+      }
+    },
+    "2026-02-28": {
+      "easy": {
+        "word": "DUSKY",
+        "category": "COLOUR",
+        "clue": "Somewhat dark in shade or appearance."
+      },
+      "medium": {
+        "word": "DILEMMA",
+        "category": "DECISION",
+        "clue": "A difficult situation requiring a choice between options."
+      },
+      "hard": {
+        "word": "BRONTOSAURUS",
+        "category": "PALEONTOLOGY",
+        "clue": "A huge long-necked plant-eating dinosaur."
+      }
     }
   }
 }
