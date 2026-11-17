@@ -918,6 +918,34 @@ body.hangman-active #keyboard .key.wide{visibility:hidden}
 body.hangman-active #keyboard .key.correct{background:#4f9d78!important;color:#fff!important}
 body.hangman-active #keyboard .key.absent{background:#c8cfca!important;color:#fff!important;opacity:.55}
 @media(max-width:600px){#hangmanDrawing{height:145px}#hangmanDrawing svg{height:145px}.hangman-letter{height:39px}}
+
+/* Hangman archive calendar, matching the reference archive layout */
+.hangman-archive-panel{width:min(588px,100%);max-height:92vh;overflow:auto;padding:42px 38px 36px;border-radius:32px;background:linear-gradient(145deg,#fff 0%,#fbfdfb 100%);box-shadow:0 26px 80px rgba(18,49,39,.22)}
+.hangman-archive-panel:before{content:"";position:absolute;top:0;left:7%;width:86%;height:5px;border-radius:0 0 8px 8px;background:#5b9b7b}
+.hangman-archive-panel h2{font:700 28px 'Space Grotesk',sans-serif;letter-spacing:-.045em;margin:0 0 20px;color:#203d35}
+.hangman-archive-panel p{font:400 15px/1.8 'DM Sans',sans-serif;color:#74847d;margin:0 0 34px;max-width:490px}
+.hangman-archive-close{right:22px;top:21px;width:42px;height:42px;border-radius:50%;background:#f0f5f1;color:#527465;font-size:25px;display:grid;place-items:center}
+.hangman-archive-nav{display:flex;align-items:center;justify-content:space-between;gap:8px;width:max-content;min-width:246px;padding:9px 12px;margin:0 0 16px;border:1px solid #d9e5dd;border-radius:14px;background:#fff;color:#315b54}
+.hangman-archive-nav strong{font:700 14px 'DM Sans',sans-serif;white-space:nowrap}
+.hangman-archive-nav button{width:44px;height:44px;border:1px solid #dce8e0;border-radius:14px;background:#f1f6f2;color:#426f5b;font-size:22px;cursor:pointer}
+.hangman-archive-nav button:disabled{opacity:.25;cursor:default}
+.hangman-archive-weekdays,.hangman-archive-calendar{gap:6px}
+.hangman-archive-weekdays span{font-size:13px;padding:3px 0 4px;color:#758780}
+.hangman-archive-calendar .archive-day{aspect-ratio:1;min-height:0;border:1px solid #d9e5dd;border-radius:13px;background:#fff;color:#253b38;font:700 16px 'DM Sans',sans-serif;box-shadow:none}
+.hangman-archive-calendar .archive-day:not(:disabled):hover{background:#edf4ef;border-color:#a9c7b8}
+.hangman-archive-calendar .archive-day:disabled{opacity:.22;color:#91a09a;background:#fbfcfb}
+.hangman-archive-calendar .archive-day.played:after{background:#5b9b7b}
+@media(max-width:600px){
+ .hangman-archive-panel{padding:34px 20px 24px;border-radius:25px}
+ .hangman-archive-panel h2{font-size:25px;margin-bottom:14px}
+ .hangman-archive-panel p{font-size:13px;line-height:1.65;margin-bottom:25px}
+ .hangman-archive-close{right:14px;top:14px;width:36px;height:36px}
+ .hangman-archive-nav{min-width:220px;padding:7px 9px}
+ .hangman-archive-nav button{width:38px;height:38px}
+ .hangman-archive-weekdays,.hangman-archive-calendar{gap:4px}
+ .hangman-archive-weekdays span{font-size:11px}
+ .hangman-archive-calendar .archive-day{border-radius:9px;font-size:13px}
+}
 </style>
 </head>
 <body>
@@ -938,7 +966,7 @@ body.hangman-active #keyboard .key.absent{background:#c8cfca!important;color:#ff
 <div id="keyboard" aria-label="On-screen keyboard"></div>
 
 </main>
-<div class="modal" id="hangmanArchiveModal"><div class="panel archive-panel"><button class="close" data-close>×</button><h2>Hangman archive</h2><p>Choose a scheduled daily puzzle.</p><label for="hangmanArchiveDate">Puzzle date</label><select id="hangmanArchiveDate" style="width:100%;padding:11px;border:1px solid #dce5df;border-radius:10px;background:#fff;color:#315b54;font:600 14px 'DM Sans',sans-serif"></select><button id="hangmanArchivePlay" class="primary-btn" style="width:100%;margin-top:14px">Play selected date</button></div></div>
+<div class="modal" id="hangmanArchiveModal"><div class="panel hangman-archive-panel"><button class="close hangman-archive-close" data-close aria-label="Close archive">×</button><h2>Daily archive</h2><p id="hangmanArchiveDescription">Play any past puzzle from 1 January 2026 to today. Archive games do not affect your daily statistics.</p><div class="hangman-archive-nav"><button id="hangmanArchivePrev" aria-label="Previous month">←</button><strong id="hangmanArchiveMonth">November 2026</strong><button id="hangmanArchiveNext" aria-label="Next month">→</button></div><div class="archive-weekdays hangman-archive-weekdays"><span>Sun</span><span>Mon</span><span>Tue</span><span>Wed</span><span>Thu</span><span>Fri</span><span>Sat</span></div><div class="archive-calendar hangman-archive-calendar" id="hangmanArchiveCalendar"></div></div></div>
 <div class="modal" id="hangmanHelpModal"><div class="panel"><button class="close" data-close>×</button><h2>How to play Hangman</h2><p>Guess the hidden word one letter at a time. Choose a letter and it will appear everywhere it occurs in the word.</p><p>You get six incorrect guesses. Easy shows the category and clue, Medium shows only the category, and Hard gives no hints. Word difficulty increases with each level.</p><p>A new daily word is scheduled for each difficulty. Your progress is saved on this device.</p></div></div>
 <div class="modal" id="doubleArchiveModal"><div class="panel archive-panel"><button class="close" data-close>×</button><h2>Double Wordle archive</h2><p id="doubleArchiveDescription">Play a past Double Wordle puzzle.</p><div class="archive-nav"><button id="doubleArchivePrev" aria-label="Previous month">←</button><select id="doubleArchiveMonthSelect" aria-label="Choose archive month" style="border:1px solid #dce5df;border-radius:8px;padding:7px 9px;background:#fff;color:#315b54;font:600 13px DM Sans,sans-serif"></select><button id="doubleArchiveNext" aria-label="Next month">→</button></div><div class="archive-weekdays"><span>Sun</span><span>Mon</span><span>Tue</span><span>Wed</span><span>Thu</span><span>Fri</span><span>Sat</span></div><div class="archive-calendar" id="doubleArchiveCalendar"></div></div></div><div class="modal" id="doubleHelpModal"><div class="panel"><button class="close" data-close>×</button><h2>How Double Wordle works</h2><p>Two five-letter words are hidden at the same time. Enter one guess and it is checked against both boards. You have seven shared guesses to solve both words.</p><p>Green means correct letter and position. Yellow means the letter is in the word but in another position. Grey means it is not in that word.</p></div></div><div class="modal" id="helpModal"><div class="panel"><button class="close" data-close>×</button><h2>How to play</h2><p>Guess the hidden five-letter word in six tries.</p><div class="example"><span style="background:#6aaa64">W</span><span style="background:#858b98">O</span><span style="background:#858b98">R</span><span style="background:#858b98">D</span><span style="background:#858b98">S</span></div><p><b>Green</b> means the letter is in the word and in the correct spot.</p><div class="example"><span style="background:#858b98">P</span><span style="background:#c9a63b">L</span><span style="background:#858b98">A</span><span style="background:#858b98">N</span><span style="background:#858b98">T</span></div><p><b>Yellow</b> means the letter is in the word, but in a different spot. Grey means it is not in the word.</p><p>Use your keyboard or the on-screen keys. You get one puzzle per day.</p></div></div>
 
@@ -1023,7 +1051,28 @@ let hangmanArchive={},hangmanDate=dateKey,hangmanLevel="easy",hangmanEntry=null,
 async function loadHangmanArchive(){if(hangmanArchiveReady)return hangmanArchiveReady;hangmanArchiveReady=fetch("/hangman-archive.json").then(r=>{if(!r.ok)throw new Error("Archive unavailable");return r.json()}).then(x=>(hangmanArchive=x.puzzles||{},hangmanArchive)).catch(e=>(console.error(e),hangmanArchive={}));return hangmanArchiveReady}
 function hangmanDayIndex(){const d=new Date(hangmanDate+"T12:00:00");return Math.floor((Date.UTC(d.getFullYear(),d.getMonth(),d.getDate())-Date.UTC(2026,0,1))/86400000)}
 function startHangman(puzzleDate=dateKey,level=hangmanLevel){hangmanDate=puzzleDate;hangmanLevel=level;loadHangmanArchive().then(()=>{const daily=hangmanArchive[hangmanDate];if(!daily){say("This Hangman puzzle is not in the archive yet.");return}hangmanEntry=daily[hangmanLevel];document.body.classList.remove("home-active");document.body.classList.add("hangman-active");doubleMode=false;archiveMode=false;document.getElementById("homeScreen").style.display="none";document.querySelector("main").style.display="flex";document.querySelector("header .head-actions").style.display="flex";document.querySelector(".puzzle-meta").style.display="flex";document.getElementById("puzzleNumber").textContent="HANGMAN · "+hangmanLevel.toUpperCase();document.getElementById("dateTop").textContent=new Date(hangmanDate+"T12:00:00").toLocaleDateString("en-US",{month:"long",day:"numeric",year:"numeric"});document.getElementById("archiveBanner").style.display=hangmanDate===dateKey?"none":"flex";document.getElementById("archiveBannerText").textContent="Hangman archive · "+hangmanDate;document.getElementById("board").style.display="none";document.getElementById("doubleBoards").style.display="none";document.getElementById("hangmanGame").style.display="block";["archiveBtn","hintBtn","statsBtn"].forEach(id=>document.getElementById(id).style.display=id==="archiveBtn"?"inline-flex":"none");document.getElementById("archiveBtn").onclick=openHangmanArchive;document.getElementById("helpBtn").onclick=()=>openModal("hangmanHelpModal");document.querySelectorAll(".hangman-difficulty button").forEach(b=>{b.classList.toggle("active",b.dataset.level===hangmanLevel);b.onclick=()=>startHangman(hangmanDate,b.dataset.level)});const saved=JSON.parse(localStorage.getItem("wordlyHangman_"+hangmanDate+"_"+hangmanLevel)||"null");hangmanGuessed=saved?.guessed||[];hangmanWrong=saved?.wrong||0;hangmanDone=!!saved?.done;renderHangman();buildKeys();if(hangmanDone){document.getElementById("resultHeadline").textContent=hangmanWrong<6?"Word guessed!":"The word slipped away...";document.getElementById("resultDetail").textContent="The word was "+hangmanEntry.word+".";openModal("resultModal")}})}
-function openHangmanArchive(){loadHangmanArchive().then(()=>{const sel=document.getElementById("hangmanArchiveDate");sel.innerHTML=Object.keys(hangmanArchive).filter(d=>d<=dateKey).sort().reverse().map(d=>'<option value="'+d+'">'+new Date(d+"T12:00:00").toLocaleDateString("en-US",{month:"long",day:"numeric",year:"numeric"})+'</option>').join("");sel.value=hangmanDate;document.getElementById("hangmanArchivePlay").onclick=()=>{const d=sel.value;closeModal("hangmanArchiveModal");startHangman(d,hangmanLevel)};openModal("hangmanArchiveModal")})}
+let hangmanArchiveMonth=0;
+function renderHangmanArchive(){
+ const available=Object.keys(hangmanArchive).filter(d=>d<=dateKey).sort();
+ if(!available.length)return;
+ const firstDate=new Date(available[0]+"T12:00:00"),lastDate=new Date(available[available.length-1]+"T12:00:00"),todayDate=new Date(dateKey+"T12:00:00");
+ const minMonth=firstDate.getFullYear()*12+firstDate.getMonth(),maxMonth=Math.min(lastDate.getFullYear()*12+lastDate.getMonth(),todayDate.getFullYear()*12+todayDate.getMonth());
+ hangmanArchiveMonth=Math.max(minMonth,Math.min(maxMonth,hangmanArchiveMonth));
+ const year=Math.floor(hangmanArchiveMonth/12),month=hangmanArchiveMonth%12,first=new Date(year,month,1),days=new Date(year,month+1,0).getDate();
+ document.getElementById("hangmanArchiveMonth").textContent=first.toLocaleDateString("en-US",{month:"long",year:"numeric"});
+ document.getElementById("hangmanArchivePrev").disabled=hangmanArchiveMonth<=minMonth;
+ document.getElementById("hangmanArchiveNext").disabled=hangmanArchiveMonth>=maxMonth;
+ const cal=document.getElementById("hangmanArchiveCalendar");cal.innerHTML="";
+ for(let i=0;i<first.getDay();i++)cal.append(document.createElement("span"));
+ for(let day=1;day<=days;day++){
+  const key=year+"-"+String(month+1).padStart(2,"0")+"-"+String(day).padStart(2,"0"),btn=document.createElement("button");
+  btn.type="button";btn.className="archive-day";btn.textContent=day;
+  if(!hangmanArchive[key]||key>dateKey){btn.disabled=true}
+  else{btn.title="Play Hangman for "+key;if(localStorage.getItem("wordlyHangman_"+key+"_"+hangmanLevel))btn.classList.add("played");btn.onclick=()=>{closeModal(document.getElementById("hangmanArchiveModal"));startHangman(key,hangmanLevel)}}
+  cal.append(btn);
+ }
+}
+function openHangmanArchive(){loadHangmanArchive().then(()=>{const available=Object.keys(hangmanArchive).filter(d=>d<=dateKey).sort();if(!available.length)return;const current=new Date(hangmanDate+"T12:00:00");hangmanArchiveMonth=current.getFullYear()*12+current.getMonth();renderHangmanArchive();openModal("hangmanArchiveModal")})}
 
 function hangmanSvg(){const parts=[['<line x1="35" y1="158" x2="145" y2="158"/>'],['<line x1="65" y1="158" x2="65" y2="18"/>'],['<line x1="65" y1="18" x2="125" y2="18"/>'],['<line x1="125" y1="18" x2="125" y2="38"/>'],['<circle cx="125" cy="53" r="15"/>'],['<line x1="125" y1="68" x2="125" y2="112"/>'],['<line x1="125" y1="80" x2="105" y2="98"/><line x1="125" y1="80" x2="145" y2="98"/><line x1="125" y1="112" x2="107" y2="138"/><line x1="125" y1="112" x2="143" y2="138"/>']];return '<svg viewBox="0 0 180 170" role="img" aria-label="Hangman: '+hangmanWrong+' of 6 incorrect guesses" fill="none" stroke="#426f5b" stroke-width="4" stroke-linecap="round">'+parts.slice(0,Math.min(7,hangmanWrong+1)).map(x=>x.join("")).join("")+'</svg>'}
 function renderHangman(){document.getElementById("hangmanCategory").textContent=hangmanLevel==="hard"?"": "CATEGORY: "+hangmanEntry.category;document.getElementById("hangmanClue").textContent=hangmanLevel==="easy"?"Clue: "+hangmanEntry.clue:"";document.getElementById("hangmanDrawing").innerHTML=hangmanSvg();document.getElementById("hangmanWord").innerHTML=hangmanEntry.word.split("").map(ch=>'<span class="hangman-letter">'+(hangmanGuessed.includes(ch)?ch:"")+'</span>').join("");document.getElementById("hangmanMistakes").textContent=hangmanWrong+" / 6 incorrect guesses";document.querySelectorAll("#keyboard .key").forEach(k=>{const ch=k.textContent;if(/^[A-Z]$/.test(ch)){k.classList.toggle("correct",hangmanGuessed.includes(ch)&&hangmanEntry.word.includes(ch));k.classList.toggle("absent",hangmanGuessed.includes(ch)&&!hangmanEntry.word.includes(ch));k.disabled=hangmanDone||hangmanGuessed.includes(ch)}else{k.disabled=hangmanDone}})}
