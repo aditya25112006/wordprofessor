@@ -994,6 +994,35 @@ body.hard-mode-active #keyboard{
 body.hard-mode-active .key{background:#51404d!important;color:#fff!important}
 body.hard-mode-active .key.wide{background:#795064!important}
 
+
+/* Gentle floating motion for the three game previews on the home screen */
+@keyframes homeIconFloat{
+  0%,100%{transform:translateY(0)}
+  50%{transform:translateY(-7px)}
+}
+@keyframes homePreviewFloat{
+  0%,100%{transform:translateY(0)}
+  50%{transform:translateY(-5px)}
+}
+#homeScreen .game-card .game-icon{
+  animation:homeIconFloat 3.2s ease-in-out infinite;
+}
+#homeScreen .game-card:nth-child(2) .game-icon{animation-delay:.45s}
+#homeScreen .game-card:nth-child(3) .game-icon{animation-delay:.9s}
+#homeScreen .game-card > .mini-tiles,
+#homeScreen .game-card .mini-double,
+#homeScreen .game-card .hangman-preview{
+  animation:homePreviewFloat 3.6s ease-in-out infinite;
+}
+#homeScreen .game-card:nth-child(2) .mini-double{animation-delay:.55s}
+#homeScreen .game-card:nth-child(3) .hangman-preview{animation-delay:1.05s}
+@media(prefers-reduced-motion:reduce){
+  #homeScreen .game-card .game-icon,
+  #homeScreen .game-card > .mini-tiles,
+  #homeScreen .game-card .mini-double,
+  #homeScreen .game-card .hangman-preview{animation:none!important}
+}
+
 </style>
 </head>
 <body>
