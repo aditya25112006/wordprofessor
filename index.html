@@ -1023,6 +1023,42 @@ body.hard-mode-active .key.wide{background:#795064!important}
   #homeScreen .game-card .hangman-preview{animation:none!important}
 }
 
+
+/* Refined Double Wordle layout: balanced, larger tiles on phones */
+@media(max-width:600px){
+  #doubleBoards{
+    width:100%!important;
+    max-width:560px!important;
+    max-height:calc(100dvh - 350px)!important;
+    overflow-y:auto!important;
+    display:grid!important;
+    grid-template-columns:repeat(2,minmax(0,1fr))!important;
+    align-items:start!important;
+    gap:clamp(10px,3vw,16px)!important;
+    margin:14px auto 16px!important;
+    padding:0 2px 8px!important;
+  }
+  #doubleBoards .double-board-wrap{width:100%!important;min-width:0!important}
+  #doubleBoards .double-board-title{
+    font-size:clamp(10px,2.8vw,12px)!important;
+    letter-spacing:.12em!important;
+    margin-bottom:9px!important;
+  }
+  #doubleBoards .double-grid{
+    grid-template-columns:repeat(5,minmax(0,1fr))!important;
+    grid-template-rows:repeat(7,clamp(42px,11vw,50px))!important;
+    gap:clamp(4px,1.2vw,6px)!important;
+  }
+  #doubleBoards .double-grid .tile{
+    width:100%!important;
+    height:100%!important;
+    min-height:0!important;
+    aspect-ratio:auto!important;
+    border-width:1.7px!important;
+    border-radius:8px!important;
+    font-size:clamp(16px,4.5vw,21px)!important;
+  }
+}
 </style>
 </head>
 <body>
